@@ -12,6 +12,7 @@
     "reviews": "Reviews",
     "faq": "FAQ",
     "map": "Map",
+    "transport": "Getting there",
     "backToHome": "Back to Home"
   },
   "common": {
@@ -133,6 +134,83 @@
     "subtitle": "Stop 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Open in Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "transport": {
+    "title": "How to get to The Fingers",
+    "subtitle": "Every way to reach the sculpture on Brava Beach, Punta del Este.",
+    "note": "The sculpture is at Parada 1 of Brava Beach, on Av. Eduardo Víctor Haedo, about 15 minutes from downtown.",
+    "modes": [
+      {
+        "icon": "✈️",
+        "title": "By plane",
+        "summary": "The nearest airport is Punta del Este (PDP), with seasonal flights. The main international hub is Carrasco (MVD) in Montevideo, about 140 km away.",
+        "steps": [
+          "Fly into Montevideo (MVD) or directly to Punta del Este (PDP) in season.",
+          "From Carrasco, take a transfer, remise or bus to Punta del Este (1.5–2 h).",
+          "From downtown, The Fingers are 15 min by car, taxi or city bus."
+        ]
+      },
+      {
+        "icon": "🚆",
+        "title": "By train",
+        "summary": "Uruguay has no regular passenger train service to Punta del Este. The recommended alternative is the long-distance bus.",
+        "steps": [
+          "There is no passenger train line between Montevideo and Punta del Este.",
+          "Your best bet is the long-distance bus (Cot, Copsa, Turil).",
+          "In season there are tourist train rides inland in Maldonado, but not to the beach."
+        ]
+      },
+      {
+        "icon": "🚌",
+        "title": "Long-distance bus",
+        "summary": "Direct buses leave Terminal Tres Cruces in Montevideo for the Punta del Este Terminal (1.5–2 h) with several companies.",
+        "steps": [
+          "Buy your ticket from Cot, Copsa or Turil at Terminal Tres Cruces.",
+          "Get off at the Punta del Este Terminal, in the city center.",
+          "Take a city bus, taxi or walk 15–20 min to Parada 1 Brava."
+        ]
+      },
+      {
+        "icon": "🚏",
+        "title": "Urban public transport",
+        "summary": "CODESA city lines connect downtown and the peninsula with Brava Beach. Ask to get off at Parada 1.",
+        "steps": [
+          "Use the urban buses (CODESA) from downtown or the peninsula.",
+          "Get off at Parada 1 of Brava Beach, on Av. Eduardo Víctor Haedo.",
+          "The sculpture is steps from the stop, on the coastal promenade."
+        ]
+      },
+      {
+        "icon": "🚕",
+        "title": "Taxi, remise and apps",
+        "summary": "Remises, metered taxis and apps like Uber or DiDi operate in the city. From downtown it takes about 10–15 min.",
+        "steps": [
+          "Order a remise at your hotel or use Uber / DiDi from your phone.",
+          "Tell the driver: 'The Fingers, Parada 1 Brava'.",
+          "The ride is short and direct along Av. Eduardo Víctor Haedo."
+        ]
+      },
+      {
+        "icon": "🚲",
+        "title": "By bicycle",
+        "summary": "Punta del Este has bike lanes along the coast. From downtown it is a flat, pleasant 15-minute ride.",
+        "steps": [
+          "Rent a bike downtown or use the city's bike stations.",
+          "Follow the coastal bike lane toward Brava Beach.",
+          "Leave the bike at the meters on Av. Haedo and walk to the sand."
+        ]
+      },
+      {
+        "icon": "🚗",
+        "title": "By car (self-drive)",
+        "summary": "From Montevideo take the Interbalnearia Route (IB) to Punta del Este and then Av. Eduardo Víctor Haedo.",
+        "steps": [
+          "Drive the Interbalnearia Route (IB) about 120 km to the city.",
+          "Follow to Brava Beach via Av. Eduardo Víctor Haedo.",
+          "Park in the blue zone or in the beach lots (paid in season)."
+        ]
+      }
+    ]
   },
   "footer": {
     "siteName": "The Fingers of Punta del Este",

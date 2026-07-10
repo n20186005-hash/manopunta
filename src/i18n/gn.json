@@ -12,6 +12,7 @@
     "reviews": "Jeikuaa",
     "faq": "Porandu",
     "map": "Mapa",
+    "transport": "Mba'éicha llegar",
     "backToHome": "Eju ñepyrũ"
   },
   "common": {
@@ -133,6 +134,83 @@
     "subtitle": "Stop 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Eipe'a Google Maps-pe",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "transport": {
+    "title": "Mba'éicha llegar Los Dedos-pe",
+    "subtitle": "Opa mba'e oipuru va'ekue oguejy hag̃ua escultura Brava playa-pe, Punta del Este.",
+    "note": "Escultura oĩ Parada 1 Brava playa-pe, Av. Eduardo Víctor Haedo ári, centro-gui 15 minutope.",
+    "modes": [
+      {
+        "icon": "✈️",
+        "title": "Avión-pe",
+        "summary": "Aeropuerto cercano va Punta del Este (PDP), temporada aja oĩ vuelo. Hub internacional tuichavéva ha'e Carrasco (MVD), Montevideo-pe, 140 km rupi.",
+        "steps": [
+          "Eravi Montevideo (MVD) térã directo Punta del Este (PDP) temporada aja.",
+          "Carrasco-gui, eipuru transfer, remise térã ómnibus Punta del Este-pe (1,5–2 h).",
+          "Centro-gui, Los Dedos oĩ 15 min auto, taxi térã ómnibus ciudad rupi."
+        ]
+      },
+      {
+        "icon": "🚆",
+        "title": "Tren-pe",
+        "summary": "Uruguay ndoguerekói tren servicio regular pasajero Punta del Este-pe. Recomendado alternativa ha'e ómnibus larga distancia.",
+        "steps": [
+          "Ndoguerekói tren línea pasajero Montevideo–Punta del Este.",
+          "Iporãvéva ha'e ómnibus larga distancia (Cot, Copsa, Turil).",
+          "Temporada aja oĩ tren turístico paseo Maldonado interior-pe, ha ndogueyhína playa-pe."
+        ]
+      },
+      {
+        "icon": "🚌",
+        "title": "Ómnibus larga distancia",
+        "summary": "Terminal Tres Cruces Montevideo-gui ohasa ómnibus directo Punta del Este Terminal-pe (1,5–2 h) empresa heta ndive.",
+        "steps": [
+          "Ejogua paseaje Cot, Copsa térã Turil Terminal Tres Cruces-pe.",
+          "Eguete Punta del Este Terminal-pe, ciudad centro-pe.",
+          "Eipuru ómnibus ciudad, taxi térã eguata 15–20 min Parada 1 Brava-pe."
+        ]
+      },
+      {
+        "icon": "🚏",
+        "title": "Transporte público ciudad",
+        "summary": "CODESA línea ciudad ojoluha centro ha península íme Brava playa. Eñe'ẽ eguete hag̃ua Parada 1-pe.",
+        "steps": [
+          "Eipuru ómnibus ciudad (CODESA) centro térã península-gui.",
+          "Eguete Parada 1 Brava playa-pe, Av. Eduardo Víctor Haedo ári.",
+          "Escultura oĩ parada cercano, paseo costanera ári."
+        ]
+      },
+      {
+        "icon": "🚕",
+        "title": "Taxi, remise ha app",
+        "summary": "Remises, taxi medidor ha app opere ha ciudad-pe, oĩ Uber ha DiDi. Centro-gui 10–15 min.",
+        "steps": [
+          "Ejerure remise hotel-pe térã eipuru Uber / DiDi móvil-gui.",
+          "Eñe'ẽ destino: 'Los Dedos, Parada 1 Brava'.",
+          "Viaje michĩ ha directo Av. Eduardo Víctor Haedo rupi."
+        ]
+      },
+      {
+        "icon": "🚲",
+        "title": "Bicicleta-pe",
+        "summary": "Punta del Este oguereko ciclovía costa mente. Centro-gui 15 min paseo plano ha porã.",
+        "steps": [
+          "Ealquila bicicleta centro-pe térã eipuru ciudad estación.",
+          "Eguĩ ciclovía costa rupi Brava playa-pe.",
+          "Ejey bicicleta Av. Haedo parquímetro-pe ha eguata arena-pe."
+        ]
+      },
+      {
+        "icon": "🚗",
+        "title": "Auto-pe (nde iporãva)",
+        "summary": "Montevideo-gui eipuru Ruta Interbalnearia (IB) Punta del Este-pe ha upéi Av. Eduardo Víctor Haedo.",
+        "steps": [
+          "Emano Ruta Interbalnearia (IB) 120 km rupi ciudad-pe.",
+          "Eguĩ Brava playa Av. Eduardo Víctor Haedo rupi.",
+          "Ejey coche zona azul térã playa estacionamiento (temporada aja pago)."
+        ]
+      }
+    ]
   },
   "footer": {
     "siteName": "Punta del Este Roga",

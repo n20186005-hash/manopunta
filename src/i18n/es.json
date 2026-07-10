@@ -12,6 +12,7 @@
     "reviews": "Opiniones",
     "faq": "FAQ",
     "map": "Mapa",
+    "transport": "Cómo llegar",
     "backToHome": "Volver al inicio"
   },
   "common": {
@@ -133,6 +134,83 @@
     "subtitle": "Parada 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Abrir en Google Maps",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "transport": {
+    "title": "Cómo llegar a Los Dedos",
+    "subtitle": "Todas las formas de llegar a la escultura en la Playa Brava, Punta del Este.",
+    "note": "La escultura está en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo, a unos 15 minutos del centro.",
+    "modes": [
+      {
+        "icon": "✈️",
+        "title": "En avión",
+        "summary": "El aeropuerto más cercano es el de Punta del Este (PDP), con vuelos estacionales. El principal hub internacional es Carrasco (MVD), en Montevideo, a unos 140 km.",
+        "steps": [
+          "Vuela a Montevideo (MVD) o directo a Punta del Este (PDP) en temporada.",
+          "Desde Carrasco, toma un transfer, remise o bus a Punta del Este (1,5–2 h).",
+          "Desde el centro, Los Dedos están a 15 min en auto, taxi o bus urbano."
+        ]
+      },
+      {
+        "icon": "🚆",
+        "title": "En tren",
+        "summary": "Uruguay no tiene servicio regular de pasajeros a Punta del Este. La alternativa recomendada es el autobús de larga distancia.",
+        "steps": [
+          "No existe línea de tren de pasajeros Montevideo–Punta del Este.",
+          "La mejor opción es el autobús de larga distancia (Cot, Copsa, Turil).",
+          "En temporada hay paseos en tren turístico en el interior de Maldonado, pero no hasta la playa."
+        ]
+      },
+      {
+        "icon": "🚌",
+        "title": "Autobús de larga distancia",
+        "summary": "Desde la Terminal Tres Cruces de Montevideo salen buses directos a la Terminal de Punta del Este (1,5–2 h) con varias empresas.",
+        "steps": [
+          "Compra tu pasaje en Cot, Copsa o Turil en la Terminal Tres Cruces.",
+          "Baja en la Terminal de Punta del Este, en el centro de la ciudad.",
+          "Toma un bus urbano, taxi o camina 15–20 min hasta la Parada 1 Brava."
+        ]
+      },
+      {
+        "icon": "🚏",
+        "title": "Transporte público urbano",
+        "summary": "Las líneas urbanas de CODESA conectan el centro y la península con la Playa Brava. Pide bajar en Parada 1.",
+        "steps": [
+          "Usa los ómnibus urbanos (CODESA) desde el centro o la península.",
+          "Baja en Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo.",
+          "La escultura está a pasos de la parada, sobre el paseo costero."
+        ]
+      },
+      {
+        "icon": "🚕",
+        "title": "Taxi, remise y apps",
+        "summary": "Remises, taxímetro y apps como Uber o DiDi operan en la ciudad. Desde el centro tarda unos 10–15 min.",
+        "steps": [
+          "Pide un remise en tu hotel o usa Uber / DiDi desde el móvil.",
+          "Indica destino: 'Los Dedos, Parada 1 Brava'.",
+          "El trayecto es corto y directo por la Av. Eduardo Víctor Haedo."
+        ]
+      },
+      {
+        "icon": "🚲",
+        "title": "En bicicleta",
+        "summary": "Punta del Este tiene ciclovías a lo largo de la costa. Desde el centro es un paseo llano y agradable de unos 15 min.",
+        "steps": [
+          "Alquila una bici en el centro o usa las estaciones de la ciudad.",
+          "Sigue la ciclovía costera hacia la Playa Brava.",
+          "Deja la bici en los parquímetros de la Av. Haedo y camina a la arena."
+        ]
+      },
+      {
+        "icon": "🚗",
+        "title": "En auto (por tu cuenta)",
+        "summary": "Desde Montevideo toma la Ruta Interbalnearia (IB) hasta Punta del Este y luego la Av. Eduardo Víctor Haedo.",
+        "steps": [
+          "Conduce por la Ruta Interbalnearia (IB) unos 120 km hasta la ciudad.",
+          "Sigue a la Playa Brava por la Av. Eduardo Víctor Haedo.",
+          "Estaciona en zona azul o en los estacionamientos de playa (de pago en temporada)."
+        ]
+      }
+    ]
   },
   "footer": {
     "siteName": "Los Dedos de Punta del Este",

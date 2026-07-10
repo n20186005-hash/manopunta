@@ -1,0 +1,44 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const t = messages.transport;
+const modes = t.modes ?? [];
+---
+
+<section id="transport" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-5xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{t.title}</h2>
+    <p class="text-center text-lg mb-10" style="color: var(--text-secondary);">{t.subtitle}</p>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-5 sm:gap-6">
+      {modes.map((mode) => (
+        <div class="bg-white/5 p-5 sm:p-6 rounded-2xl border border-white/10 shadow-sm flex flex-col">
+          <div class="flex items-start gap-3 sm:gap-4 mb-3 sm:mb-4">
+            <div class="shrink-0 w-11 h-11 sm:w-12 sm:h-12 rounded-xl flex items-center justify-center text-xl sm:text-2xl" style="background: var(--accent); color: white;" aria-hidden="true">
+              {mode.icon}
+            </div>
+            <div>
+              <h3 class="font-display text-lg sm:text-xl font-semibold leading-tight" style="color: var(--text-primary);">{mode.title}</h3>
+              <p class="text-sm leading-relaxed mt-1" style="color: var(--text-secondary);">{mode.summary}</p>
+            </div>
+          </div>
+
+          {mode.steps?.length > 0 && (
+            <ul class="space-y-2 mt-auto pl-1">
+              {mode.steps.map((step) => (
+                <li class="flex items-start gap-2 text-sm leading-relaxed" style="color: var(--text-secondary);">
+                  <span class="mt-1.5 w-1.5 h-1.5 rounded-full shrink-0" style="background: var(--accent);" aria-hidden="true"></span>
+                  <span>{step}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      ))}
+    </div>
+
+    {t.note && (
+      <p class="mt-8 text-center text-sm" style="color: var(--text-secondary);">{t.note}</p>
+    )}
+  </div>
+</section>
