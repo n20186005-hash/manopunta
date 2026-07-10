@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "title": "Punta del Este Roga | Uruguay Ta'anga",
+    "description": "Punta del Este Roga (La Mano) mboyerovia: jeréia, hesa'ỹ, ñe'ẽnga, ta'anga, jeikuaa ha mba'éichapa ogusteta Playa Brava-pe, Uruguay."
+  },
+  "header": {
+    "siteName": "Punta del Este Roga",
+    "home": "Ñepyrũ",
+    "visit": "Jeguata",
+    "history": "Jeréia",
+    "gallery": "Ta'anga aty",
+    "reviews": "Jeikuaa",
+    "faq": "Porandu",
+    "map": "Mapa",
+    "backToHome": "Eju ñepyrũ"
+  },
+  "common": {
+    "changeLanguage": "Emoambue ñe'ẽ",
+    "toggleTheme": "Emoambue téma"
+  },
+  "hero": {
+    "title": "Punta del Este Roga",
+    "subtitle": "Roga tuicha oúva yvy guýpe Playa Brava-gui, Uruguay rembiapore ipyahuvéva apytépe.",
+    "rating": "4.5(28.220)",
+    "reviewCount": "Jeikuaa 28.220",
+    "hours": "Arapýpe 24 aravo",
+    "openMaps": "Ehecha tenda",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "infoBar": {
+    "address": "Tenda",
+    "addressValue": "Av. Eduardo Víctor Haedo, Playa Brava, Punta del Este, Uruguay",
+    "phone": "Pumbyry",
+    "phoneValue": "+598 93 324 497",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "23R7+R3 Punta del Este",
+    "hours": "Aravo",
+    "hoursValue": "24 aravo / ára paite"
+  },
+  "intro": {
+    "title": "Eikuaa Punta del Este Roga",
+    "description": "Punta del Este Roga — ojehero avei La Mano térã Hombre emergiendo a la vida — ha'e uruguy apu'a orekóva roga kuimba'e oúva yvy guýpe Playa Brava-pe. Mario Irarrázabal, Chile mba'apohára, ojapo 1982-pe, tembiporu jeheka guasu aja. Ko'ágã ha'e Punta del Este ta'anga tee ha Uruguay ta'anga oñemombe'uvéva apytépe.",
+    "visitGuide": {
+      "title": "Jeguata reko",
+      "items": [
+        "Arapýpe 24 aravo, ára pukukue tuichakue, visita oĩma oĩ'ỹre viru.",
+        "Oĩva Stop 1 Playa Brava, Av. Eduardo Víctor Haedo, Punta del Este.",
+        "Ta'anga porãve kuarahy oikévo térã oityvo; kuarahy oikévo iporãve.",
+        "Ogusteta porã pé, bicicleta térã ómnibus rupive centro-gui (15 aravo rasa)."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Mba'evai",
+      "items": [
+        "Roga tuicha kuimba'e oúva yvy guýpe",
+        "Mario Irarrázabal, Chile mba'apohára, ojapo 1982-pe",
+        "Uruguay rembiapore ojehechakuaavéva apytépe",
+        "Tembiporu pytyvõrã, yvytúre, Playa Brava-pe"
+      ]
+    }
+  },
+  "officialManagement": {
+    "title": "Roga ñemombe'u",
+    "text": "Punta del Este Roga ha'e tembiporu Intendencia de Maldonado oñangarekóva, Maldonado tetãvore oĩhápe Punta del Este. Uruguay visita hetavéva apytépe, ary pukukue huguái tapicha oguahẽ, ha ha'e Latinamérica tembiaporu pyahu ta'anga."
+  },
+  "knowledge": {
+    "title": "Roga jeréia, hesa'ỹ ha ñe'ẽnga",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Jeipuru (1982)",
+        "content": "1982-pe, Punta del Este ojapo tembiporu yvy ári jeheka guasu. Chile mba'apohára Mario Irarrázabal ome'ẽ peteĩ mba'e ymaite: roga tuicha yvy guýpe oĩva. Ojapo hormigón rupive, ha ko tembiporu oñembojehe'a yvy ha paran reheve. Upe ára guive ha'e peteĩ mba'e guasu ha opyta ko'ágã peve."
+      },
+      {
+        "id": "meaning",
+        "title": "Mba'épa he'isépa?",
+        "content": "Irarrázabal he'i roga ha'e kuimba'e ayvu ha aislamiento naturaleza ha mba'e tuichakue rendaguére. Roga yvy guýpe, yvága renonde, he'ise pytũ ha kuimba'e vai paraíso rendaguére. Mba'apohára ojapo avei ambue roga yvy guýpe opaite tendápe, ha ko'ãva ha'e ichupe ta'anga."
+      },
+      {
+        "id": "legend",
+        "title": "Ñe'ẽnga",
+        "content": "Hesa'ỹ okuére, oĩ peteĩ ñe'ẽnga: roga ha'e mbaporára y rembói oĩva yvy guýpe, ojapo po yvága gotyo oiko voípe. Ambue kuéra he'i ha'e tenda paran ogueraháva kuimba'e. Mba'e térã ñe'ẽnga, roga ombohováiva ohecháva."
+      },
+      {
+        "id": "significance",
+        "title": "Punta del Este ta'anga",
+        "content": "Ary pukukue rupive, Punta del Este Roga ha'e táva ta'anga tee ha visitante opaite jeguata-pe. Ojehecha postal, kuatiañe'ẽ ha turismo campaña, ha oĩva Playa Brava poguýpe, óga ha'yguasu rupive."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Ta'anga aty",
+    "subtitle": "Punta del Este Roga ha Playa Brava tuichakue",
+    "photoAlt": "Punta del Este Roga Playa Brava-pe",
+    "viewAll": "Ehecha Google Maps-pe",
+    "showMore": "Ehecha ta'angave",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "reviews": {
+    "title": "Visitante jeikuaa",
+    "declaration": "Visitante jeikuaa oĩ Google Maps-pe (enlace externo).",
+    "moreReviews": "Ehecha Google Maps-pe",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "items": [
+      {
+        "name": "Carlos R.",
+        "date": "Marzo 2026",
+        "rating": 5,
+        "text": "Punta del Este-pe ipyahuvéva. Kuarahy oikévo oguste, ha roga ñandeño. Iporã ha 24 aravo, Playa Brava-pe."
+      },
+      {
+        "name": "Sofía M.",
+        "date": "Febrero 2026",
+        "rating": 5,
+        "text": "Tembiporu ipyahuvéva ha porã. Ñane guía oñemombe'u jeréia ha iporãve. Centro-gui pé ogusteta."
+      },
+      {
+        "name": "Diego G.",
+        "date": "Enero 2026",
+        "rating": 4,
+        "text": "Ta'anga porã ha pya'e jeguata. Kuarahy mbyteve oĩ tapicha heta, upéicha árapytu'ũme eguahẽ. Brava ha'yguasu iporã."
+      },
+      {
+        "name": "Valeria P.",
+        "date": "Diciembre 2025",
+        "rating": 5,
+        "text": "Rogue ñande kuatia 3 jey: ára, kuarahy oity, pyhare. Oĩva mbovyve. Táva ta'anga ha iviru'ỹ."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Mba'éichapa ogusteta",
+    "subtitle": "Stop 1 Brava, Punta del Este, Maldonado, Uruguay",
+    "openMaps": "Eipe'a Google Maps-pe",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "footer": {
+    "siteName": "Punta del Este Roga",
+    "rights": "© 2026 Punta del Este Roga — Jeheka peteĩha. Opaite derecho oñongatu.",
+    "privacy": "Privacidad reko",
+    "terms": "Eipuru reko",
+    "cookies": "Cookie",
+    "officialResourcesTitle": "Oficial ha referencia",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "officialLinksList": [
+      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/" },
+      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/" },
+      { "name": "Intendencia de Maldonado", "url": "https://www.maldonado.gub.uy/" },
+      { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
+      { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
+    ],
+    "disclaimer": "Ko ha'e peteĩ jeheka peteĩha, ndaha'éi mba'e oficiable. Ndaroikuaa gobierno térã institución oficial ndive."
+  },
+  "privacy": {
+    "title": "Privacidad reko",
+    "lastUpdated": "Ipahúma: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Marandu japo",
+        "content": "Ndarojapo activo rupive tapicha marandu ojehechakuaáva. Eme'ẽva formulario térã e-mail rupive ha'e confidencial."
+      },
+      {
+        "heading": "2. Eipuru marandu",
+        "content": "Marandu japóva oipuru servicio oñeme'ẽ, oñangareko ha ombohovy, ha ñaneñe'ẽ. Ndajakogua térã ñaime tercero-pe marketing."
+      },
+      {
+        "heading": "3. Cookie ha seguimiento",
+        "content": "Jajapo cookie ha tecnología ojojogua seguimiento. Nde navegador ikatu oiko'ã cookie opaite térã oñemombe'u cookie oĩrõ."
+      },
+      {
+        "heading": "4. Datos seguridad",
+        "content": "Nde datos seguridad ja'ekatu. Jajapo comercial medida dato oñangareko, interactúa Internet rupive ndaha'éi 100% seguido."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Eipuru reko",
+    "lastUpdated": "Ipahúma: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Eipuru",
+        "content": "Eipuru rupive, eñe'ẽ ko reko. Eikovia'ỹramo, ndereko ogusteta."
+      },
+      {
+        "heading": "2. Servicio eipuru",
+        "content": "Ko web ha'e jeheka peteĩha, ndaha'éi mba'e oficiable. Marandu oĩ información general. Eipuru iviru'ỹ ha ley."
+      },
+      {
+        "heading": "3. Propiedad intelectual",
+        "content": "Opaite contenido, texto, ta'anga ha logo, ha'e dueño web, ambue oĩrõ. Ndaha'éi autorizado uso, reproducción térã distribución."
+      },
+      {
+        "heading": "4. Responsabilidad límite",
+        "content": "Ndajahayhu daño directo, indirecto, incidental térã consecuente uso rupive web térã información."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie",
+    "description": "Eñangareko cookie.",
+    "essential": {
+      "title": "Cookie necesario",
+      "description": "Web funcionamiento necesario.",
+      "badge": "Siempre activo"
+    },
+    "analytics": {
+      "title": "Cookie analítica",
+      "description": "Oipytyvõ visitante ojojogua."
+    },
+    "marketing": {
+      "title": "Cookie marketing",
+      "description": "Oipuru visitante seguimiento."
+    },
+    "save": "Eñongatu",
+    "saved": "¡Eñongatu!"
+  },
+  "faq": {
+    "title": "Porandu oĩporãva",
+    "subtitle": "Marandu porã infraestructura, jeréia ha jeguata rehegua Punta del Este Roga-pe g̃uarã.",
+    "amenities": {
+      "title": "Tenda oĩva",
+      "items": [
+        { "icon": "🅿️", "label": "Estacionamiento", "value": "Zona azul ha playa" },
+        { "icon": "🚻", "label": "Baño", "value": "Chiringuito-pe" },
+        { "icon": "🔌", "label": "Nafta / Carga", "value": "Av. Haedo-pe" },
+        { "icon": "♿", "label": "Accesibilidad", "value": "Playa ha paseo" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transporte ha infraestructura",
+        "items": [
+          {
+            "q": "¿Oĩ estacionamiento tenda-pe? ¿Mba'épa precio?",
+            "a": "Roga oĩva Avenida Eduardo Víctor Haedo, Stop 1 Playa Brava-pe. Ndoroikuaa estacionamiento mbyky roga ypýpe, hána avenida reheve oĩ estacionamiento zona azul (pago, libre temporada'yguire) ha playa estacionamiento verano-pe. Temporada tuichakue (Diciembre guive Febrero peve) oĩheta tapicha; jajerurhe transporte, bicicleta térã pé centro-gui (15 aravo rasa)."
+          },
+          {
+            "q": "¿Ikatu silla de ruedas térã coche de bebé?",
+            "a": "Hup, ikatu. Roga oĩva yvy tuicha paseo ykére, ha'e flat ha accesible. Yvy mbyky omboykeve silla de ruedas térã coche de bebé, hána paseo ha roga ypégui ohecha porã. Ndaroikuaa rampa especial roga yvága gotyo, upéicha ejuguata yvy tuichavére."
+          },
+          {
+            "q": "¿Oĩ baño térã comida tenda-pe?",
+            "a": "Ndaroikuaa baño público libre roga ypýpe, hána metros rasa Stop 1 chiringuito ha balneario oikuave'ẽ baño, ducha ha comida verano-pe. Av. Haedo reheve oĩ kiosco ha restaurante. Temporada'yguire (otoño ha invierno) oĩve mbyky, upéicha egueru y."
+          }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "Jeréia ha ciencia",
+        "items": [
+          {
+            "q": "¿Mba'épa he'ise roga? ¿Mba'érepa yvy guýpe?",
+            "a": "Ha'e land art Mario Irarrázabal, Chile mba'apohára (1982). Ojapo roga tuicha yvy guýpe kuimba'e ayvu naturaleza rendaguére. Ndaha'éi religioso térã conmemorativo; iporãvéva ha'e simple ha inesperado. Yvy guýpe oĩva ha'e tembiporu peve, ha oñe'ẽ yvy ha para reheve."
+          },
+          {
+            "q": "¿Roga oguata térã oĩ daño paran guive?",
+            "a": "Ndaikatu guata. Oĩva acero ha hormigón 1982 guive. Ary pukukue, sal ha ára oikotevẽ mantenimiento Intendencia de Maldonado-gui, hána roga opyta ko'ágã peve. Ndaikatu flotante térã móvil."
+          }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planificación ha entrada",
+        "items": [
+          {
+            "q": "¿Oĩ entrada pago Roga verã?",
+            "a": "Ndaikatu. Ha'e tembiporu público libre, 24 aravo, ára pukukue, iviru'ỹ. Ndaroikuaa boletería."
+          },
+          {
+            "q": "¿Mba'éichapa aravo jeheka?",
+            "a": "Jeheka 20 ha 40 aravo rasa: ejuguata, eha'anga roga ojojáva ha eñeñe'ẽ placa. Ejaguata Playa Brava térã eĩ kiosco-pe, ikatu mañana térã tarde tuichakue."
+          },
+          {
+            "q": "¿Ikaturõ ára vai?",
+            "a": "Hup, ikatu oĩva yvytúre. Playa Brava ha'e ha'yguasu tuichakue, upéicha ára vai-pe epyta paseo-pe. Ama oĩva'erã, hána kuarahy porãva oĩva'erã ta'anga."
+          }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Mba'épa ehecha cerca",
+        "items": [
+          {
+            "q": "Jeheka rire, ¿mba'épa tenda oĩva jerurhe?",
+            "a": "Aravo rasa oĩ Faro de Punta del Este, Puerto de Punta del Este ha Casapueblo (Carlos Páez Vilaró mba'apohára museo). Península ha Calle 20 restaurante oipytyvõ ára iporãva Roga ykére."
+          }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Eikuaave Punta del Este",
+    "attractionsTitle": "Tenda oĩva",
+    "toursTitle": "Jeguata ha actividad",
+    "attractions": [
+      { "name": "Casapueblo — Museo Taller", "url": "https://casapueblo.com.uy/" },
+      { "name": "Punta del Este Faro", "url": "https://www.gub.uy/ministerio-turismo/" },
+      { "name": "Puerto de Punta del Este", "url": "https://www.maldonado.gub.uy/" }
+    ],
+    "tours": [
+      { "name": "Ciudad ha playa jeguata", "url": "https://uruguaynatural.com/" },
+      { "name": "Kuarahy oity catamarán", "url": "https://uruguaynatural.com/" },
+      { "name": "Isla de Lobos jeheka", "url": "https://www.gub.uy/ministerio-turismo/" }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Hero from '../../components/Hero.astro';
+import Intro from '../../components/Intro.astro';
+import InfoSection from '../../components/InfoSection.astro';
+import Gallery from '../../components/Gallery.astro';
+import Reviews from '../../components/Reviews.astro';
+import MapEmbed from '../../components/MapEmbed.astro';
+import FAQ from '../../components/FAQ.astro';
+import InfoBar from '../../components/InfoBar.astro';
+import { getI18n, languagesList } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return languagesList.map((lang) => ({ params: { lang } }));
+}
+
+const { messages, lang } = getI18n(Astro.url);
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: messages.faq.categories
+    .flatMap((c: any) => c.items)
+    .map((it: any) => ({
+      '@type': 'Question',
+      name: it.q,
+      acceptedAnswer: { '@type': 'Answer', text: it.a },
+    })),
+};
+
+const attractionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'TouristAttraction',
+  name: messages.hero.title,
+  description: messages.meta.description,
+  image: 'https://manopunta.com/gallery/punta-del-este-9.jpg',
+  url: `https://manopunta.com/${lang}`,
+  telephone: '+598 93 324 497',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Av. Eduardo Víctor Haedo, Playa Brava',
+    addressLocality: 'Punta del Este',
+    addressRegion: 'Maldonado',
+    addressCountry: 'UY',
+  },
+  geo: {
+    '@type': 'GeoCoordinates',
+    latitude: -34.9615,
+    longitude: -54.9492,
+  },
+  openingHoursSpecification: {
+    '@type': 'OpeningHoursSpecification',
+    dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],
+    opens: '00:00',
+    closes: '23:59',
+  },
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: '4.5',
+    reviewCount: '28220',
+  },
+};
+---
+
+<BaseLayout title={messages.meta.title} description={messages.meta.description} path="">
+  <Hero />
+  <InfoBar />
+  <Intro />
+  <InfoSection />
+  <Gallery />
+  <Reviews />
+  <MapEmbed />
+  <FAQ />
+
+  <script type="application/ld+json" set:html={JSON.stringify(attractionSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} is:inline />
+</BaseLayout>

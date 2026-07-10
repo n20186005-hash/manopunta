@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "title": "Los Dedos de Punta del Este | La Mano, Uruguay",
+    "description": "Guía completa de Los Dedos de Punta del Este (La Mano): historia, significado, leyenda, fotos, opiniones y cómo llegar en la Playa Brava, Uruguay."
+  },
+  "header": {
+    "siteName": "Los Dedos de Punta del Este",
+    "home": "Inicio",
+    "visit": "Visita",
+    "history": "Historia",
+    "gallery": "Galería",
+    "reviews": "Opiniones",
+    "faq": "FAQ",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "common": {
+    "changeLanguage": "Cambiar idioma",
+    "toggleTheme": "Cambiar tema"
+  },
+  "hero": {
+    "title": "Los Dedos de Punta del Este",
+    "subtitle": "Una mano monumental que emerge de la arena de la Playa Brava, uno de los símbolos más icónicos de Uruguay.",
+    "rating": "4.5(28.220)",
+    "reviewCount": "28.220 opiniones",
+    "hours": "Abierto las 24 horas",
+    "openMaps": "Ver ubicación",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "infoBar": {
+    "address": "Dirección",
+    "addressValue": "Av. Eduardo Víctor Haedo, Playa Brava, Punta del Este, Uruguay",
+    "phone": "Teléfono",
+    "phoneValue": "+598 93 324 497",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "23R7+R3 Punta del Este",
+    "hours": "Horario",
+    "hoursValue": "24 horas / todos los días"
+  },
+  "intro": {
+    "title": "Descubre Los Dedos de Punta del Este",
+    "description": "Los Dedos —también conocidos como La Mano u Hombre emergiendo a la vida— es una escultura de hormigón con cinco dedos humanos que brotan de la arena de la Playa Brava. Creada por el artista chileno Mario Irarrázabal en 1982 durante un encuentro internacional de escultura, se ha convertido en el símbolo indiscutible de Punta del Este y uno de los monumentos más fotografiados de Uruguay.",
+    "visitGuide": {
+      "title": "Guía de visita",
+      "items": [
+        "Abierto las 24 horas, todos los días de la semana — visítalo cuando quieras, con entrada gratuita.",
+        "Ubicado en el Parada 1 de la Playa Brava, Av. Eduardo Víctor Haedo, Punta del Este.",
+        "La mejor luz para fotografiar es al amanecer o al atardecer; el amanecer es espectacular.",
+        "Fácil de llegar a pie, en bicicleta o en autobús desde el centro (unos 15 minutos)."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Cinco dedos de una mano gigante que emergen de la arena",
+        "Diseñada por el escultor chileno Mario Irarrázabal en 1982",
+        "Uno de los símbolos más reconocibles de Uruguay",
+        "Obra pública al aire libre y gratuita en la Playa Brava"
+      ]
+    }
+  },
+  "officialManagement": {
+    "title": "Acerca de la escultura",
+    "text": "Los Dedos es una obra pública mantenida por la Intendencia de Maldonado, el gobierno departamental de Maldonado donde se encuentra Punta del Este. Como uno de los monumentos más visitados de Uruguay, recibe cientos de miles de visitantes cada año y es un hito del arte público latinoamericano moderno."
+  },
+  "knowledge": {
+    "title": "Historia, significado y leyenda de Los Dedos",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Orígenes (1982)",
+        "content": "En 1982, Punta del Este fue sede de un encuentro internacional de escultura al aire libre. El artista chileno Mario Irarrázabal presentó una propuesta impactante: una mano gigante como sepultada en la arena, de la que solo asoman sus cinco dedos. Vacida en hormigón sobre una estructura de acero, la obra se concibió como land art que interactuaría con la playa y el mar. Fue un éxito inmediato y permanece en su lugar desde entonces."
+      },
+      {
+        "id": "meaning",
+        "title": "¿Qué significa?",
+        "content": "Irarrázabal describió la mano como una metáfora de la vulnerabilidad y el aislamiento humanos frente a la naturaleza y lo infinito. Una figura medio sepultada, que se tiende hacia el cielo, sugiere tanto un grito de auxilio como la fragilidad del ser humano ante la inmensidad del océano. El artista retomó el motivo de la mano enterrada en obras posteriores por el mundo, convirtiéndolo en su tema distintivo."
+      },
+      {
+        "id": "legend",
+        "title": "La leyenda local",
+        "content": "Más allá de su significado oficial, una popular leyenda local dice que la mano pertenece a un marinero náufrago que, atrapado bajo la arena, extiende los dedos hacia la superficie como un último ruego de auxilio. Otros dicen que marca el lugar donde el mar reclama a los incautos. Sea símbolo o historia, la escultura conmueve a quien se pone frente a ella."
+      },
+      {
+        "id": "significance",
+        "title": "Un símbolo de Punta del Este",
+        "content": "Con los años, Los Dedos se ha convertido en la imagen que define a Punta del Este y en una parada obligada de la ruta de todo visitante. Aparece en postales, guías y campañas turísticas, y vertebra la animada Playa Brava, famosa por su fuerte oleaje y sus doradas dunas."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de fotos",
+    "subtitle": "Vistas de Los Dedos y de la inmensa Playa Brava",
+    "photoAlt": "Escultura Los Dedos de Punta del Este en la Playa Brava",
+    "viewAll": "Ver ubicación en Google Maps",
+    "showMore": "Mostrar más fotos",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "reviews": {
+    "title": "Opiniones de los visitantes",
+    "declaration": "Las opiniones de los visitantes están disponibles en Google Maps (enlace externo).",
+    "moreReviews": "Ver en Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "items": [
+      {
+        "name": "James H.",
+        "date": "Marzo 2026",
+        "rating": 5,
+        "text": "Imperdible en Punta del Este. Llegamos al amanecer y tuvimos la escultura solo para nosotros; la luz sobre los dedos fue inolvidable. Gratis y abierto las 24 horas, justo en la Playa Brava."
+      },
+      {
+        "name": "Maria S.",
+        "date": "Febrero 2026",
+        "rating": 5,
+        "text": "Una obra pública tan potente como inesperada. Nuestro guía nos contó la historia y la visita ganó mucha profundidad. Fácil de llegar a pie desde el centro."
+      },
+      {
+        "name": "Thomas K.",
+        "date": "Enero 2026",
+        "rating": 4,
+        "text": "Un lugar icónico para fotografiar y una parada divertida en el paseo por la playa. Se llena al mediodía, así que ve temprano. El oleaje de la Brava justo al lado también impresiona."
+      },
+      {
+        "name": "Anna L.",
+        "date": "Diciembre 2025",
+        "rating": 5,
+        "text": "Volvimos tres veces durante la estancia: de día, al atardecer y de noche. Cada vez se siente distinto. Un verdadero símbolo de la ciudad y totalmente gratis."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Cómo llegar",
+    "subtitle": "Parada 1 Brava, Punta del Este, Maldonado, Uruguay",
+    "openMaps": "Abrir en Google Maps",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+  },
+  "footer": {
+    "siteName": "Los Dedos de Punta del Este",
+    "rights": "© 2026 Los Dedos de Punta del Este — Guía de viaje independiente. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio",
+    "cookies": "Configuración de cookies",
+    "officialResourcesTitle": "Recursos oficiales y de referencia",
+    "mapsLabel": "Google Maps →",
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "officialLinksList": [
+      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/" },
+      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/" },
+      { "name": "Intendencia de Maldonado", "url": "https://www.maldonado.gub.uy/" },
+      { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
+      { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
+    ],
+    "disclaimer": "Este es un proyecto independiente y sin fines de lucro de información para visitantes. No estamos afiliados con ningún organismo gubernamental ni institución oficial."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Recopilación de información",
+        "content": "Por lo general, no recopilamos activamente información personal identificable de los usuarios. Cualquier información que nos proporciones mediante formularios de contacto o correos electrónicos se mantendrá estrictamente confidencial."
+      },
+      {
+        "heading": "2. Uso de la información",
+        "content": "La información que recopilamos se utiliza únicamente para ofrecer, mantener y mejorar nuestros servicios, y para comunicarnos contigo. No vendemos ni compartimos tu información personal con terceros con fines de marketing."
+      },
+      {
+        "heading": "3. Cookies y seguimiento",
+        "content": "Utilizamos cookies y tecnologías de seguimiento similares para monitorear la actividad en nuestro sitio web y almacenar cierta información. Puedes configurar tu navegador para rechazar todas las cookies o para avisarte cuando se envía una cookie."
+      },
+      {
+        "heading": "4. Seguridad de los datos",
+        "content": "La seguridad de tus datos es importante para nosotros. Utilizamos medios comercialmente aceptables para proteger tus datos personales, aunque ningún método de transmisión por Internet es 100% seguro."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos del servicio",
+    "lastUpdated": "Última actualización: Marzo 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los términos",
+        "content": "Al acceder y utilizar este sitio web, aceptas quedar vinculado por estos términos del servicio. Si no estás de acuerdo con alguna parte de los términos, no podrás acceder al servicio."
+      },
+      {
+        "heading": "2. Uso del servicio",
+        "content": "Este sitio web es un proyecto independiente y sin fines de lucro de información para visitantes. La información proporcionada es solo para fines informativos generales. Aceptas utilizar el sitio de manera responsable y lícita."
+      },
+      {
+        "heading": "3. Propiedad intelectual",
+        "content": "Todo el contenido de este sitio web, incluidos textos, imágenes y logotipos, es propiedad del titular del sitio salvo que se indique lo contrario. Queda estrictamente prohibido el uso, reproducción o distribución no autorizados."
+      },
+      {
+        "heading": "4. Limitación de responsabilidad",
+        "content": "No nos hacemos responsables de ningún daño directo, indirecto, incidental o consecuente derivado del uso o la imposibilidad de usar este sitio web o la información que contiene."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de cookies",
+    "description": "Gestiona tus preferencias de cookies.",
+    "essential": {
+      "title": "Cookies estrictamente necesarias",
+      "description": "Requeridas para la funcionalidad básica del sitio web.",
+      "badge": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de analítica",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con el sitio."
+    },
+    "marketing": {
+      "title": "Cookies de marketing",
+      "description": "Se utilizan para rastrear a los visitantes entre sitios web."
+    },
+    "save": "Guardar preferencias",
+    "saved": "¡Preferencias guardadas!"
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Información práctica sobre servicios, historia y planificación de tu visita a Los Dedos.",
+    "amenities": {
+      "title": "Servicios en la zona",
+      "items": [
+        { "icon": "🅿️", "label": "Estacionamiento", "value": "Zona azul y playas cercanas" },
+        { "icon": "🚻", "label": "Baños", "value": "En chiringuitos y parada" },
+        { "icon": "🔌", "label": "Carga / Gasolina", "value": "Estaciones en Av. Haedo" },
+        { "icon": "♿", "label": "Accesibilidad", "value": "Playa y paseo accesibles" }
+      ]
+    },
+    "categories": [
+      {
+        "id": "infra",
+        "title": "Transporte e infraestructura",
+        "items": [
+          {
+            "q": "¿Hay estacionamiento en la zona? ¿Cuánto cuesta?",
+            "a": "La escultura está sobre la Avenida Eduardo Víctor Haedo, en la Parada 1 de la Playa Brava. No existe un parking cerrado en la misma obra, pero hay estacionamiento de zona azul (tarifa temporal, gratuito fuera de temporada alta) a lo largo de la avenida y varios estacionamientos de playa con control de horario en temporada. En verano (diciembre a febrero) se llena temprano; recomendamos ir en transporte público, bicicleta o a pie desde el centro (unos 15 minutos)."
+          },
+          {
+            "q": "¿Se puede acceder con silla de ruedas o coche de bebé?",
+            "a": "Sí. La escultura se encuentra sobre la franja de arena firme junto al paseo costero, que es de superficie llana y accesible. La arena fina de la playa puede dificultar el paso de sillas de ruedas o coches de bebé a cierta distancia del borde, pero desde el paseo y la zona próxima a la obra la vista es totalmente accesible. No hay rampas específicas señalizadas hasta la base de la mano, por lo que conviene acercarse por la orilla más compacta."
+          },
+          {
+            "q": "¿Hay baños o servicios de comida en la zona?",
+            "a": "La zona no cuenta con baños públicos gratuitos permanentes junto a la escultura, pero a pocos metros hay chiringuitos (puestos de playa) y balnearios de la Parada 1 que en temporada ofrecen baños, duchas y comida ligera. También hay kioscos y restaurantes a lo largo de la Av. Haedo. Fuera de temporada (otoño e invierno) la oferta se reduce, así que conviene ir preparado con agua."
+          }
+        ]
+      },
+      {
+        "id": "geo",
+        "title": "Historia y curiosidades",
+        "items": [
+          {
+            "q": "¿Qué representa exactamente la mano? ¿Por qué está en la arena?",
+            "a": "Es una obra de land art del chileno Mario Irarrázabal (1982). El artista concibió una mano gigante semienterrada como metáfora de la vulnerabilidad humana frente al mar. No es una estatua religiosa ni conmemorativa: su fuerza viene de lo simple y lo inesperado. La ubicación en la arena de la Brava forma parte de la obra, porque la pieza 'dialoga' con la playa y el oleaje."
+          },
+          {
+            "q": "¿La escultura se mueve o sufre daños por el mar?",
+            "a": "No se mueve: está fijada sobre una estructura de acero y hormigón en la misma posición desde 1982. Con los años la salinidad y el viento han requerido tareas de mantenimiento y limpieza por parte de la Intendencia de Maldonado, pero la mano permanece en su lugar original. No es una escultura flotante ni 'móvil'."
+          }
+        ]
+      },
+      {
+        "id": "plan",
+        "title": "Planificación y entradas",
+        "items": [
+          {
+            "q": "¿Se paga entrada para ver Los Dedos?",
+            "a": "No. Es una obra pública al aire libre, de acceso libre y gratuito las 24 horas del día, todos los días del año. No hay taquilla ni control de acceso."
+          },
+          {
+            "q": "¿Cuánto tiempo se necesita para visitarla?",
+            "a": "Una visita habitual dura entre 20 y 40 minutos: el tiempo de acercarse, fotografiar la obra desde varios ángulos y leer la placa informativa. Si aprovechas para caminar por la Playa Brava o sentarte en alguno de sus chiringuitos, la experiencia puede extenderse a una mañana o tarde completa."
+          },
+          {
+            "q": "¿Se puede ir con mal tiempo?",
+            "a": "Sí, la escultura está al aire libre y se puede visitar en cualquier clima. Eso sí: la Brava es conocida por su fuerte oleaje, así que en días de mar picado conviene mantenerse en el paseo y no bajar a la orilla. La lluvia no impide la visita, aunque la luz para fotos será mejor en días despejados."
+          }
+        ]
+      },
+      {
+        "id": "nearby",
+        "title": "Qué ver cerca",
+        "items": [
+          {
+            "q": "Terminando la visita, ¿qué otros lugares recomiendan cerca?",
+            "a": "A pocos minutos están el Faro de Punta del Este (el clásico mirador de la ciudad), el Puerto de Punta del Este con su mercado de pescadores y el Casapueblo, el museo-taller del artista Carlos Páez Vilaró en Punta Ballena. La Península y la zona de bares y restaurantes de la Calle 20 completan una jornada ideal a pocos kilómetros de Los Dedos."
+          }
+        ]
+      }
+    ]
+  },
+  "recommendations": {
+    "title": "Descubre más en Punta del Este",
+    "attractionsTitle": "Atracciones cercanas",
+    "toursTitle": "Tours y actividades recomendados",
+    "attractions": [
+      { "name": "Casapueblo — Museo Taller", "url": "https://casapueblo.com.uy/" },
+      { "name": "Faro de Punta del Este", "url": "https://www.gub.uy/ministerio-turismo/" },
+      { "name": "Puerto de Punta del Este", "url": "https://www.maldonado.gub.uy/" }
+    ],
+    "tours": [
+      { "name": "Tour guiado por la ciudad y las playas", "url": "https://uruguaynatural.com/" },
+      { "name": "Crucero al atardecer en catamarán", "url": "https://uruguaynatural.com/" },
+      { "name": "Excursión en barco a la Isla de Lobos", "url": "https://www.gub.uy/ministerio-turismo/" }
+    ]
+  }
+}

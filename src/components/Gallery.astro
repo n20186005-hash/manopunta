@@ -1,0 +1,70 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const g = messages.gallery;
+const images = Array.from({ length: 18 }, (_, i) => `/gallery/punta-del-este-${i + 1}.jpg`);
+---
+
+<section id="gallery" class="section-padding" style="background: var(--bg-secondary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{g.title}</h2>
+    <p class="text-center text-lg mb-10" style="color: var(--text-secondary);">{g.subtitle}</p>
+
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" id="gallery-grid">
+      {images.map((src) => (
+        <button type="button" class="gallery-item group" data-src={src} aria-label={g.photoAlt}>
+          <img src={src} alt={g.photoAlt} loading="lazy" class="w-full h-56 object-cover cursor-zoom-in" />
+        </button>
+      ))}
+    </div>
+
+    <div class="text-center mt-8 flex flex-col sm:flex-row gap-4 justify-center">
+      <a href={g.mapsUrl} target="_blank" rel="noopener noreferrer" class="px-6 py-3 rounded-full font-semibold text-white" style="background: var(--accent);">
+        📍 {g.viewAll}
+      </a>
+    </div>
+  </div>
+</section>
+
+<div id="lightbox" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/90 p-4" role="dialog" aria-modal="true" aria-label={g.photoAlt}>
+  <button type="button" id="lightbox-close" class="absolute top-4 right-4 text-white text-3xl leading-none" aria-label="关闭">&times;</button>
+  <button type="button" id="lightbox-prev" class="absolute left-4 text-white text-4xl leading-none" aria-label="上一张">&#8249;</button>
+  <img id="lightbox-img" src="" alt="" class="max-w-full max-h-[88vh] rounded-lg" />
+  <button type="button" id="lightbox-next" class="absolute right-4 text-white text-4xl leading-none" aria-label="下一张">&#8250;</button>
+</div>
+
+<script is:inline>
+  (function () {
+    var grid = document.getElementById('gallery-grid');
+    if (!grid) return;
+    var items = Array.from(grid.querySelectorAll('.gallery-item'));
+    var box = document.getElementById('lightbox');
+    var img = document.getElementById('lightbox-img');
+    var closeBtn = document.getElementById('lightbox-close');
+    var prevBtn = document.getElementById('lightbox-prev');
+    var nextBtn = document.getElementById('lightbox-next');
+    var current = 0;
+
+    function show(i) {
+      current = (i + items.length) % items.length;
+      img.src = items[current].getAttribute('data-src');
+      img.alt = items[current].getAttribute('aria-label') || '';
+    }
+    function open(i) { box.classList.remove('hidden'); box.classList.add('flex'); show(i); }
+    function close() { box.classList.add('hidden'); box.classList.remove('flex'); }
+
+    items.forEach(function (el, i) {
+      el.addEventListener('click', function () { open(i); });
+    });
+    closeBtn.addEventListener('click', close);
+    prevBtn.addEventListener('click', function () { show(current - 1); });
+    nextBtn.addEventListener('click', function () { show(current + 1); });
+    box.addEventListener('click', function (e) { if (e.target === box) close(); });
+    document.addEventListener('keydown', function (e) {
+      if (box.classList.contains('hidden')) return;
+      if (e.key === 'Escape') close();
+      if (e.key === 'ArrowLeft') show(current - 1);
+      if (e.key === 'ArrowRight') show(current + 1);
+    });
+  })();
+</script>

@@ -1,0 +1,58 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const r = messages.reviews;
+const stars = (n) => Array.from({ length: 5 }, (_, i) => i < n ? 'star-filled' : 'star-empty');
+---
+
+<section id="reviews" class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{r.title}</h2>
+    <p class="text-center text-base mb-10" style="color: var(--text-secondary);">{r.declaration}</p>
+
+    <div class="relative">
+      <div id="reviews-track" class="flex gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-4" style="scrollbar-width: thin;">
+        {r.items.map((item) => (
+          <div class="snap-center shrink-0 w-[85%] sm:w-[60%] lg:w-[45%] rounded-2xl p-6 border" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+            <div class="flex items-center justify-between mb-3">
+              <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-full flex items-center justify-center font-bold text-white" style="background: var(--accent);">
+                  {item.name.charAt(0)}
+                </div>
+                <div>
+                  <div class="font-semibold text-sm" style="color: var(--text-primary);">{item.name}</div>
+                  <div class="text-xs" style="color: var(--text-muted);">{item.date}</div>
+                </div>
+              </div>
+              <div class="flex gap-0.5 text-lg">
+                {stars(item.rating).map((c) => <span class={c}>★</span>)}
+              </div>
+            </div>
+            <p class="text-base leading-relaxed" style="color: var(--text-secondary);">{item.text}</p>
+          </div>
+        ))}
+      </div>
+      <div class="flex justify-center gap-3 mt-4">
+        <button type="button" id="reviews-prev" class="w-10 h-10 rounded-full border flex items-center justify-center" style="border-color: var(--border-color); color: var(--text-primary);" aria-label="上一条">&#8249;</button>
+        <button type="button" id="reviews-next" class="w-10 h-10 rounded-full border flex items-center justify-center" style="border-color: var(--border-color); color: var(--text-primary);" aria-label="下一条">&#8250;</button>
+      </div>
+    </div>
+
+    <div class="text-center mt-10">
+      <a href={r.mapsUrl} target="_blank" rel="noopener noreferrer" class="inline-block px-8 py-3 rounded-full font-semibold text-white" style="background: var(--accent);">
+        📍 {r.moreReviews}
+      </a>
+    </div>
+  </div>
+</section>
+
+<script is:inline>
+  (function () {
+    var track = document.getElementById('reviews-track');
+    if (!track) return;
+    var prev = document.getElementById('reviews-prev');
+    var next = document.getElementById('reviews-next');
+    prev.addEventListener('click', function () { track.scrollBy({ left: -track.clientWidth * 0.6, behavior: 'smooth' }); });
+    next.addEventListener('click', function () { track.scrollBy({ left: track.clientWidth * 0.6, behavior: 'smooth' }); });
+  })();
+</script>

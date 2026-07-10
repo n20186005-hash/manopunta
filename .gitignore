@@ -1,0 +1,28 @@
+# ===== Build output =====
+dist/
+out/
+.astro/
+# Next.js legacy residual (superseded by Astro)
+.next/
+out/_next/
+
+# ===== Dependencies =====
+node_modules/
+
+# ===== Cache & editor =====
+.cache/
+.idea/
+.vscode/
+
+# ===== Local / OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Temp / reports =====
+*.log
+check-report*.txt
+check-website.*
+
+# ===== Env =====
+.env
+.env.local
