@@ -1,16 +1,9 @@
 ---
-const target = '/es';
+// 根路径直接以默认语言（西语）渲染首页，不做任何形式的跳转。
+// getLangFromUrl 在首段不是语言代码时会回退到 defaultLang('es')，
+// 因此这里渲染出的内容、html lang 与 /es 完全一致。
+// 为让 Google 把 / 与 /es 合并收录，canonical 仍指向 /es（由 BaseLayout 生成）。
+import HomePage from '../components/HomePage.astro';
 ---
 
-<!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="refresh" content={`0; url=${target}`} />
-    <link rel="canonical" href="https://manopunta.com/es" />
-    <title>Los Dedos de Punta del Este</title>
-  </head>
-  <body>
-    <p>Redirigiendo a <a href={target}>Español</a>…</p>
-  </body>
-</html>
+<HomePage />

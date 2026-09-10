@@ -1,7 +1,8 @@
 /* La Mano — Punta del Este · PWA Service Worker */
-const CACHE = 'manopunta-v1';
+const CACHE = 'manopunta-v2';
 const PRECACHE = [
-  '/',
+  // 根路径与 /es 内容完全相同（由 canonical 合并收录），离线访问 / 时
+  // 会走下面的 navigate 回退到 /es，因此这里只需缓存一份。
   '/es',
   '/en',
   '/zh',
