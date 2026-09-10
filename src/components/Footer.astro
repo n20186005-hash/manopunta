@@ -1,16 +1,28 @@
 ---
 import { getI18n } from '../i18n/ui';
+import { attraction } from '../config/attraction';
 const { lang, messages } = getI18n(Astro.url);
 const f = messages.footer;
 const links = f.officialLinksList;
+const telHref = `tel:${attraction.telephone.replace(/\s/g, '')}`;
 ---
 
 <footer class="section-padding" style="background: var(--bg-tertiary); border-top: 1px solid var(--border-color);">
   <div class="max-w-6xl mx-auto px-4">
     <div class="grid md:grid-cols-3 gap-10">
       <div>
-        <h3 class="font-display text-xl font-semibold mb-3" style="color: var(--text-primary);" set:html={f.siteName}></h3>
-        <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{f.rights}</p>
+        <h3 class="font-display text-xl font-semibold mb-1" style="color: var(--text-primary);" set:html={f.siteName}></h3>
+        <!-- 官方全称（GBP 网站字段审核重点） -->
+        <p class="text-sm font-medium mb-4" style="color: var(--accent);">{f.officialName}</p>
+        <p class="text-sm leading-relaxed mb-4" style="color: var(--text-secondary);">{f.rights}</p>
+
+        <!-- NAP 一致性块 -->
+        <address class="not-italic text-sm space-y-1" style="color: var(--text-secondary);">
+          <div class="text-xs uppercase tracking-wide mb-1" style="color: var(--text-muted);">{f.napTitle}</div>
+          <div>📍 {attraction.streetAddress}, {attraction.city}, {attraction.region} {attraction.postalCode}, {attraction.country}</div>
+          <div>📞 <a href={telHref} class="hover:opacity-70" style="color: var(--accent);">{attraction.telephone}</a></div>
+          <div>🗺️ {attraction.plusCode}</div>
+        </address>
       </div>
 
       <div>
@@ -41,7 +53,9 @@ const links = f.officialLinksList;
       </div>
     </div>
 
-    <div class="mt-10 pt-6 border-t text-xs" style="border-color: var(--border-color); color: var(--text-muted);">
+    <div class="mt-10 pt-6 border-t text-xs space-y-2" style="border-color: var(--border-color); color: var(--text-muted);">
+      <!-- 图片产权声明 -->
+      <p>{f.imageRights}</p>
       <p set:html={f.disclaimer}></p>
     </div>
   </div>

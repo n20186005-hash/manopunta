@@ -4,18 +4,24 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { getLangFromUrl, buildAlternates, htmlLangAttr } from '../i18n/ui';
 import { ogLocale } from '../config';
+import { attraction, SITE_URL } from '../config/attraction';
 
 interface Props {
   title: string;
   description: string;
   path?: string;
+  image?: string;
 }
 
-const { title, description, path = '' } = Astro.props;
+const { title, description, path = '', image = attraction.heroImage } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const htmlLang = htmlLangAttr(lang);
 const alts = buildAlternates(path);
 const canonical = alts[lang] ?? alts.es;
+
+const alternateLocales = Object.entries(ogLocale)
+  .filter(([code]) => code !== lang)
+  .map(([, value]) => value);
 ---
 
 <!doctype html>
@@ -23,24 +29,78 @@ const canonical = alts[lang] ?? alts.es;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="author" content={attraction.fullName} />
     <link rel="canonical" href={canonical} />
+
+    <!-- Google Search Console 域名验证：将下方 content 替换为你账号的验证码并取消注释 -->
+    <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_TOKEN" /> -->
+
     <link rel="alternate" hreflang="es" href={alts.es} />
     <link rel="alternate" hreflang="en" href={alts.en} />
     <link rel="alternate" hreflang="zh" href={alts.zh} />
     <link rel="alternate" hreflang="gn" href={alts.gn} />
     <link rel="alternate" hreflang="x-default" href={alts.xDefault} />
 
+    <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={attraction.fullName} />
     <meta property="og:locale" content={ogLocale[lang] ?? lang} />
+    {alternateLocales.map((value) => <meta property="og:locale:alternate" content={value} />)}
+    <meta property="og:image" content={image} />
+    <meta property="og:image:alt" content={`${attraction.fullName} in ${attraction.city}`} />
+    <meta property="og:image:width" content={String(attraction.heroImageWidth)} />
+    <meta property="og:image:height" content={String(attraction.heroImageHeight)} />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+    <meta name="twitter:image:alt" content={`${attraction.fullName} in ${attraction.city}`} />
+
+    <!-- 明确的地理实体信号（Geo meta） -->
+    <meta name="geo.region" content={`${attraction.countryCode}-${attraction.region}`} />
+    <meta name="geo.placename" content={`${attraction.city}, ${attraction.region}, ${attraction.country}`} />
+    <meta name="geo.position" content={`${attraction.latitude};${attraction.longitude}`} />
+    <meta name="ICBM" content={`${attraction.latitude}, ${attraction.longitude}`} />
+
+    <!-- PWA -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#0f2015" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0c1a14" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/icon-180.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content={attraction.shortName} />
+    <meta name="application-name" content={attraction.shortName} />
 
     <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
+
+    <!-- Google Analytics 4 (G-HXM22WWPKP) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-HXM22WWPKP"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'granted',
+      });
+      gtag('config', 'G-HXM22WWPKP');
+    </script>
 
     <script is:inline>
       (function () {
@@ -61,5 +121,13 @@ const canonical = alts[lang] ?? alts.es;
       <slot />
     </main>
     <Footer />
+
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('/sw.js').catch(function () {});
+        });
+      }
+    </script>
   </body>
 </html>

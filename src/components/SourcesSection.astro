@@ -1,0 +1,30 @@
+---
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const s = messages.sources;
+const rights = messages.imageRights;
+---
+
+<section id="sources" class="section-padding" style="background: var(--bg-tertiary);">
+  <div class="max-w-4xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{s.title}</h2>
+    <p class="text-center text-lg mb-8" style="color: var(--text-secondary);">{s.subtitle}</p>
+    <p class="text-base leading-relaxed mb-10 text-center" style="color: var(--text-secondary);">{s.intro}</p>
+
+    <ul class="space-y-4">
+      {s.items.map((item) => (
+        <li class="rounded-2xl p-5 border" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+          <a href={item.url} target="_blank" rel="noopener noreferrer" class="font-semibold hover:opacity-70" style="color: var(--accent);">
+            {item.name} ↗
+          </a>
+          <p class="text-sm mt-1 leading-relaxed" style="color: var(--text-secondary);">{item.desc}</p>
+        </li>
+      ))}
+    </ul>
+
+    <!-- 图片产权声明 -->
+    <p class="mt-10 text-xs text-center" style="color: var(--text-muted);">
+      <strong style="color: var(--text-secondary);">{rights.title}:</strong> {rights.text}
+    </p>
+  </div>
+</section>

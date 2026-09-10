@@ -3,11 +3,13 @@ import { getI18n } from '../i18n/ui';
 const { messages } = getI18n(Astro.url);
 const t = messages.knowledge;
 const sections = t.sections;
+const seo = messages.seo;
 ---
 
 <section id="history" class="section-padding" style="background: var(--bg-primary);">
   <div class="max-w-4xl mx-auto px-4">
-    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-6 text-center" style="color: var(--text-primary);">{t.title}</h2>
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{seo.historyHeading}</h2>
+    <p class="text-center text-lg mb-6" style="color: var(--text-secondary);">{t.title}</p>
     <div class="w-12 h-0.5 mb-12 mx-auto" style="background: var(--accent);"></div>
 
     <div class="space-y-12">

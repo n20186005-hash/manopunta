@@ -1,0 +1,36 @@
+---
+/**
+ * 周边实用设施信息（中立、客观）
+ * 仅说明"有哪些类型的服务"，不推荐、不点名任何具体商户。
+ */
+import { getI18n } from '../i18n/ui';
+const { messages } = getI18n(Astro.url);
+const p = messages.practical;
+---
+
+<section id="practical" class="section-padding" style="background: var(--bg-primary);">
+  <div class="max-w-6xl mx-auto px-4">
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{p.title}</h2>
+    <p class="text-center text-lg mb-4" style="color: var(--text-secondary);">{p.subtitle}</p>
+    <p class="text-center text-sm max-w-3xl mx-auto mb-10 rounded-xl px-4 py-3" style="background: var(--bg-tertiary); color: var(--text-muted);">
+      {p.neutralNote}
+    </p>
+
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      {p.items.map((it) => (
+        <article class="rounded-2xl border p-6" style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);">
+          <div class="flex items-start gap-3 mb-3">
+            <span class="text-2xl leading-none" aria-hidden="true">{it.icon}</span>
+            <h3 class="font-display text-lg font-semibold" style="color: var(--text-primary);">{it.title}</h3>
+          </div>
+          <p class="text-sm leading-relaxed" style="color: var(--text-secondary);">{it.desc}</p>
+          {it.tip && (
+            <p class="mt-3 text-xs leading-relaxed rounded-lg px-3 py-2" style="background: var(--bg-tertiary); color: var(--text-muted);">
+              💡 {it.tip}
+            </p>
+          )}
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

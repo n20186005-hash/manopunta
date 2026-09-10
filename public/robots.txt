@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# 允许抓取全部图片资源（Google 图片 / GBP 实体绑定需要）
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# 站点地图
+Sitemap: https://manopunta.com/sitemap.xml

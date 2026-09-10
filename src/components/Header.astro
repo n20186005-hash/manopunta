@@ -1,5 +1,6 @@
 ---
 import { getI18n, languagesList, languages } from '../i18n/ui';
+import { attraction } from '../config/attraction';
 
 const { lang, t, messages } = getI18n(Astro.url);
 const h = messages.header;
@@ -13,13 +14,18 @@ const switchTo = (l: string) => (pageSeg ? `/${l}/${pageSeg}` : `/${l}`);
 
 <header class="sticky top-0 z-50 backdrop-blur" style="background: color-mix(in srgb, var(--bg-primary) 85%, transparent); border-bottom: 1px solid var(--border-color);">
   <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between gap-4">
-    <a href={`/${lang}`} class="font-display text-lg font-semibold" style="color: var(--text-primary);" set:html={h.siteName}></a>
+    <a href={`/${lang}`} class="leading-tight" style="color: var(--text-primary);" title={attraction.fullName}>
+      <span class="font-display text-lg font-semibold block" set:html={h.siteName}></span>
+      <span class="hidden sm:block text-[11px]" style="color: var(--text-muted);">{attraction.fullName}</span>
+    </a>
 
     <nav class="hidden md:flex items-center gap-4 text-sm lg:gap-5" style="color: var(--text-secondary);">
       <a href={`/${lang}`} class="hover:opacity-70" set:html={h.home}></a>
       <a href={`/${lang}#visit`} class="hover:opacity-70" set:html={h.visit}></a>
+      <a href={`/${lang}#weather`} class="hover:opacity-70 hidden lg:inline" set:html={h.weather}></a>
       <a href={`/${lang}#history`} class="hover:opacity-70" set:html={h.history}></a>
       <a href={`/${lang}#gallery`} class="hover:opacity-70" set:html={h.gallery}></a>
+      <a href={`/${lang}#practical`} class="hover:opacity-70 hidden lg:inline" set:html={h.practical}></a>
       <a href={`/${lang}#reviews`} class="hover:opacity-70" set:html={h.reviews}></a>
       <a href={`/${lang}#faq`} class="hover:opacity-70" set:html={h.faq}></a>
       <a href={`/${lang}#transport`} class="hover:opacity-70" set:html={h.transport}></a>

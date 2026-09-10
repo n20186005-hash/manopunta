@@ -1,7 +1,21 @@
 {
   "meta": {
-    "title": "Los Dedos de Punta del Este | La Mano, Uruguay",
-    "description": "Guía completa de Los Dedos de Punta del Este (La Mano): historia, significado, leyenda, fotos, opiniones y cómo llegar en la Playa Brava, Uruguay."
+    "title": "Los Dedos de Punta del Este (La Mano) – Guía de Visita y Mapa",
+    "description": "¿Vas a visitar Los Dedos de Punta del Este (La Mano)? Ubicación en Playa Brava, horarios, historia, fotos y la mejor hora para ir. Gratis, abierto 24 h."
+  },
+  "seo": {
+    "h1": "Los Dedos de Punta del Este (La Mano) — Hombre emergiendo a la vida",
+    "aboutHeading": "Acerca de La Mano — Hombre emergiendo a la vida",
+    "locationHeading": "Ubicación y cómo visitar La Mano en Punta del Este",
+    "landmarksHeading": "Lugares y atracciones cerca de La Mano",
+    "historyHeading": "Historia y significado de La Mano — Hombre emergiendo a la vida",
+    "introLead": "Bienvenido a <strong>La Mano (Hombre emergiendo a la vida)</strong>, conocida popularmente como <strong>La Mano</strong> y también llamada Los Dedos. Situada en el corazón de <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, este destino es un punto de referencia principal para los viajeros que visitan la región.",
+    "nearbyLead": "Al visitar <strong>La Mano (Hombre emergiendo a la vida)</strong>, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés cercanos, como el <strong>Faro de Punta del Este</strong> y <strong>Casapueblo</strong>.",
+    "breadcrumbLabel": "Ruta de navegación",
+    "heroAlt": "La Mano — Hombre emergiendo a la vida, vista principal en Punta del Este, Uruguay",
+    "galleryAlt": "Escultura La Mano (Los Dedos) en la Playa Brava, Punta del Este",
+    "mapIframeTitle": "Mapa de ubicación de La Mano — Hombre emergiendo a la vida en Punta del Este",
+    "officialLink": "Portal Oficial de Turismo de Uruguay / Maldonado"
   },
   "header": {
     "siteName": "Los Dedos de Punta del Este",
@@ -13,6 +27,8 @@
     "faq": "FAQ",
     "map": "Mapa",
     "transport": "Cómo llegar",
+    "weather": "Clima",
+    "practical": "Servicios",
     "backToHome": "Volver al inicio"
   },
   "common": {
@@ -22,19 +38,19 @@
   "hero": {
     "title": "Los Dedos de Punta del Este",
     "subtitle": "Una mano monumental que emerge de la arena de la Playa Brava, uno de los símbolos más icónicos de Uruguay.",
-    "rating": "4.5(28.220)",
-    "reviewCount": "28.220 opiniones",
+    "rating": "4.5(28.416)",
+    "reviewCount": "28.416 opiniones",
     "hours": "Abierto las 24 horas",
     "openMaps": "Ver ubicación",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "infoBar": {
     "address": "Dirección",
-    "addressValue": "Av. Eduardo Víctor Haedo, Playa Brava, Punta del Este, Uruguay",
+    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Teléfono",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 Punta del Este",
+    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
     "hours": "Horario",
     "hoursValue": "24 horas / todos los días"
   },
@@ -65,27 +81,47 @@
     "text": "Los Dedos es una obra pública mantenida por la Intendencia de Maldonado, el gobierno departamental de Maldonado donde se encuentra Punta del Este. Como uno de los monumentos más visitados de Uruguay, recibe cientos de miles de visitantes cada año y es un hito del arte público latinoamericano moderno."
   },
   "knowledge": {
-    "title": "Historia, significado y leyenda de Los Dedos",
+    "title": "Historia, significado y leyenda de La Mano",
     "sections": [
       {
-        "id": "history",
-        "title": "Orígenes (1982)",
-        "content": "En 1982, Punta del Este fue sede de un encuentro internacional de escultura al aire libre. El artista chileno Mario Irarrázabal presentó una propuesta impactante: una mano gigante como sepultada en la arena, de la que solo asoman sus cinco dedos. Vacida en hormigón sobre una estructura de acero, la obra se concibió como land art que interactuaría con la playa y el mar. Fue un éxito inmediato y permanece en su lugar desde entonces."
+        "id": "origin",
+        "title": "Origen: el encuentro de escultores de 1982",
+        "content": "La Mano nació en el verano de 1982, durante un encuentro internacional de escultores al aire libre celebrado en Punta del Este. El certamen reunió a artistas de varios países que debían crear obras monumentales a la vista del público y frente al mar. La propuesta del chileno Mario Irarrázabal fue la más audaz: una mano gigante emergiendo de la arena, como si un cuerpo entero estuviera sepultado bajo la playa. Concebida como land art —una obra pensada para dialogar con el paisaje—, fue un éxito inmediato y permanece en el mismo lugar desde entonces."
+      },
+      {
+        "id": "artist",
+        "title": "El artista: Mario Irarrázabal",
+        "content": "Mario Irarrázabal nació en Santiago de Chile en 1940 y es uno de los escultores más reconocidos de América Latina. Se formó en la Universidad de Chile y amplió estudios en Alemania, y su obra gira en torno a la figura humana, la escala monumental y la relación entre el ser humano y el paisaje. En 1982 eligió la playa como lienzo y el hormigón como material. Años después retomó el mismo motivo en el desierto de Atacama (Chile, 1992), donde otra mano gigante surge de la arena: una variación del gesto que ya había ensayado en Punta del Este."
+      },
+      {
+        "id": "construction",
+        "title": "Cómo se construyó",
+        "content": "La escultura está realizada en hormigón armado sobre una estructura de acero, moldeada in situ sobre la arena de la Playa Brava. Sus cinco dedos alcanzan una escala monumental, muy por encima de la altura de una persona, de modo que el visitante puede medir su propio tamaño frente a la obra. Al estar enterrada y anclada en la playa, la pieza dialoga con la marea, el viento y la sal: la arena cubre y descubre su base según el oleaje, y el mantenimiento periódico de la Intendencia de Maldonado conserva su aspecto original."
       },
       {
         "id": "meaning",
         "title": "¿Qué significa?",
-        "content": "Irarrázabal describió la mano como una metáfora de la vulnerabilidad y el aislamiento humanos frente a la naturaleza y lo infinito. Una figura medio sepultada, que se tiende hacia el cielo, sugiere tanto un grito de auxilio como la fragilidad del ser humano ante la inmensidad del océano. El artista retomó el motivo de la mano enterrada en obras posteriores por el mundo, convirtiéndolo en su tema distintivo."
+        "content": "Irarrázabal ha explicado que la obra no representa a un ahogado ni a un naufragio, sino al ser humano que emerge de la tierra hacia la vida: de ahí su nombre completo, Hombre emergiendo a la vida. La mano abierta puede leerse como un gesto de auxilio, de despedida o de asombro, y también como un recordatorio de la fragilidad humana frente a la inmensidad de la naturaleza. La ambigüedad es intencional: cada visitante completa el significado según su propia experiencia."
       },
       {
         "id": "legend",
-        "title": "La leyenda local",
-        "content": "Más allá de su significado oficial, una popular leyenda local dice que la mano pertenece a un marinero náufrago que, atrapado bajo la arena, extiende los dedos hacia la superficie como un último ruego de auxilio. Otros dicen que marca el lugar donde el mar reclama a los incautos. Sea símbolo o historia, la escultura conmueve a quien se pone frente a ella."
+        "title": "Leyendas y mitos locales",
+        "content": "Como toda obra icónica, La Mano acumuló sus propias leyendas. La más difundida habla de un gigante sepultado bajo la playa del que solo asoma la mano; otra cuenta que pertenece a un nadador atrapado por el mar, que emerge para pedir ayuda. También se dice que quien toca los dedos tendrá suerte y volverá a Punta del Este. Son relatos populares sin base histórica, pero forman parte del imaginario que la escultura despertó en la comunidad."
       },
       {
-        "id": "significance",
-        "title": "Un símbolo de Punta del Este",
-        "content": "Con los años, Los Dedos se ha convertido en la imagen que define a Punta del Este y en una parada obligada de la ruta de todo visitante. Aparece en postales, guías y campañas turísticas, y vertebra la animada Playa Brava, famosa por su fuerte oleaje y sus doradas dunas."
+        "id": "icon",
+        "title": "De obra de arte a símbolo de la ciudad",
+        "content": "Con el paso de las décadas, La Mano dejó de ser una escultura más para convertirse en la imagen de Punta del Este y en uno de los monumentos más fotografiados de Uruguay. Aparece en postales, guías, campañas de turismo, videos musicales y redes sociales, y es punto de encuentro obligado de visitantes de todo el mundo. Su silueta, reconocible al instante, funciona como un logotipo natural de la ciudad y vertebra la animada Playa Brava, famosa por su fuerte oleaje."
+      },
+      {
+        "id": "conservation",
+        "title": "Conservación y mantenimiento",
+        "content": "Al estar expuesta al viento, la arena y la sal marina, la obra requiere cuidados periódicos. La Intendencia de Maldonado y los equipos de mantenimiento realizan tareas de limpieza y reparación para preservar el hormigón y la estructura de acero. Además, la escultura se encuentra en un espacio público protegido, por lo que se pide a los visitantes no trepar por los dedos ni dejar residuos, de modo que las próximas generaciones la encuentren tal como la imaginó su autor."
+      },
+      {
+        "id": "curiosities",
+        "title": "Curiosidades y datos útiles",
+        "content": "La escultura es gratuita y accesible las 24 horas, todo el año. Muchos visitantes creen ver un cuerpo entero enterrado: en realidad, bajo la arena solo existe la estructura que sostiene la mano. Es un punto de referencia habitual para encontrarse en la Playa Brava y, por su orientación, ofrece luz distinta a lo largo del día: por la mañana la arena está más tranquila y al atardecer la luz dorada realza el hormigón. Se recomienda visitarla fuera del mediodía en verano, cuando el sol y la concurrencia son mayores."
       }
     ]
   },
@@ -93,6 +129,9 @@
     "title": "Galería de fotos",
     "subtitle": "Vistas de Los Dedos y de la inmensa Playa Brava",
     "photoAlt": "Escultura Los Dedos de Punta del Este en la Playa Brava",
+    "lightboxClose": "Cerrar",
+    "lightboxPrev": "Anterior",
+    "lightboxNext": "Siguiente",
     "viewAll": "Ver ubicación en Google Maps",
     "showMore": "Mostrar más fotos",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -228,7 +267,10 @@
       { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
       { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
     ],
-    "disclaimer": "Este es un proyecto independiente y sin fines de lucro de información para visitantes. No estamos afiliados con ningún organismo gubernamental ni institución oficial."
+    "disclaimer": "Este es un proyecto independiente y sin fines de lucro de información para visitantes. No estamos afiliados con ningún organismo gubernamental ni institución oficial.",
+    "officialName": "La Mano — Hombre emergiendo a la vida",
+    "napTitle": "Datos oficiales del lugar (NAP)",
+    "imageRights": "La propiedad y los derechos de autor de todas las imágenes mostradas en este sitio pertenecen a sus fotógrafos originales."
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -365,7 +407,151 @@
             "a": "A pocos minutos están el Faro de Punta del Este (el clásico mirador de la ciudad), el Puerto de Punta del Este con su mercado de pescadores y el Casapueblo, el museo-taller del artista Carlos Páez Vilaró en Punta Ballena. La Península y la zona de bares y restaurantes de la Calle 20 completan una jornada ideal a pocos kilómetros de Los Dedos."
           }
         ]
+      },
+      {
+        "id": "location",
+        "title": "Ubicación y acceso",
+        "items": [
+          {
+            "q": "¿Dónde se encuentra La Mano — Hombre emergiendo a la vida?",
+            "a": "La Mano — Hombre emergiendo a la vida se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). Coordenadas: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+          },
+          {
+            "q": "¿Es gratis visitar La Mano?",
+            "a": "Sí. La Mano — Hombre emergiendo a la vida es un espacio público y la visita es gratuita los 365 días del año, las 24 horas. No hay taquilla ni control de acceso."
+          }
+        ]
       }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y referencias",
+    "subtitle": "Información verificada a partir de fuentes oficiales, gubernamentales y de referencia.",
+    "intro": "Esta guía es un proyecto independiente elaborado a partir de fuentes oficiales y de referencia. Para consultar información oficial y actualizada, visita los siguientes enlaces:",
+    "officialNote": "Para información oficial y regional, consulta el",
+    "items": [
+      { "name": "Intendencia de Maldonado — Gobierno departamental", "url": "https://www.maldonado.gub.uy/", "desc": "Gobierno local responsable del mantenimiento y la gestión del espacio público donde se ubica la escultura." },
+      { "name": "Ministerio de Turismo de Uruguay", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Portal oficial del turismo nacional de Uruguay." },
+      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/", "desc": "Sitio oficial de promoción turística del país." },
+      { "name": "Wikipedia — La Mano (escultura)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Referencia enciclopédica sobre la obra y su autor." },
+      { "name": "Google Maps — ubicación oficial", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Ficha del lugar con ubicación, horarios y opiniones de visitantes." }
+    ]
+  },
+  "imageRights": {
+    "title": "Derechos de imagen",
+    "text": "La propiedad y los derechos de autor de todas las imágenes mostradas en este sitio pertenecen a sus fotógrafos originales."
+  },
+  "weather": {
+    "title": "Clima en Punta del Este",
+    "subtitle": "Consulta el clima actual y el pronóstico de los próximos 7 días para planificar tu visita a La Mano en la Playa Brava.",
+    "today": "Hoy",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precipitation": "Prob. de lluvia",
+    "uvIndex": "Índice UV",
+    "forecastTitle": "Pronóstico de 7 días",
+    "updated": "Actualizado",
+    "source": "Fuente",
+    "dayNames": ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"],
+    "adviceTitle": "Recomendaciones para tu visita",
+    "outfitLabel": "Qué ponerte",
+    "planLabel": "Qué hacer",
+    "itemsLabel": "Qué llevar",
+    "alertLabel": "Aviso meteorológico",
+    "windForceLabel": "Fuerza del viento",
+    "waveLabel": "Altura de ola",
+    "seaTempLabel": "Temp. del agua",
+    "sunriseLabel": "Amanecer",
+    "sunsetLabel": "Atardecer",
+    "forceUnit": "Bft",
+    "alThunder": "Tormenta eléctrica: evita la playa y los espacios abiertos, y no te refugies bajo los árboles.",
+    "alRain": "Lluvia intensa: evita las zonas bajas y los cruces anegados.",
+    "alWind": "Viento muy fuerte: aléjate de las rocas del borde costero, de los carteles y de las estructuras temporales.",
+    "alUv": "Radiación UV extrema: evita el sol del mediodía, hay riesgo de quemaduras.",
+    "alHeat": "Calor extremo: riesgo de golpe de calor, hidrátate con frecuencia.",
+    "alFog": "Niebla densa: visibilidad reducida, extrema las precauciones.",
+    "alSea": "Mar agitado: oleaje alto, no ingreses al agua ni te acerques a las rocas.",
+    "oHeat": "Hace calor: ropa liviana, transpirable y de colores claros.",
+    "oCold": "Hace frío: abrigo grueso, mejor en capas.",
+    "oMild": "Temperatura agradable: ropa cómoda para caminar.",
+    "oSwing": "Gran diferencia entre el día y la noche: lleva una campera para ponerte y sacarte.",
+    "oRain": "Puede llover: conviene un abrigo impermeable.",
+    "oUv": "UV alto: usa protector solar y evita el sol directo del mediodía.",
+    "oWind": "Viento fuerte: evita prendas sueltas y gorros que se vuelen.",
+    "pThunder": "Con tormenta no conviene quedarse en la playa: los paseos en barco y las actividades al aire libre suelen suspenderse.",
+    "pHeavyRain": "No es buen día para actividades al aire libre: conviene priorizar lugares bajo techo.",
+    "pLightRain": "Con llovizna la experiencia al aire libre empeora, aunque el paseo por la rambla sigue siendo posible.",
+    "pFog": "Con niebla no se aprecia el paisaje ni el horizonte: es un mal día para los miradores.",
+    "pRainProb": "Probabilidad alta de lluvia: lleva paraguas y deja margen para cambiar los planes al aire libre.",
+    "pClear": "Día despejado: ideal para recorrer la costa y ver el atardecer sobre el mar.",
+    "pCloudy": "Cielo cubierto: luz suave, muy buena para caminar y fotografiar la escultura.",
+    "pHeat": "Con calor conviene salir temprano o al atardecer y evitar el mediodía.",
+    "pWind5": "Viento moderado: puede haber oleaje y algunas actividades náuticas suspenderse.",
+    "pWind7": "Viento muy fuerte: las actividades en el mar suelen cancelarse.",
+    "pSeaRough": "Mar agitado: no es el momento de meterse al agua.",
+    "pSeaCalm": "Mar tranquilo: buen momento para caminar por la orilla y ver el atardecer.",
+    "iUmbrella": "Paraguas plegable",
+    "iRaincoat": "Piloto o impermeable (con viento es más práctico que el paraguas)",
+    "iSun": "Protector solar, lentes de sol y gorra",
+    "iWater": "Agua suficiente",
+    "iJacket": "Una campera para el cambio de temperatura",
+    "iWarm": "Ropa de abrigo (campera gruesa, bufanda)",
+    "iWind": "Campera cortavientos",
+    "iSea": "Calzado para la playa o las rocas (resbalan)",
+    "iMask": "Barbijo o tapabocas (por la niebla)",
+    "tideTitle": "Mareas",
+    "tideNow": "Nivel actual",
+    "tideNowMark": "Ahora",
+    "tideRising": "Subiendo",
+    "tideFalling": "Bajando",
+    "tideSteady": "Estable",
+    "tideNextHigh": "Próxima marea alta",
+    "tideNextLow": "Próxima marea baja",
+    "tideHigh": "Marea alta",
+    "tideLow": "Marea baja",
+    "tideTodayTitle": "Mareas de hoy",
+    "tideChartTitle": "Nivel del mar en las próximas 24 horas",
+    "tideRangeLabel": "Amplitud de hoy",
+    "tideScaleSpring": "Marea viva",
+    "tideScaleMedium": "Marea media",
+    "tideScaleNeap": "Marea muerta",
+    "tideNote": "Altura referida al nivel medio del mar · Pronóstico astronómico, orientativo",
+    "tRising": "La marea está subiendo: evita las rocas y no te quedes en ellas.",
+    "tFalling": "La marea está bajando: buen momento para caminar por la orilla y ver las rocas; regresa antes de que suba.",
+    "tNearHigh": "Falta poco para la marea alta: queda menos playa, cuidado con el oleaje.",
+    "tNearLow": "Falta poco para la marea baja: se ve más playa, ten en cuenta que el agua volverá a subir.",
+    "tSpring": "Hoy hay marea viva: la amplitud es mayor y el agua sube más rápido.",
+    "codes": {
+      "clear": "Despejado",
+      "mainlyClear": "Mayormente despejado",
+      "partlyCloudy": "Parcialmente nublado",
+      "overcast": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "freezingDrizzle": "Llovizna helada",
+      "rain": "Lluvia",
+      "freezingRain": "Lluvia helada",
+      "snow": "Nieve",
+      "showers": "Chaparrones",
+      "snowShowers": "Chaparrones de nieve",
+      "thunderstorm": "Tormenta"
+    }
+  },
+  "practical": {
+    "title": "Información práctica y servicios cercanos",
+    "subtitle": "Lo esencial antes de venir: servicios, accesos y consejos útiles para tu visita a la Playa Brava.",
+    "neutralNote": "Somos un sitio informativo sin fines de lucro. Solo indicamos qué tipos de servicios existen en la zona; no recomendamos ni promocionamos comercios concretos.",
+    "items": [
+      { "icon": "🚻", "title": "Aseos y duchas", "desc": "No hay baños públicos fijos junto a la escultura. En temporada alta, los paradores y balnearios de Playa Brava ofrecen aseos y duchas; el resto del año conviene prever alternativas en el centro.", "tip": "Fuera del verano, los servicios de playa suelen estar cerrados." },
+      { "icon": "🅿️", "title": "Estacionamiento", "desc": "La escultura se ubica sobre la Av. Eduardo Víctor Haedo. Hay estacionamiento medido en la vía pública y playas de estacionamiento privadas en los alrededores; en verano se cobran y se llenan rápido.", "tip": "En enero y febrero, llega temprano o usa bus, taxi o bicicleta." },
+      { "icon": "🍽️", "title": "Dónde comer", "desc": "A lo largo de la avenida y en la península hay restaurantes, parrillas, cafeterías, pizzerías y heladerías para distintos presupuestos. En la playa, los paradores ofrecen menús informales.", "tip": "En temporada alta conviene reservar; fuera de temporada, varios locales cierran." },
+      { "icon": "🏨", "title": "Alojamiento", "desc": "La zona ofrece hoteles, hostales, apart-hoteles, apartamentos turísticos y alquileres temporales. La mayor oferta está en el centro y en la península, a pocos minutos de la escultura.", "tip": "Reserva con antelación para diciembre–febrero y fines de semana largos." },
+      { "icon": "🛒", "title": "Supermercados y suministros", "desc": "En el centro y la península hay supermercados, minimercados y farmacias donde comprar agua, protector solar, snacks y artículos de playa.", "tip": "Lleva una botella reutilizable: hay pocas fuentes públicas en la rambla." },
+      { "icon": "⛽", "title": "Combustible y carga eléctrica", "desc": "Hay estaciones de servicio con nafta y gasoil sobre las avenidas principales de acceso a la ciudad. Los puntos de carga para vehículos eléctricos son limitados y suelen estar en hoteles y estacionamientos céntricos.", "tip": "Si viajas en eléctrico, planifica la carga antes de llegar a la zona costera." },
+      { "icon": "♿", "title": "Accesibilidad", "desc": "La rambla y el paseo costero son amplios y mayormente planos, aptos para sillas de ruedas y cochecitos. El acceso a la arena puede ser irregular según el estado del terreno.", "tip": "Para acercarte a la escultura, usa el paseo pavimentado en lugar de la arena blanda." },
+      { "icon": "🏥", "title": "Salud, farmacias y cajeros", "desc": "El centro cuenta con farmacias, centros médicos y cajeros automáticos. Ante una emergencia, el número único de emergencias en Uruguay es el 911.", "tip": "Lleva algo de efectivo: no todos los comercios pequeños aceptan tarjeta." },
+      { "icon": "🛟", "title": "Seguridad en la playa y el entorno", "desc": "Playa Brava tiene oleaje y corrientes que pueden ser intensos. Respeta las banderas y las indicaciones de los guardavidas, y evita el agua cuando hay viento fuerte.", "tip": "Cuida tus pertenencias y no dejes residuos: es un espacio público protegido." }
     ]
   },
   "recommendations": {

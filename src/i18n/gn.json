@@ -1,7 +1,21 @@
 {
   "meta": {
-    "title": "Punta del Este Roga | Uruguay Ta'anga",
-    "description": "Punta del Este Roga (La Mano) mboyerovia: jeréia, hesa'ỹ, ñe'ẽnga, ta'anga, jeikuaa ha mba'éichapa ogusteta Playa Brava-pe, Uruguay."
+    "title": "Los Dedos de Punta del Este (La Mano) | Jeguata ha Tenda",
+    "description": "Eikuaa Los Dedos de Punta del Este (La Mano): tenda Playa Brava-pe, aravo, jeréia, ta'anga ha aravo iporãvéva. Reike rei, ojepe'a 24 aravo."
+  },
+  "seo": {
+    "h1": "Los Dedos de Punta del Este (La Mano) — Hombre emergiendo a la vida",
+    "aboutHeading": "La Mano — Hombre emergiendo a la vida rehegua",
+    "locationHeading": "Tenda ha mba'éichapa eguata La Mano Punta del Este-pe",
+    "landmarksHeading": "Tenda ha mba'e oĩva La Mano jerére",
+    "historyHeading": "La Mano — Hombre emergiendo a la vida jeréia ha hesa'ỹ",
+    "introLead": "Tereguahẽ porã <strong>La Mano (Hombre emergiendo a la vida)</strong> pe, ojehero <strong>La Mano</strong>, ha avei Los Dedos. Oĩva <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong> mbytépe, ha'e tenda tuichavéva ojeho va'erã.",
+    "nearbyLead": "Ehecha jave <strong>La Mano (Hombre emergiendo a la vida)</strong>, ikatu ehecha tenda jeréia oĩva, <strong>Faro de Punta del Este</strong> ha <strong>Casapueblo</strong>.",
+    "breadcrumbLabel": "Jeguata rape",
+    "heroAlt": "La Mano — Hombre emergiendo a la vida, Punta del Este, Uruguay",
+    "galleryAlt": "La Mano (Los Dedos) Playa Brava-pe",
+    "mapIframeTitle": "La Mano tenda mapa Punta del Este-pe",
+    "officialLink": "Uruguay / Maldonado Turismo Oficial"
   },
   "header": {
     "siteName": "Punta del Este Roga",
@@ -13,6 +27,8 @@
     "faq": "Porandu",
     "map": "Mapa",
     "transport": "Mba'éicha llegar",
+    "weather": "Aravo",
+    "practical": "Servicio",
     "backToHome": "Eju ñepyrũ"
   },
   "common": {
@@ -22,19 +38,19 @@
   "hero": {
     "title": "Punta del Este Roga",
     "subtitle": "Roga tuicha oúva yvy guýpe Playa Brava-gui, Uruguay rembiapore ipyahuvéva apytépe.",
-    "rating": "4.5(28.220)",
-    "reviewCount": "Jeikuaa 28.220",
+    "rating": "4.5(28.416)",
+    "reviewCount": "Jeikuaa 28.416",
     "hours": "Arapýpe 24 aravo",
     "openMaps": "Ehecha tenda",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "infoBar": {
     "address": "Tenda",
-    "addressValue": "Av. Eduardo Víctor Haedo, Playa Brava, Punta del Este, Uruguay",
+    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Pumbyry",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 Punta del Este",
+    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
     "hours": "Aravo",
     "hoursValue": "24 aravo / ára paite"
   },
@@ -68,24 +84,44 @@
     "title": "Roga jeréia, hesa'ỹ ha ñe'ẽnga",
     "sections": [
       {
-        "id": "history",
-        "title": "Jeipuru (1982)",
-        "content": "1982-pe, Punta del Este ojapo tembiporu yvy ári jeheka guasu. Chile mba'apohára Mario Irarrázabal ome'ẽ peteĩ mba'e ymaite: roga tuicha yvy guýpe oĩva. Ojapo hormigón rupive, ha ko tembiporu oñembojehe'a yvy ha paran reheve. Upe ára guive ha'e peteĩ mba'e guasu ha opyta ko'ágã peve."
+        "id": "origin",
+        "title": "Ñepyrũ: 1982 aty",
+        "content": "Roga oñepyrũ 1982 verano-pe, peteĩ aty guasu yvy ári ojejapóva Punta del Este-pe. Aty ombyaty mba'apohára heta tetãgui, ojapo va'erã mba'e tuicha opaite tapicha ohechápe, paraguasu renondépe. Chile mba'apohára Mario Irarrázabal ome'ẽ mba'e py'a guasu: roga tuicha osẽva yvy guýgui, peteĩ rete oñeñotỹmba yvy guýpe. Ojapo land art ramo — oñe'ẽ hag̃ua yvy ha para ndive — ha'e peteĩ mba'e guasu pya'e ha opyta upépe ko'ágã peve."
+      },
+      {
+        "id": "artist",
+        "title": "Mba'apohára: Mario Irarrázabal",
+        "content": "Mario Irarrázabal heñói Santiago de Chile-pe, 1940-pe, ha ha'e peteĩ mba'apohára ojekuaavéva Latinamérica-pe. Oñemoarandu Universidad de Chile-pe ha Alemania-pe, ha imba'apo oñe'ẽ kuimba'e rete, tuichakue ha yvy rehe. 1982-pe oiporavo yvy (playa) ha hormigón. Ary rire ojapo jey upe mba'e Desierto de Atacama-pe (Chile, 1992), peteĩ roga tuicha osẽva yvy guýgui: upe ojapo va'ekue Punta del Este-pe."
+      },
+      {
+        "id": "construction",
+        "title": "Mba'éichapa ojapo",
+        "content": "Roga ojapóva hormigón armado ndive, acero ári, ojapo upépe Playa Brava yvy ári. Ipo po ohupyty tuichakue guasu, yvateve peteĩ tapicha, upéicha visitante ikatu ohecha isa'y. Oĩ yvy guýpe ha oñeñapytĩ yvy ári, ha oñe'ẽ marea, yvytu ha juky ndive: yvy oñotỹ ha osẽ ijykegui marea ndive, ha Intendencia de Maldonado oñangareko oĩ porã hag̃ua."
       },
       {
         "id": "meaning",
-        "title": "Mba'épa he'isépa?",
-        "content": "Irarrázabal he'i roga ha'e kuimba'e ayvu ha aislamiento naturaleza ha mba'e tuichakue rendaguére. Roga yvy guýpe, yvága renonde, he'ise pytũ ha kuimba'e vai paraíso rendaguére. Mba'apohára ojapo avei ambue roga yvy guýpe opaite tendápe, ha ko'ãva ha'e ichupe ta'anga."
+        "title": "Mba'épa he'ise?",
+        "content": "Irarrázabal he'i roga ndaha'éi ojehe'ava'ekue yguasu-pe, ha'e kuimba'e osẽva yvy guýgui oikove hag̃ua — upévare héra Hombre emergiendo a la vida. Roga po ojehecha peteĩ pytyvõ, ñe'ẽ mombyry térã momba ramo; avei ohechauka kuimba'e vai naturaleza tuichakue renondépe. Ko mba'e ndojeikuaaporãi: opaite visitante omoĩ hesa'ỹ ijehegui."
       },
       {
         "id": "legend",
-        "title": "Ñe'ẽnga",
-        "content": "Hesa'ỹ okuére, oĩ peteĩ ñe'ẽnga: roga ha'e mbaporára y rembói oĩva yvy guýpe, ojapo po yvága gotyo oiko voípe. Ambue kuéra he'i ha'e tenda paran ogueraháva kuimba'e. Mba'e térã ñe'ẽnga, roga ombohováiva ohecháva."
+        "title": "Ñe'ẽnga ha mito tetãygua",
+        "content": "Opaite ta'anga guasu ramo, Roga oguereko iñe'ẽnga. Ojekuaavéva he'i oĩ peteĩ gigante oñeñotỹva yvy guýpe, osẽ añónte ipo; ambue he'i ha'e peteĩ oñapymi va'ekue yguasu-pe, osẽva ojerurévo pytyvõ. Avei he'i oñeñandúva ipo oguerekóta suerte ha ojujeyta Punta del Este-pe. Ko'ã ha'e ñe'ẽnga ndaogueréiva marandu tee, ha katu oĩ tapicha apytu'ũme."
       },
       {
-        "id": "significance",
-        "title": "Punta del Este ta'anga",
-        "content": "Ary pukukue rupive, Punta del Este Roga ha'e táva ta'anga tee ha visitante opaite jeguata-pe. Ojehecha postal, kuatiañe'ẽ ha turismo campaña, ha oĩva Playa Brava poguýpe, óga ha'yguasu rupive."
+        "id": "icon",
+        "title": "Tembiporu gui táva ta'anga peve",
+        "content": "Ary pukukue rupive, Roga ndaha'evéi peteĩ tembiporu añónte: ha'e Punta del Este ta'anga ha peteĩ umi monumento ojehechavéva Uruguay-pe. Ojehecha postal, kuatiañe'ẽ, turismo campaña, música video ha redes sociales-pe, ha ha'e tenda ojohechahápe visitante opaite tetãgui. Hesejáva ikatúva ojekuaa pya'e ha'e táva logo natural ha oĩva Playa Brava poguýpe, ojekuaavéva y tuichahápe."
+      },
+      {
+        "id": "conservation",
+        "title": "Ñangareko ha mantenimiento",
+        "content": "Oĩ yvytu, yvy ha juky para rendápe, upe mba'e oikotevẽ ñangareko. Intendencia de Maldonado ha equipo mantenimiento ojapo limpieza ha reparación hormigón ha acero oĩ porã hag̃ua. Avei roga oĩ peteĩ tenda público oñeñangarekóva, upévare ja'erory visitante ani ohupi ipo ha ani oheja yty, táva oútava ohecha hag̃ua oĩháicha."
+      },
+      {
+        "id": "curiosities",
+        "title": "Curiosidad ha marandu porã",
+        "content": "Roga iviru'ỹ ha ijuruja 24 aravo, opa ary. Heta visitante opensa ohecha peteĩ rete oñeñotỹmba: añetehápe, yvy guýpe oĩ añónte upe estructura ogueraháva roga. Ha'e tenda ojohechahápe Playa Brava-pe, ha ijesareko rehe oñeme'ẽ luz ojojogua ára pukukue: pyhareve yvy oĩ porãve ha ka'aru luz dorada omombe'u hormigón. Ehecha va'erã mediodía rire verano-pe."
       }
     ]
   },
@@ -93,6 +129,9 @@
     "title": "Ta'anga aty",
     "subtitle": "Punta del Este Roga ha Playa Brava tuichakue",
     "photoAlt": "Punta del Este Roga Playa Brava-pe",
+    "lightboxClose": "Mboty",
+    "lightboxPrev": "Mboyvegua",
+    "lightboxNext": "Upeigua",
     "viewAll": "Ehecha Google Maps-pe",
     "showMore": "Ehecha ta'angave",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -228,7 +267,10 @@
       { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
       { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
     ],
-    "disclaimer": "Ko ha'e peteĩ jeheka peteĩha, ndaha'éi mba'e oficiable. Ndaroikuaa gobierno térã institución oficial ndive."
+    "disclaimer": "Ko ha'e peteĩ jeheka peteĩha, ndaha'éi mba'e oficiable. Ndaroikuaa gobierno térã institución oficial ndive.",
+    "officialName": "La Mano — Hombre emergiendo a la vida",
+    "napTitle": "Tenda marandu oficial (NAP)",
+    "imageRights": "Opa ta'anga ojehecháva ko web-pe, iñowner ha copyright ha'e ta'anga apohára teete mba'e."
   },
   "privacy": {
     "title": "Privacidad reko",
@@ -365,7 +407,151 @@
             "a": "Aravo rasa oĩ Faro de Punta del Este, Puerto de Punta del Este ha Casapueblo (Carlos Páez Vilaró mba'apohára museo). Península ha Calle 20 restaurante oipytyvõ ára iporãva Roga ykére."
           }
         ]
+      },
+      {
+        "id": "location",
+        "title": "Tenda ha jeike",
+        "items": [
+          {
+            "q": "¿Moõpa oĩ La Mano — Hombre emergiendo a la vida?",
+            "a": "La Mano — Hombre emergiendo a la vida oĩ Stop 1 Playa Brava-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (postal 20001). Coordenada: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+          },
+          {
+            "q": "¿Iviru'ỹpa ojehecha La Mano?",
+            "a": "Hẽe. La Mano ha'e tenda público, iviru'ỹ 24 aravo, ára 365 ary. Ndaroikuaa boletería."
+          }
+        ]
       }
+    ]
+  },
+  "sources": {
+    "title": "Moñe'ẽha ha referencia",
+    "subtitle": "Marandu oñemoneĩva oficial, gobierno ha referencia rendágui.",
+    "intro": "Ko kuatia ha'e peteĩ proyecto ojejapóva oficial ha referencia rendágui. Ehecha ko'ã link marandu pyahu ha oficial rehe:",
+    "officialNote": "Marandu oficial ha tetãvore rehe, ehecha",
+    "items": [
+      { "name": "Intendencia de Maldonado — Gobierno", "url": "https://www.maldonado.gub.uy/", "desc": "Gobierno local oñangarekóva tenda roga oĩhápe." },
+      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Uruguay turismo portal oficial." },
+      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/", "desc": "Tetã turismo promoción web oficial." },
+      { "name": "Wikipedia — La Mano (escultura)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Enciclopedia marandu tembiporu ha mba'apohára rehe." },
+      { "name": "Google Maps — tenda oficial", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Tenda marandu: tenda, aravo ha visitante jeikuaa." }
+    ]
+  },
+  "imageRights": {
+    "title": "Ta'anga derecho",
+    "text": "Opa ta'anga ojehecháva ko web-pe, iñowner ha copyright ha'e ta'anga apohára teete mba'e."
+  },
+  "weather": {
+    "title": "Aravo Punta del Este-pe",
+    "subtitle": "Ehecha aravo ko'ágã ha 7 ára oútava, eipuru eguata porã hag̃ua La Mano Playa Brava-pe.",
+    "today": "Ko ára",
+    "feelsLike": "Oñandúva",
+    "humidity": "Aky",
+    "wind": "Yvytu",
+    "precipitation": "Ama ikatu",
+    "uvIndex": "Índice UV",
+    "forecastTitle": "7 ára oútava",
+    "updated": "Oñembohekopyahu",
+    "source": "Ñepyrũha",
+    "dayNames": ["Arateĩ", "Arakõi", "Araapy", "Ararundy", "Arapo", "Arapoteĩ", "Arapokõi"],
+    "adviceTitle": "Marandu porã reju hag̃ua",
+    "outfitLabel": "Mba'e rejaho'i",
+    "planLabel": "Mba'épa rejapo",
+    "itemsLabel": "Mba'e regueru",
+    "alertLabel": "Marandu kyhyje",
+    "windForceLabel": "Yvytu mbarete",
+    "waveLabel": "Y guasu yvate",
+    "seaTempLabel": "Y aku",
+    "sunriseLabel": "Kuarahy osẽ",
+    "sunsetLabel": "Kuarahy oike",
+    "forceUnit": "Bft",
+    "alThunder": "Aravero: ani reĩ plia-pe térã tenda ovérto-pe, ani reñemoĩ yvyra guýpe.",
+    "alRain": "Ama mbarete: ani reho tenda karapãme ha tape oñemyenyhẽva y.",
+    "alWind": "Yvytu mbarete: eñemboyke ita para rembe'ýgui, marandu ha mba'e sapy'áva.",
+    "alUv": "UV mbarete: ani reĩ kuarahýpe mediodía-pe, ikatu reñandu vai.",
+    "alHeat": "Aku mbarete: eñangareko, e'u y meme.",
+    "alFog": "Tatatĩ: ndojehechaporãi, eñangareko.",
+    "alSea": "Y guasu mbarete: ani reike y-pe ha ani reñembojái ita ári.",
+    "oHeat": "Aku: eipuru ao vevúi ha ipytã.",
+    "oCold": "Ro'y: eipuru ao aku, heta apére.",
+    "oMild": "Aku porã: ao hasy'ỹva reguata hag̃ua.",
+    "oSwing": "Ara ha pyhare ojoavy: egueru peteĩ campera.",
+    "oRain": "Ikatu ama: iporã peteĩ ao ndoikéiva y.",
+    "oUv": "UV mbarete: eipuru protector solar ha ani reĩ kuarahýpe mediodía-pe.",
+    "oWind": "Yvytu mbarete: ani reipuru ao pe ména ha sombrero osẽva.",
+    "pThunder": "Aravero jave ndaiporãi reĩ plia-pe; barco ha tembiapó okápe oñemboyke.",
+    "pHeavyRain": "Ndaiporãi tembiapó okápe ko ára: eho tenda oñeñangarekóvape.",
+    "pLightRain": "Ama michĩ: tembiapó okápe vai, rambla-pe ikatu reguata.",
+    "pFog": "Tatatĩ-pe ndojehechái yvy ha para: ndaiporãi ehecha hag̃ua.",
+    "pRainProb": "Ama ikatueterei: egueru paraguas ha eheja tenda remoambue hag̃ua.",
+    "pClear": "Ara porã: iporã reguata para rembe'ýre ha ehecha kuarahy oike.",
+    "pCloudy": "Arapire: kuarahy vevúi, iporã reguata ha rembohyapu'ã.",
+    "pHeat": "Aku-pe eho pyhareve térã ka'aru, ani mediodía.",
+    "pWind5": "Yvytu mbarete: ikatu y guasu yvate ha tembiapó y-pe oñemboyke.",
+    "pWind7": "Yvytu tuicha: tembiapó para-pe oñemboyke.",
+    "pSeaRough": "Y guasu mbarete: ani reike y-pe.",
+    "pSeaCalm": "Y guasu py'ỹi: iporã reguata ha ehecha kuarahy oike.",
+    "iUmbrella": "Paraguas",
+    "iRaincoat": "Ao ama-gua (yvytu-pe iporãve paraguas gui)",
+    "iSun": "Protector solar, lentes ha sombrero",
+    "iWater": "Y heta",
+    "iJacket": "Peteĩ campera",
+    "iWarm": "Ao aku (campera, bufanda)",
+    "iWind": "Ao yvytu-gua",
+    "iSea": "Zapato plia-gua (ita ári oñeslizha)",
+    "iMask": "Tapabocas (tatatĩ-pe)",
+    "tideTitle": "Y guasu",
+    "tideNow": "Y guasu ko'ág̃a",
+    "tideNowMark": "Ko'ág̃a",
+    "tideRising": "Ojupíva",
+    "tideFalling": "Oguejýva",
+    "tideSteady": "Opyta",
+    "tideNextHigh": "Y guasu ojupítava",
+    "tideNextLow": "Y guasu oguejýtava",
+    "tideHigh": "Y guasu yvate",
+    "tideLow": "Y guasu guy",
+    "tideTodayTitle": "Y guasu ko ára",
+    "tideChartTitle": "Y guasu 24 aravo oútava",
+    "tideRangeLabel": "Ko ára ijoavy",
+    "tideScaleSpring": "Y guasu tuicha",
+    "tideScaleMedium": "Y guasu mbyte",
+    "tideScaleNeap": "Y guasu michĩ",
+    "tideNote": "Y guasu ojehecha y mbyte gui · Marandu añónte",
+    "tRising": "Y guasu ojupi: ani reĩ ita ári ha ani rejepyta upépe.",
+    "tFalling": "Y guasu oguejy: iporã reguata ha ehecha ita; eju jey ojupi mboyve.",
+    "tNearHigh": "Y guasu ojupíma: sa'i plia, eñangareko y guasu.",
+    "tNearLow": "Y guasu oguejýma: plia heta, ha katu y guasu ojupíta jey.",
+    "tSpring": "Ko ára y guasu tuicha: ijoavy tuve ha ojupi pya'e.",
+    "codes": {
+      "clear": "Ara porã",
+      "mainlyClear": "Ara porãve",
+      "partlyCloudy": "Arapire mbovy",
+      "overcast": "Arapire",
+      "fog": "Tatatĩ",
+      "drizzle": "Ama michĩ",
+      "freezingDrizzle": "Ama michĩ ro'y",
+      "rain": "Ama",
+      "freezingRain": "Ama ro'y",
+      "snow": "Yrypy'a",
+      "showers": "Ama pya'e",
+      "snowShowers": "Yrypy'a pya'e",
+      "thunderstorm": "Aravero"
+    }
+  },
+  "practical": {
+    "title": "Marandu porã ha servicio jerére",
+    "subtitle": "Opa mba'e eikuaa va'erã reju mboyve: servicio, jeike ha marandu porã Playa Brava-pe.",
+    "neutralNote": "Ñande ha'e web marandu ndaha'éi viru rehegua. Ñahechauka añónte mba'éichagua servicio oĩ, ndoroikuaaukái comercio peteĩva.",
+    "items": [
+      { "icon": "🚻", "title": "Baño ha ducha", "desc": "Ndaipóri baño público oĩmbáva roga ypýpe. Verano-pe, parador ha balneario Playa Brava-pe ome'ẽ baño ha ducha; ambue ára-pe eho táva mbytépe.", "tip": "Verano rire, servicio plia-gua oñembotýma." },
+      { "icon": "🅿️", "title": "Estacionamiento", "desc": "Roga oĩ Av. Eduardo Víctor Haedo ári. Oĩ estacionamiento medido tape ári ha estacionamiento privado jerére; verano-pe ojehepyme'ẽ ha oñemyenyhẽ pya'e.", "tip": "Enero ha febrero-pe, eju pyhareve, térã eipuru ómnibus, taxi térã bicicleta." },
+      { "icon": "🍽️", "title": "Mba'épa re'u", "desc": "Avenida ha península rupi oĩ restaurante, parrilla, cafetería, pizzería ha heladería, hepy ojojogua. Playa-pe, parador ome'ẽ tembi'u hasy'ỹva.", "tip": "Verano-pe eipuru reserva; ambue ára-pe heta oñemboty." },
+      { "icon": "🏨", "title": "Roga jepyta", "desc": "Oĩ hotel, hostal, apart-hotel, apartamento ha alquiler temporal. Heta oĩ centro ha península-pe, roga ypýpe.", "tip": "Eipuru reserva diciembre–febrero ha feriado puku-pe." },
+      { "icon": "🛒", "title": "Supermercado ha mba'e", "desc": "Centro ha península-pe oĩ supermercado, minimercado ha farmacia, ikatu rejogua y, protector solar, snack ha mba'e plia-gua.", "tip": "Egueru y: ndaheta fuente público rambla-pe." },
+      { "icon": "⛽", "title": "Nafta ha carga eléctrica", "desc": "Oĩ estación de servicio nafta ha gasoil ndive tape guasu oikehápe táva-pe. Carga eléctrica sa'ive ha oĩ hotel ha estacionamiento centro-pe.", "tip": "Eléctrico-pe, emboaje carga yvy gotyo reju mboyve." },
+      { "icon": "♿", "title": "Accesibilidad", "desc": "Rambla ha paseo costero tuicha ha flat, iporã silla de ruedas ha cochecito-pe. Yvy plia-gua ikatu vai.", "tip": "Roga ypýpe eho paseo pavimentado rupi, ndaha'éi yvy ku'i ári." },
+      { "icon": "🏥", "title": "Salud, farmacia ha cajero", "desc": "Centro-pe oĩ farmacia, centro médico ha cajero automático. Emergencia-pe, Uruguay número único ha'e 911.", "tip": "Egueru viru: ndaopaitéi comercio michĩ ojagarra tarjeta." },
+      { "icon": "🛟", "title": "Seguridad plia ha jerére", "desc": "Playa Brava y imbarete ha corriente ikatu vai. Erespeta bandera ha guardavida, ha ani reike y-pe yvytu tuicha jave.", "tip": "Eñangareko ne mba'e ha ani rejapo yty: tenda público oñeñangarekóva." }
     ]
   },
   "recommendations": {

@@ -1,25 +1,37 @@
 ---
 import { getI18n } from '../i18n/ui';
+import { attraction } from '../config/attraction';
 const { messages } = getI18n(Astro.url);
 const m = messages.mapSection;
-const embedUrl = 'https://www.google.com/maps?q=-34.9615,-54.9492(Los+Dedos+de+Punta+del+Este)&z=16&output=embed';
+const seo = messages.seo;
 ---
 
 <section id="map" class="section-padding" style="background: var(--bg-secondary);">
   <div class="max-w-4xl mx-auto px-4">
-    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{m.title}</h2>
-    <p class="text-center text-lg mb-8" style="color: var(--text-secondary);">{m.subtitle}</p>
+    <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-3 text-center" style="color: var(--text-primary);">{seo.locationHeading}</h2>
+    <p class="text-center text-lg mb-2" style="color: var(--text-secondary);">{m.title}</p>
+    <p class="text-center text-base mb-8" style="color: var(--text-secondary);">{m.subtitle}</p>
 
+    <!-- Google 地图嵌入 -->
     <div class="map-container overflow-hidden border" style="border-color: var(--map-border);">
       <iframe
-        src={embedUrl}
+        src={attraction.mapsEmbedSrc}
         width="100%"
-        height="420"
+        height="450"
         style="border:0;"
+        allowfullscreen
         loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
-        title={m.title}
+        referrerpolicy="strict-origin-when-cross-origin"
+        title={seo.mapIframeTitle}
       ></iframe>
+    </div>
+
+    <!-- NAP 一致性块 -->
+    <div class="mt-8 text-center text-sm" style="color: var(--text-secondary);">
+      <p class="font-semibold" style="color: var(--text-primary);">{attraction.fullName}</p>
+      <p>{attraction.streetAddress}, {attraction.city}, {attraction.region} {attraction.postalCode}, {attraction.country}</p>
+      <p>{attraction.plusCode}</p>
+      <p><a href={`tel:${attraction.telephone.replace(/\s/g, '')}`} class="hover:opacity-70" style="color: var(--accent);">{attraction.telephone}</a></p>
     </div>
 
     <div class="text-center mt-8">
@@ -27,5 +39,13 @@ const embedUrl = 'https://www.google.com/maps?q=-34.9615,-54.9492(Los+Dedos+de+P
         📍 {m.openMaps}
       </a>
     </div>
+
+    <!-- 权威 .gub.uy / .org 外链 -->
+    <p class="mt-8 text-center text-sm" style="color: var(--text-muted);">
+      {seo.officialNote}{' '}
+      <a href={attraction.govtTourismUrl} target="_blank" rel="noopener noreferrer" class="underline hover:opacity-70" style="color: var(--accent);">
+        {seo.officialLink}
+      </a>.
+    </p>
   </div>
 </section>

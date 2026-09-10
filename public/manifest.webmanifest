@@ -1,0 +1,57 @@
+{
+  "name": "La Mano — Hombre emergiendo a la vida (Punta del Este)",
+  "short_name": "La Mano",
+  "description": "Guía del visitante de La Mano — Hombre emergiendo a la vida (Los Dedos), el icónico monumento de Punta del Este, Maldonado, Uruguay.",
+  "lang": "es",
+  "id": "/?source=pwa",
+  "start_url": "/es",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f2015",
+  "theme_color": "#0f2015",
+  "categories": ["travel", "navigation", "education"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Mapa y ubicación",
+      "short_name": "Mapa",
+      "url": "/es#map"
+    },
+    {
+      "name": "Historia y significado",
+      "short_name": "Historia",
+      "url": "/es#history"
+    },
+    {
+      "name": "Galería de fotos",
+      "short_name": "Galería",
+      "url": "/es#gallery"
+    }
+  ]
+}

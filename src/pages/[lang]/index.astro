@@ -9,13 +9,19 @@ import MapEmbed from '../../components/MapEmbed.astro';
 import Transportation from '../../components/Transportation.astro';
 import FAQ from '../../components/FAQ.astro';
 import InfoBar from '../../components/InfoBar.astro';
+import Recommendations from '../../components/Recommendations.astro';
+import Weather from '../../components/Weather.astro';
+import PracticalInfo from '../../components/PracticalInfo.astro';
+import SourcesSection from '../../components/SourcesSection.astro';
 import { getI18n, languagesList } from '../../i18n/ui';
+import { attraction, galleryImages, SITE_URL } from '../../config/attraction';
 
 export function getStaticPaths() {
   return languagesList.map((lang) => ({ params: { lang } }));
 }
 
 const { messages, lang } = getI18n(Astro.url);
+const pageUrl = `${SITE_URL}/${lang}`;
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -31,49 +37,107 @@ const faqSchema = {
 
 const attractionSchema = {
   '@context': 'https://schema.org',
-  '@type': 'TouristAttraction',
-  name: messages.hero.title,
+  // 同时声明景点与雕塑两类，覆盖「观光地标」与「雕塑作品」两种查询意图
+  '@type': ['TouristAttraction', 'Sculpture'],
+  '@id': attraction.id,
+  name: attraction.fullName,
+  alternateName: attraction.alternateNames,
   description: messages.meta.description,
-  image: 'https://manopunta.com/gallery/punta-del-este-9.jpg',
-  url: `https://manopunta.com/${lang}`,
-  telephone: '+598 93 324 497',
+  url: pageUrl,
+  image: galleryImages,
+  isAccessibleForFree: true,
+  publicAccess: true,
+  telephone: attraction.telephone,
+  hasMap: attraction.mapsShareUrl,
+  sameAs: [attraction.mapsShareUrl, attraction.govtTourismUrl],
+  isPartOf: { '@id': `${SITE_URL}/#website` },
+  creator: {
+    '@type': 'Person',
+    name: attraction.creator,
+    nationality: { '@type': 'Country', name: attraction.creatorNationality },
+  },
+  dateCreated: attraction.dateCreated,
+  material: attraction.material,
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Av. Eduardo Víctor Haedo, Playa Brava',
-    addressLocality: 'Punta del Este',
-    addressRegion: 'Maldonado',
-    addressCountry: 'UY',
+    streetAddress: attraction.streetAddress,
+    addressLocality: attraction.city,
+    addressRegion: attraction.region,
+    postalCode: attraction.postalCode,
+    addressCountry: attraction.countryCode,
   },
   geo: {
     '@type': 'GeoCoordinates',
-    latitude: -34.9615,
-    longitude: -54.9492,
+    latitude: attraction.latitude,
+    longitude: attraction.longitude,
   },
   openingHoursSpecification: {
     '@type': 'OpeningHoursSpecification',
-    dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],
+    dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
     opens: '00:00',
     closes: '23:59',
   },
   aggregateRating: {
     '@type': 'AggregateRating',
     ratingValue: '4.5',
-    reviewCount: '28220',
+    reviewCount: '28416',
+    bestRating: '5',
   },
+  availableLanguage: ['es', 'en', 'zh', 'gn'],
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: attraction.fullName, item: pageUrl },
+    { '@type': 'ListItem', position: 2, name: attraction.city, item: 'https://es.wikipedia.org/wiki/Punta_del_Este' },
+    { '@type': 'ListItem', position: 3, name: attraction.region, item: 'https://es.wikipedia.org/wiki/Departamento_de_Maldonado' },
+    { '@type': 'ListItem', position: 4, name: attraction.country, item: 'https://es.wikipedia.org/wiki/Uruguay' },
+  ],
+};
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': `${SITE_URL}/#website`,
+  name: attraction.fullName,
+  alternateName: attraction.alternateNames,
+  url: SITE_URL,
+  inLanguage: lang,
+  about: { '@id': attraction.id },
+};
+
+const imageObjectSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ImageObject',
+  '@id': `${pageUrl}#primaryimage`,
+  contentUrl: attraction.heroImage,
+  url: attraction.heroImage,
+  caption: messages.seo.heroAlt,
+  creditText: 'Original photographers',
+  representativeOfPage: true,
 };
 ---
 
-<BaseLayout title={messages.meta.title} description={messages.meta.description} path="">
+<BaseLayout title={messages.meta.title} description={messages.meta.description} path="" image={attraction.heroImage}>
   <Hero />
   <InfoBar />
+  <Weather />
   <Intro />
   <InfoSection />
   <Gallery />
+  <PracticalInfo />
   <Reviews />
   <Transportation />
   <MapEmbed />
+  <Recommendations />
   <FAQ />
+  <SourcesSection />
 
   <script type="application/ld+json" set:html={JSON.stringify(attractionSchema)} is:inline />
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(imageObjectSchema)} is:inline />
 </BaseLayout>

@@ -1,7 +1,21 @@
 {
   "meta": {
-    "title": "The Fingers of Punta del Este | La Mano Sculpture, Uruguay",
-    "description": "The complete guide to The Fingers of Punta del Este (La Mano): history, meaning, legend, photos, reviews and how to get there on Brava Beach, Uruguay."
+    "title": "The Fingers of Punta del Este (La Mano) – Visitor Guide & Map",
+    "description": "Visiting The Fingers of Punta del Este (La Mano)? Exact location on Playa Brava, opening hours, history, photos and the best time to go. Free, open 24/7."
+  },
+  "seo": {
+    "h1": "The Fingers of Punta del Este (La Mano) — Man Emerging into Life",
+    "aboutHeading": "About La Mano — Man Emerging into Life",
+    "locationHeading": "Location & How to Visit La Mano in Punta del Este",
+    "landmarksHeading": "Landmarks & Attractions Around La Mano",
+    "historyHeading": "History & Significance of La Mano — Man Emerging into Life",
+    "introLead": "Welcome to <strong>La Mano (Man Emerging into Life)</strong>, widely recognized as the central <strong>La Mano</strong> landmark and also known as The Fingers. Located in the heart of <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, this destination serves as a primary hub for travellers visiting the region.",
+    "nearbyLead": "When visiting <strong>La Mano (Man Emerging into Life)</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including the <strong>Punta del Este Lighthouse</strong> and <strong>Casapueblo</strong>.",
+    "breadcrumbLabel": "Breadcrumb",
+    "heroAlt": "La Mano — Man Emerging into Life, main view in Punta del Este, Uruguay",
+    "galleryAlt": "La Mano (The Fingers) sculpture on Brava Beach, Punta del Este",
+    "mapIframeTitle": "Location map of La Mano — Man Emerging into Life in Punta del Este",
+    "officialLink": "Uruguay / Maldonado Official Tourism Portal"
   },
   "header": {
     "siteName": "The Fingers of Punta del Este",
@@ -13,6 +27,8 @@
     "faq": "FAQ",
     "map": "Map",
     "transport": "Getting there",
+    "weather": "Weather",
+    "practical": "Services",
     "backToHome": "Back to Home"
   },
   "common": {
@@ -22,19 +38,19 @@
   "hero": {
     "title": "The Fingers of Punta del Este",
     "subtitle": "A monumental hand rising from the sand of Brava Beach — one of Uruguay's most iconic landmarks.",
-    "rating": "4.5(28,220)",
-    "reviewCount": "28,220 reviews",
+    "rating": "4.5(28,416)",
+    "reviewCount": "28,416 reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "infoBar": {
     "address": "Address",
-    "addressValue": "Av. Eduardo Víctor Haedo, Brava Beach, Punta del Este, Uruguay",
+    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Stop 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Phone",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 Punta del Este",
+    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
     "hours": "Hours",
     "hoursValue": "24 hours / every day"
   },
@@ -65,27 +81,47 @@
     "text": "The Fingers is a public artwork maintained by the Intendencia de Maldonado, the provincial government of Maldonado Department where Punta del Este is located. As one of Uruguay's most visited landmarks, it draws hundreds of thousands of visitors every year and stands as a landmark of modern Latin American public art."
   },
   "knowledge": {
-    "title": "History, Meaning & Legend of The Fingers",
+    "title": "History, Meaning & Legend of La Mano",
     "sections": [
       {
-        "id": "history",
-        "title": "Origins (1982)",
-        "content": "In 1982, Punta del Este hosted an international open-air sculpture meeting. The Chilean artist Mario Irarrázabal submitted a striking proposal: a giant hand seemingly buried in the sand, with only its five fingers visible. Poured in concrete over a steel frame, the work was conceived as a piece of land art that would interact with the beach and the sea. It was an immediate sensation and has remained in place ever since."
+        "id": "origin",
+        "title": "Origins: the 1982 sculptors' meeting",
+        "content": "La Mano was born in the summer of 1982, during an international open-air sculptors' meeting held in Punta del Este. The event brought together artists from several countries who were asked to create monumental works in public view, facing the sea. The proposal by Chilean artist Mario Irarrázabal was the boldest: a giant hand emerging from the sand, as if an entire body lay buried beneath the beach. Conceived as land art — a piece designed to interact with the landscape — it was an immediate sensation and has stood in the same spot ever since."
+      },
+      {
+        "id": "artist",
+        "title": "The artist: Mario Irarrázabal",
+        "content": "Mario Irarrázabal was born in Santiago, Chile, in 1940 and is one of Latin America's most recognised sculptors. Trained at the University of Chile and later in Germany, his work revolves around the human figure, monumental scale and the relationship between people and landscape. In 1982 he chose the beach as his canvas and concrete as his material. Years later he returned to the same motif in the Atacama Desert (Chile, 1992), where another giant hand rises from the sand — a variation on the gesture he had first tried in Punta del Este."
+      },
+      {
+        "id": "construction",
+        "title": "How it was built",
+        "content": "The sculpture is made of reinforced concrete over a steel frame, moulded in situ on the sand of Brava Beach. Its five fingers rise at monumental scale, far taller than a person, so that visitors can measure their own size against the work. Anchored in the beach, the piece converses with the tide, the wind and the salt: sand covers and uncovers its base with the surf, and periodic maintenance by the Intendencia de Maldonado keeps its original appearance."
       },
       {
         "id": "meaning",
-        "title": "What Does It Mean?",
-        "content": "Irarrázabal described the hand as a metaphor for human vulnerability and isolation in the face of nature and the infinite. A figure half-buried, reaching toward the sky, it suggests both a cry for help and the fragility of human beings before the immensity of the ocean. The artist returned to the buried-hand motif in later works around the world, making it his signature theme."
+        "title": "What does it mean?",
+        "content": "Irarrázabal has explained that the work represents neither a drowned person nor a shipwreck, but the human being emerging from the earth into life — hence its full name, Man Emerging into Life. The open hand can be read as a gesture of help, farewell or wonder, and as a reminder of human fragility before the immensity of nature. The ambiguity is intentional: every visitor completes the meaning from their own experience."
       },
       {
         "id": "legend",
-        "title": "The Local Legend",
-        "content": "Beyond its official meaning, a popular local legend says the hand belongs to a shipwrecked sailor who, trapped beneath the sand, stretches his fingers toward the surface as a final plea for rescue. Others say it marks the spot where the sea claims the unwary. Whether symbol or story, the sculpture never fails to move those who stand before it."
+        "title": "Local legends and myths",
+        "content": "Like any iconic work, La Mano has gathered its own legends. The most widespread speaks of a giant buried beneath the beach with only a hand showing; another says it belongs to a swimmer trapped by the sea, emerging to ask for help. It is also said that whoever touches the fingers will have good luck and return to Punta del Este. These are popular tales with no historical basis, yet they are part of the imagination the sculpture awakened in the community."
       },
       {
-        "id": "significance",
-        "title": "A Symbol of Punta del Este",
-        "content": "Over the decades, The Fingers has become the defining image of Punta del Este and a must-see stop on every visitor's itinerary. It appears on postcards, guidebooks and travel campaigns, and anchors the lively Brava Beach, famous for its strong surf and golden dunes."
+        "id": "icon",
+        "title": "From artwork to symbol of the city",
+        "content": "Over the decades, La Mano stopped being just another sculpture and became the image of Punta del Este and one of the most photographed monuments in Uruguay. It appears on postcards, guidebooks, tourism campaigns, music videos and social media, and is a favourite meeting point for visitors from around the world. Its instantly recognisable silhouette works as a natural logo for the city and anchors the lively Brava Beach, famous for its strong surf."
+      },
+      {
+        "id": "conservation",
+        "title": "Conservation and maintenance",
+        "content": "Exposed to wind, sand and sea salt, the work requires regular care. The Intendencia de Maldonado and maintenance crews carry out cleaning and repair work to preserve the concrete and the steel structure. The sculpture also stands in a protected public space, so visitors are asked not to climb on the fingers or leave litter, so that future generations find it as its author imagined it."
+      },
+      {
+        "id": "curiosities",
+        "title": "Curiosities and useful facts",
+        "content": "The sculpture is free and accessible 24 hours a day, all year round. Many visitors think they see a whole body buried: in reality, only the structure that supports the hand lies beneath the sand. It is a common meeting point on Brava Beach and, thanks to its orientation, offers different light throughout the day: mornings are calmer and at sunset the golden light brings out the concrete. Visiting outside midday in summer is recommended, when the sun and the crowds are strongest."
       }
     ]
   },
@@ -93,6 +129,9 @@
     "title": "Photo Gallery",
     "subtitle": "Views of The Fingers and the sweeping Brava Beach",
     "photoAlt": "The Fingers of Punta del Este sculpture on Brava Beach",
+    "lightboxClose": "Close",
+    "lightboxPrev": "Previous",
+    "lightboxNext": "Next",
     "viewAll": "View Location on Google Maps",
     "showMore": "Show More Photos",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -228,7 +267,10 @@
       { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
       { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
     ],
-    "disclaimer": "This is an independent, non-profit visitor information project. We are not affiliated with any government body or official institution."
+    "disclaimer": "This is an independent, non-profit visitor information project. We are not affiliated with any government body or official institution.",
+    "officialName": "La Mano — Man Emerging into Life",
+    "napTitle": "Official Place Details (NAP)",
+    "imageRights": "All image ownership and copyright of the images displayed on this website belong to their original photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -365,7 +407,151 @@
             "a": "Just minutes away are the Punta del Este Lighthouse (the classic city viewpoint), the Punta del Este Port with its fishermen's market, and Casapueblo, the museum-workshop of artist Carlos Páez Vilaró at Punta Ballena. The peninsula and the bars and restaurants of Calle 20 round out an ideal day within a few kilometres of The Fingers."
           }
         ]
+      },
+      {
+        "id": "location",
+        "title": "Location & Access",
+        "items": [
+          {
+            "q": "Where is La Mano — Man Emerging into Life located?",
+            "a": "La Mano — Man Emerging into Life is located at Stop 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). Coordinates: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+          },
+          {
+            "q": "Is La Mano free to visit?",
+            "a": "Yes. La Mano — Man Emerging into Life is a public space and is free to visit 24 hours a day, 365 days a year. There is no ticket office or access control."
+          }
+        ]
       }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "subtitle": "Information verified against official, governmental and reference sources.",
+    "intro": "This guide is an independent project compiled from official and reference sources. For up-to-date, official information, please consult the links below:",
+    "officialNote": "For official and regional information, visit the",
+    "items": [
+      { "name": "Intendencia de Maldonado — Departmental Government", "url": "https://www.maldonado.gub.uy/", "desc": "Local government responsible for maintaining the public space where the sculpture stands." },
+      { "name": "Ministry of Tourism of Uruguay", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Official national tourism portal of Uruguay." },
+      { "name": "Uruguay Natural — Official Tourism", "url": "https://uruguaynatural.com/", "desc": "Official country tourism promotion site." },
+      { "name": "Wikipedia — La Mano (sculpture)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Encyclopedic reference on the artwork and its author." },
+      { "name": "Google Maps — official listing", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Place listing with location, hours and visitor reviews." }
+    ]
+  },
+  "imageRights": {
+    "title": "Image Rights",
+    "text": "All image ownership and copyright of the images displayed on this website belong to their original photographers."
+  },
+  "weather": {
+    "title": "Punta del Este Weather",
+    "subtitle": "Check current conditions and the 7-day forecast to plan your visit to La Mano on Brava Beach.",
+    "today": "Today",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipitation": "Rain chance",
+    "uvIndex": "UV index",
+    "forecastTitle": "7-Day Forecast",
+    "updated": "Updated",
+    "source": "Source",
+    "dayNames": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "adviceTitle": "What to expect & how to prepare",
+    "outfitLabel": "What to wear",
+    "planLabel": "What to do",
+    "itemsLabel": "What to pack",
+    "alertLabel": "Weather alert",
+    "windForceLabel": "Wind force",
+    "waveLabel": "Wave height",
+    "seaTempLabel": "Water temp.",
+    "sunriseLabel": "Sunrise",
+    "sunsetLabel": "Sunset",
+    "forceUnit": "Bft",
+    "alThunder": "Thunderstorm: avoid the beach and open areas, and do not shelter under trees.",
+    "alRain": "Heavy rain: avoid low-lying areas and flooded crossings.",
+    "alWind": "Very strong wind: stay away from coastal rocks, signs and temporary structures.",
+    "alUv": "Extreme UV: avoid the midday sun, there is a risk of sunburn.",
+    "alHeat": "Extreme heat: risk of heatstroke, drink water often.",
+    "alFog": "Dense fog: reduced visibility, take extra care.",
+    "alSea": "Rough sea: high surf, do not enter the water or approach the rocks.",
+    "oHeat": "Hot: wear light, breathable, light-coloured clothing.",
+    "oCold": "Cold: wear warm layers.",
+    "oMild": "Pleasant temperature: comfortable clothing for walking.",
+    "oSwing": "Big difference between day and night: bring a jacket you can put on and take off.",
+    "oRain": "Rain possible: a waterproof jacket is a good idea.",
+    "oUv": "High UV: use sunscreen and avoid direct midday sun.",
+    "oWind": "Strong wind: avoid loose clothing and hats that blow away.",
+    "pThunder": "With a thunderstorm it is not safe to stay on the beach; boat trips and outdoor activities are often suspended.",
+    "pHeavyRain": "Not a good day for outdoor activities: prefer places under cover.",
+    "pLightRain": "Drizzle makes time outdoors less pleasant, though the promenade walk is still possible.",
+    "pFog": "In fog you cannot see the landscape or the horizon: a poor day for viewpoints.",
+    "pRainProb": "High chance of rain: bring an umbrella and leave room to change outdoor plans.",
+    "pClear": "Clear day: ideal to walk the coast and watch the sunset over the sea.",
+    "pCloudy": "Overcast sky: soft light, great for walking and photographing the sculpture.",
+    "pHeat": "In the heat, go out early or at sunset and avoid midday.",
+    "pWind5": "Moderate wind: there may be surf and some water activities could be suspended.",
+    "pWind7": "Very strong wind: sea activities are usually cancelled.",
+    "pSeaRough": "Choppy sea: not the moment to go into the water.",
+    "pSeaCalm": "Calm sea: a good moment to walk the shoreline and watch the sunset.",
+    "iUmbrella": "Folding umbrella",
+    "iRaincoat": "Rain jacket (more practical than an umbrella in the wind)",
+    "iSun": "Sunscreen, sunglasses and a hat",
+    "iWater": "Plenty of water",
+    "iJacket": "A jacket for the temperature swing",
+    "iWarm": "Warm clothing (thick jacket, scarf)",
+    "iWind": "Windproof jacket",
+    "iSea": "Beach or rock shoes (they are slippery)",
+    "iMask": "Face mask (for the fog)",
+    "tideTitle": "Tides",
+    "tideNow": "Current level",
+    "tideNowMark": "Now",
+    "tideRising": "Rising",
+    "tideFalling": "Falling",
+    "tideSteady": "Slack",
+    "tideNextHigh": "Next high tide",
+    "tideNextLow": "Next low tide",
+    "tideHigh": "High tide",
+    "tideLow": "Low tide",
+    "tideTodayTitle": "Today's tides",
+    "tideChartTitle": "Sea level over the next 24 hours",
+    "tideRangeLabel": "Today's range",
+    "tideScaleSpring": "Spring tide",
+    "tideScaleMedium": "Mid tide",
+    "tideScaleNeap": "Neap tide",
+    "tideNote": "Height above mean sea level · Astronomical prediction, for guidance only",
+    "tRising": "The tide is coming in: stay off the rocks and do not linger on them.",
+    "tFalling": "The tide is going out: a good time to walk the shoreline and see the rocks; head back before it turns.",
+    "tNearHigh": "High tide is close: less beach is left, watch the surf.",
+    "tNearLow": "Low tide is close: more beach is exposed, but the water will come back.",
+    "tSpring": "Spring tide today: a bigger range and the water rises faster.",
+    "codes": {
+      "clear": "Clear",
+      "mainlyClear": "Mostly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "freezingDrizzle": "Freezing drizzle",
+      "rain": "Rain",
+      "freezingRain": "Freezing rain",
+      "snow": "Snow",
+      "showers": "Showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm"
+    }
+  },
+  "practical": {
+    "title": "Practical Information & Nearby Services",
+    "subtitle": "The essentials before you come: services, access and useful tips for your visit to Brava Beach.",
+    "neutralNote": "We are a non-profit information site. We only indicate which types of services exist in the area and do not recommend or promote specific businesses.",
+    "items": [
+      { "icon": "🚻", "title": "Restrooms & showers", "desc": "There are no permanent public restrooms next to the sculpture. In high season, the beach clubs and paradores along Brava Beach provide toilets and showers; outside summer, plan to use facilities in the city centre.", "tip": "Outside summer, beach services are usually closed." },
+      { "icon": "🅿️", "title": "Parking", "desc": "The sculpture sits on Av. Eduardo Víctor Haedo. There is metered on-street parking and private car parks nearby; in summer they are paid and fill up quickly.", "tip": "In January and February, arrive early or use the bus, a taxi or a bicycle." },
+      { "icon": "🍽️", "title": "Where to eat", "desc": "Along the avenue and on the peninsula you will find restaurants, steakhouses, cafés, pizzerias and ice-cream shops for every budget. On the beach, paradores serve informal menus.", "tip": "Book ahead in high season; outside season, several places close." },
+      { "icon": "🏨", "title": "Where to stay", "desc": "The area offers hotels, hostels, apart-hotels, tourist apartments and short-term rentals. The largest choice is in the centre and on the peninsula, minutes from the sculpture.", "tip": "Book early for December–February and long weekends." },
+      { "icon": "🛒", "title": "Supermarkets & supplies", "desc": "The centre and peninsula have supermarkets, mini-markets and pharmacies where you can buy water, sunscreen, snacks and beach essentials.", "tip": "Bring a reusable bottle: public drinking fountains on the promenade are scarce." },
+      { "icon": "⛽", "title": "Fuel & EV charging", "desc": "Petrol and diesel stations are located on the main avenues leading into the city. EV charging points are limited and are mostly found at hotels and central car parks.", "tip": "If you drive an EV, plan your charging before reaching the coastal area." },
+      { "icon": "♿", "title": "Accessibility", "desc": "The promenade and coastal walk are wide and mostly flat, suitable for wheelchairs and strollers. Access onto the sand can be uneven depending on the ground.", "tip": "To approach the sculpture, use the paved walkway rather than the soft sand." },
+      { "icon": "🏥", "title": "Health, pharmacies & ATMs", "desc": "The city centre has pharmacies, medical centres and ATMs. In an emergency, the single emergency number in Uruguay is 911.", "tip": "Carry some cash: not every small business accepts cards." },
+      { "icon": "🛟", "title": "Beach & area safety", "desc": "Brava Beach has surf and currents that can be strong. Follow the flags and lifeguards' advice, and stay out of the water in strong winds.", "tip": "Watch your belongings and leave no litter: this is a protected public space." }
     ]
   },
   "recommendations": {
