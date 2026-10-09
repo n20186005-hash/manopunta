@@ -2,25 +2,33 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { getLangFromUrl, buildAlternates, htmlLangAttr } from '../i18n/ui';
+import { getLangFromUrl, buildAlternates, htmlLangAttr, languagesList } from '../i18n/ui';
 import { ogLocale } from '../config';
 import { attraction, SITE_URL } from '../config/attraction';
 
 interface Props {
   title: string;
   description: string;
-  path?: string;
+  path?: string | Record<string, string>;
   image?: string;
+  noIndex?: boolean;
+  /**
+   * 限制输出的 hreflang / og:locale:alternate 语言范围。
+   * 用于仅发布单一语言版本的专题页（如西语深度攻略），
+   * 避免输出指向不存在翻译页的 hreflang 回链。
+   */
+  langs?: string[];
 }
 
-const { title, description, path = '', image = attraction.heroImage } = Astro.props;
+const { title, description, path = '', image = attraction.heroImage, noIndex = false, langs } = Astro.props;
 const lang = getLangFromUrl(Astro.url);
 const htmlLang = htmlLangAttr(lang);
 const alts = buildAlternates(path);
 const canonical = alts[lang] ?? alts.es;
 
+const langsToUse = langs && langs.length ? langs : [...languagesList];
 const alternateLocales = Object.entries(ogLocale)
-  .filter(([code]) => code !== lang)
+  .filter(([code]) => code !== lang && langsToUse.includes(code))
   .map(([, value]) => value);
 ---
 
@@ -32,17 +40,16 @@ const alternateLocales = Object.entries(ogLocale)
 
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="robots" content={noIndex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'} />
     <meta name="author" content={attraction.fullName} />
     <link rel="canonical" href={canonical} />
 
     <!-- Google Search Console 域名验证：将下方 content 替换为你账号的验证码并取消注释 -->
     <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_TOKEN" /> -->
 
-    <link rel="alternate" hreflang="es" href={alts.es} />
-    <link rel="alternate" hreflang="en" href={alts.en} />
-    <link rel="alternate" hreflang="zh" href={alts.zh} />
-    <link rel="alternate" hreflang="gn" href={alts.gn} />
+    {langsToUse.map((l) => (
+      <link rel="alternate" hreflang={l} href={alts[l]} />
+    ))}
     <link rel="alternate" hreflang="x-default" href={alts.xDefault} />
 
     <!-- Open Graph -->

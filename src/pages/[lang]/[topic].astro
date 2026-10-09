@@ -1,0 +1,21 @@
+---
+import TopicPage from '../../components/TopicPage.astro';
+import { topicSlugs } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  const paths: {
+    params: { lang: string; topic: string };
+    props: { topicKey: string };
+  }[] = [];
+  for (const [key, slugs] of Object.entries(topicSlugs)) {
+    for (const [lang, slug] of Object.entries(slugs)) {
+      paths.push({ params: { lang, topic: slug }, props: { topicKey: key } });
+    }
+  }
+  return paths;
+}
+
+const { topicKey } = Astro.props;
+---
+
+<TopicPage topicKey={topicKey} />

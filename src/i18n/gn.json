@@ -3,6 +3,99 @@
     "title": "Los Dedos de Punta del Este (La Mano) | Jeguata ha Tenda",
     "description": "Eikuaa Los Dedos de Punta del Este (La Mano): tenda Playa Brava-pe, aravo, jeréia, ta'anga ha aravo iporãvéva. Reike rei, ojepe'a 24 aravo."
   },
+  "topics": {
+    "exploreTitle": "La Mano Jeguata",
+    "significado-la-mano-punta-del-este": {
+      "title": "Mba'épa he'iséva La Mano (Los Dedos) Punta del Este-pe | Jeréia ha Techaukaha",
+      "description": "Mba'épa he'iséva La Mano de Punta del Este (Los Dedos): tembiapo jeréia, omboaparéva Mario Irarrázabal, po yvytúpe guã jehe'a, ha mba'érepa oiko chugui táva ra'anga.",
+      "h1": "Mba'épa he'iséva La Mano de Punta del Este (Los Dedos)",
+      "cardText": "Eikuaa mba'épa ohechauka tembiapo, i téra tuichavéva, ha mba'érepa oiko chugui táva ra'anga.",
+      "intro": "La Mano, ojehero avei Los Dedos de Punta del Este, ha'e peteĩ tembiapo joajéva porãite orekóva téra ha mba'e apopyre, ha ndaha'éi peteĩ jehechaplaya. Ko jehe'ay-pe roñemyanyhẽ mba'épa oheiséva, moõgui ou, ha mba'érepa oiko chugui Punta del Este ta'anga.",
+      "sections": [
+        {
+          "heading": "Mba'épa ohechauka La Mano?",
+          "body": "Tembiapo ohechauka peteĩ po guasu ava rehegua oikúva yvytúpe Playa Brava-gui, poapy po'i opytáva, po jeyke ha mbo'y peteĩva yvy ári. Ta'anga ojekuaauka peteĩ ava oúva yvýgui ha playa-gui, ha upévare jepe yvýra ha paráguigui. Ha'éi peteĩ jehechauka turista ñeñe'ẽmba, ha peteĩ tembiapo ojapóva hendápe."
+        },
+        {
+          "heading": "I téra: Hombre emergiendo a la vida",
+          "body": "I téra tuichavéva ha'e 'La Mano — Hombre emergiendo a la vida' (Pó oúva vida-pe). Ko ñe'ẽ ombohasa tembiapohára rembipensá: peteĩ ava ta'anga oñembosako'i tava guýpe, hasy ha tuichavéva, oñeme'ê paraguasu Átlantico ngoty. Upeicha rupi tembiapo ojehechakuaa peteĩ ava ha ihendápe yvy ári rembimbo."
+        },
+        {
+          "heading": "Omboaparéva: Mario Irarrázabal",
+          "body": "La Mano ojapóva Chile-gua tembiapohára Mario Irarrázabal ary 1982-pe, peteĩ jehejápe tembiapo internaciónal de Punta del Este. Irarrázabal ojehero porãite po guasu ha ava ta'anga reheve, ha ko tembiapo oĩ ko'ã apytépe oñe'ẽva ava rete ha mba'e apopyre."
+        },
+        {
+          "heading": "Peteĩ tembiapo ára mokõime ojapóva",
+          "body": "Intendencia de Maldonado he'i, tembiapo ojapóva 6 ára añóme ary 1982-pe jehejápe. Ha'e kuarepoti ha kuarepoti pytã mba'apógui ojapóva, Playa Brava yvy ári oñembosako'íva, ha yvy-pe oñemboja'óva ypa ha yvytu peve."
+        },
+        {
+          "heading": "Mba'érepa oiko chugui Punta del Este ra'anga",
+          "body": "Ara pukukue rupi, La Mano oñemoambuéva peteĩ jeheja mba'eguígui, oiko chugui peteĩ tenda oje'akãvéva ha ojeikuaavéva Punta del Este-pe. Ko'ãro ha'e Playa Brava ta'anga ha táva ra'anga oje'éva, teeteve umíva oho va'erã Los Dedos."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) ara renda-pe Playa Brava, Punta del Este" },
+        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Poapy po'i kuarepoti La Mano pegua yvytúpe" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "La Mano Playa Brava ndive" }
+      ],
+      "mapTitle": "La Mano oĩva Punta del Este-pe",
+      "faq": [
+        { "q": "Mba'épa he'iséva La Mano de Punta del Este?", "a": "Ohechauka peteĩ po ava oúva yvytúpe, ha oñe'ẽ 'Hombre emergiendo a la vida' (Pó oúva vida-pe) reheve: peteĩ ava ta'anga oúva yvýgui ha paraguasúgui, peteĩ ava ha ihendápe yvy ári rembimbo." },
+        { "q": "Máva ojapóva La Mano de Punta del Este ha moõpa ary-pe?", "a": "Ojapóva Chile-gua tembiapohára Mario Irarrázabal ary 1982-pe, peteĩ jehejápe tembiapo internaciónal de Punta del Este, ha ojapóva 6 ára añóme." },
+        { "q": "La Mano oguereko ambue téra?", "a": "Héẽ. Ojehero La Mano, Los Dedos de Punta del Este, ha i téra tuichavéva 'La Mano — Hombre emergiendo a la vida'." },
+        { "q": "Mba'érepa La Mano oĩ playa-pe ha ndaha'éi museo-pe?", "a": "Ojapóva peteĩ tembiapo joajéva Playa Brava-pe (Parada 1). Oñemboja'o playa-pe ha'e tembiapo pegua: ypa ha yvytu oñembyaty i pya'e ndive." }
+      ],
+      "relatedTitle": "Eikuaave",
+      "related": [
+        { "href": "/gn/mbaechapa-eho-la-mano-pe/", "label": "Mba'éichapa eho La Mano-pe", "desc": "Kuatiañe'ẽ tuichavéva, GPS, ha mba'éichapa eho Montevideo-gui." }
+      ]
+    },
+    "como-llegar-la-mano": {
+      "title": "Mba'éichapa eho La Mano-pe Punta del Este-pe | Tenda ha Jeguata",
+      "description": "Mba'éichapa eho La Mano (Los Dedos) Punta del Este-pe: Playa Brava kuatiañe'ẽ, GPS, Montevideo-gui jeguata auto térã ómnibus, estacionamiento, ha mapa.",
+      "h1": "Mba'éichapa eho La Mano (Los Dedos) Punta del Este-pe",
+      "cardText": "Kuatiañe'ẽ, GPS, Montevideo-gui jeguata, ha moõpa eiporu estacionamiento Playa Brava jerére.",
+      "intro": "La Mano oĩ yvy ári ha reike rei, hákatu eho va'erã embojo'áva Playa Brava Punta del Este rypy'úpe. Ko'ãpe oguereko kuatiañe'ẽ tuichavéva, coordenada, ha jeguata iporãvéva Montevideo térã táva mbytégui.",
+      "sections": [
+        {
+          "heading": "Kuatiañe'ẽ tuichavéva",
+          "body": "La Mano oĩ Playa Brava Parada 1-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (CEP 20001). Ha'éi táva mbytépe, hákatu paraguasu kuarahyresẽygua, Playa Brava ojeherohápe."
+        },
+        {
+          "heading": "Mba'éichapa eho Montevideo-gui",
+          "body": "Oĩ Montevideo-gui kuarahyresẽ gotyo 140 km rupi. Auto-pe, embojo'a Ruta 1 ha upe rire Ruta Interbalnearia (IB) Punta del Este-pe; jeguata oipyso 1 aravo 30 minuto guive 2 aravo peve tráfico reheve. Ómnibus-pe, varias empresa oñe'ẽ Montevideo Tres Cruces terminal-gui Punta del Este terminal-pe; oguahẽ rire eho taxi, remisse térã jeguata táva rupi Playa Brava-pe."
+        },
+        {
+          "heading": "Punta del Este ryepýpe: auto, taxi ha ómnibus",
+          "body": "Auto-pe, eho costa rupi ha Av. Roosevelt rupi oñe'ẽva Av. Eduardo Víctor Haedo-pe, ojereváva Playa Brava, ha tembiapo oĩ Parada 1-pe. Táva mbytéve térã puerto-gui, taxi térã remisse ha'e mba'e iporãvéva. Ómnibus táva oho costa rupi oguahẽ avei Parada 1 jerére; eporandu terminal local ára pegua línea."
+        },
+        {
+          "heading": "Coordenada ha Plus Code",
+          "body": "Ikatu embojo'a ko coordenada nde navegador térã mapa app-pe: -34.95789, -54.93729. Plus Code ha'e 23R7+R3 Punta del Este, Maldonado, Uruguay. Mokõivéva oñe'ẽ Parada 1 Playa Brava-pe, La Mano oĩva."
+        },
+        {
+          "heading": "Estacionamiento ha jeheja",
+          "body": "Estacionamiento michĩ, oĩva Av. Haedo borde ári; temporada tuichavépe iporã eho tenondete. Reike ha'e rei ha tembiapo oĩ yvy ári 24 aravo, upéicha ko'ãro ha kuarahy renda-pe oĩ michĩ tapicha ha mba'era porãve ta'anga."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano Playa Brava yvy ári, Punta del Este" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Playa Brava jehecha tuichavéva La Mano ndive" },
+        { "src": "/gallery/punta-del-este-6.jpg", "alt": "Ypa hu'ũ La Mano jerére Playa Brava-pe" }
+      ],
+      "mapTitle": "Mapa eho La Mano-pe",
+      "faq": [
+        { "q": "La Mano oĩ porãite moõpa?", "a": "Playa Brava Parada 1-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay. Oĩ paraguasu kuarahyresẽygua, ha'éi táva mbytépe." },
+        { "q": "Mba'éichapa eho La Mano-pe Montevideo-gui?", "a": "140 km kuarahyresẽ gotyo: auto-pe Ruta 1 ha Ruta Interbalnearia rupi (1 aravo 30 - 2 aravo), térã ómnibus Tres Cruces-gui Punta del Este terminal-pe ha upe rire taxi térã jeguata táva." },
+        { "q": "Ikatumo eho La Mano-pe transporte público-pe?", "a": "Héẽ. Ómnibus táva oho costa rupi oguahẽ Parada 1 jerére; avei ojejapo taxi térã remisse táva mbytéve térã terminal-gui." },
+        { "q": "Reike La Mano-pe oñepe'a?", "a": "Héẽ. Ha'e peteĩ tembiapo joajéva yvy ári, reike rei, ojepe'a 24 aravo; ndoguerekói jeheja térã venda." }
+      ],
+      "relatedTitle": "Eikuaave",
+      "related": [
+        { "href": "/gn/mbaepa-heis-va-la-mano/", "label": "Mba'épa he'iséva La Mano", "desc": "Eikuaa mba'épa ohechauka tembiapo ha mba'érepa oiko chugui táva ra'anga." }
+      ]
+    }
+  },
   "seo": {
     "h1": "Los Dedos de Punta del Este (La Mano) — Hombre emergiendo a la vida",
     "aboutHeading": "La Mano — Hombre emergiendo a la vida rehegua",
@@ -14,6 +107,26 @@
     "breadcrumbLabel": "Jeguata rape",
     "heroAlt": "La Mano — Hombre emergiendo a la vida, Punta del Este, Uruguay",
     "galleryAlt": "La Mano (Los Dedos) Playa Brava-pe",
+    "galleryCaptions": [
+      "Los Dedos ojehecha kuarahy oikévo Playa Brava-pe",
+      "La Mano ao poapy kuimba'e jehecha",
+      "Roga tuicha oúva yvy guýpe Playa Brava-gui",
+      "Los Dedos parapápe Atlántico oĩva",
+      "Tembiporu jehecha mba'ekuéra pytûichagua",
+      "La Mano ha Playa Brava ha'yguasu mbarete",
+      "Tapicha oñemombe'u Los Dedos kuarahy oityvo",
+      "Kuimba'e ao yvate guýpe ojehecha",
+      "Los Dedos yvy arenosa rupive",
+      "Playa Brava jehecha tuichavéva La Mano ndive",
+      "Tembiporu pyhare oĩva tavagua mba'ekuéra ndive",
+      "Hormigón jehecha tuicha",
+      "Los Dedos Faro Punta del Este oĩva mba'epe",
+      "Tetãygua La Mano rende Playa Brava-pe",
+      "Roga oúva Brava ha'yguasu mbytépe",
+      "Los Dedos kuarahy oikévo yvyra'anga pytã ndive",
+      "Tembiporu tapykue oĩva yvy arenosa ári",
+      "La Mano Punta del Este ta'anga kuarahy oityvo"
+    ],
     "mapIframeTitle": "La Mano tenda mapa Punta del Este-pe",
     "officialLink": "Uruguay / Maldonado Turismo Oficial"
   },
@@ -38,8 +151,8 @@
   "hero": {
     "title": "Punta del Este Roga",
     "subtitle": "Roga tuicha oúva yvy guýpe Playa Brava-gui, Uruguay rembiapore ipyahuvéva apytépe.",
-    "rating": "4.5(28.416)",
-    "reviewCount": "Jeikuaa 28.416",
+    "rating": "4.5(28.487)",
+    "reviewCount": "Jeikuaa 28.487",
     "hours": "Arapýpe 24 aravo",
     "openMaps": "Ehecha tenda",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -50,7 +163,7 @@
     "phone": "Pumbyry",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
+    "plusCodeValue": "23R7+R3 Punta del Este, Maldonado, Uruguay",
     "hours": "Aravo",
     "hoursValue": "24 aravo / ára paite"
   },
@@ -96,7 +209,7 @@
       {
         "id": "construction",
         "title": "Mba'éichapa ojapo",
-        "content": "Roga ojapóva hormigón armado ndive, acero ári, ojapo upépe Playa Brava yvy ári. Ipo po ohupyty tuichakue guasu, yvateve peteĩ tapicha, upéicha visitante ikatu ohecha isa'y. Oĩ yvy guýpe ha oñeñapytĩ yvy ári, ha oñe'ẽ marea, yvytu ha juky ndive: yvy oñotỹ ha osẽ ijykegui marea ndive, ha Intendencia de Maldonado oñangareko oĩ porã hag̃ua."
+        "content": "Roga ojapóva hormigón armado ndive, acero ári, ojapo upépe Playa Brava yvy ári. Ipo po ohupyty tuichakue guasu, yvateve peteĩ tapicha, upéicha visitante ikatu ohecha isa'y. Oĩ yvy guýpe ha oñeñapytĩ yvy ári, ha oñe'ẽ marea, yvytu ha juky ndive: yvy oñotỹ ha osẽ ijykegui marea ndive, ha Intendencia de Maldonado oñangareko oĩ porã hag̃ua. Intendencia de Maldonado he'i roga ojapóva 6 ára añónte 1982-pe."
       },
       {
         "id": "meaning",
@@ -138,35 +251,13 @@
   },
   "reviews": {
     "title": "Visitante jeikuaa",
-    "declaration": "Visitante jeikuaa oĩ Google Maps-pe (enlace externo).",
+    "declaration": "Visitante jeikuaa oñepyrũ Google Maps-pe (enlace externo). Ñane renda ndojokói jeikuaa tapichaguáva.",
+    "ratingValue": "4.5",
+    "reviewCount": "Jeikuaa 28.487",
+    "source": "Google Maps",
+    "updated": "Oñemoneĩ octubre 2026",
     "moreReviews": "Ehecha Google Maps-pe",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
-    "items": [
-      {
-        "name": "Carlos R.",
-        "date": "Marzo 2026",
-        "rating": 5,
-        "text": "Punta del Este-pe ipyahuvéva. Kuarahy oikévo oguste, ha roga ñandeño. Iporã ha 24 aravo, Playa Brava-pe."
-      },
-      {
-        "name": "Sofía M.",
-        "date": "Febrero 2026",
-        "rating": 5,
-        "text": "Tembiporu ipyahuvéva ha porã. Ñane guía oñemombe'u jeréia ha iporãve. Centro-gui pé ogusteta."
-      },
-      {
-        "name": "Diego G.",
-        "date": "Enero 2026",
-        "rating": 4,
-        "text": "Ta'anga porã ha pya'e jeguata. Kuarahy mbyteve oĩ tapicha heta, upéicha árapytu'ũme eguahẽ. Brava ha'yguasu iporã."
-      },
-      {
-        "name": "Valeria P.",
-        "date": "Diciembre 2025",
-        "rating": 5,
-        "text": "Rogue ñande kuatia 3 jey: ára, kuarahy oity, pyhare. Oĩva mbovyve. Táva ta'anga ha iviru'ỹ."
-      }
-    ]
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "mapSection": {
     "title": "Mba'éichapa ogusteta",
@@ -414,7 +505,7 @@
         "items": [
           {
             "q": "¿Moõpa oĩ La Mano — Hombre emergiendo a la vida?",
-            "a": "La Mano — Hombre emergiendo a la vida oĩ Stop 1 Playa Brava-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (postal 20001). Coordenada: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+            "a": "La Mano — Hombre emergiendo a la vida oĩ Stop 1 Playa Brava-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (postal 20001). Coordenada: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "¿Iviru'ỹpa ojehecha La Mano?",

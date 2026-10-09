@@ -1,10 +1,103 @@
 {
   "meta": {
-    "title": "Los Dedos de Punta del Este (La Mano) – Guía de Visita y Mapa",
-    "description": "¿Vas a visitar Los Dedos de Punta del Este (La Mano)? Ubicación en Playa Brava, horarios, historia, fotos y la mejor hora para ir. Gratis, abierto 24 h."
+    "title": "La Mano de Punta del Este (Los Dedos) | Ubicación y Visita",
+    "description": "Conoce La Mano de Punta del Este, también llamada Los Dedos. Descubre dónde está, cómo llegar a Playa Brava, su historia, significado y consejos para tu visita."
+  },
+  "topics": {
+    "exploreTitle": "Guías de La Mano",
+    "significado-la-mano-punta-del-este": {
+      "title": "Significado de La Mano (Los Dedos) en Punta del Este | Historia y símbolo",
+      "description": "Qué significa La Mano de Punta del Este, también llamada Los Dedos: el origen de la escultura Hombre emergiendo a la vida, su autor Mario Irarrázabal, la idea de la mano que surge de la arena y por qué se volvió el símbolo de la ciudad.",
+      "h1": "Significado de La Mano de Punta del Este (Los Dedos)",
+      "cardText": "Descubre qué representa la escultura, su título original y por qué es el símbolo de la ciudad.",
+      "intro": "La Mano, conocida también como Los Dedos de Punta del Este, es mucho más que una foto de playa: es una obra de arte público con un título y una intención precisos. En esta guía explicamos qué significa, de dónde viene y por qué se convirtió en el ícono de Punta del Este.",
+      "sections": [
+        {
+          "heading": "¿Qué representa La Mano?",
+          "body": "La escultura muestra una mano humana gigante que emerge de la arena de la Playa Brava, con los cinco dedos abiertos y parte de la palma y la muñeca enterradas. La imagen evoca a una persona surgiendo del suelo y de la playa, y por tanto de la naturaleza y del mar que la rodean. No es una simple marca turística: es una pieza pensada para dialogar con el entorno."
+        },
+        {
+          "heading": "El título: Hombre emergiendo a la vida",
+          "body": "Su nombre completo es “La Mano — Hombre emergiendo a la vida”. Esa frase resume la idea del autor: una figura humana que nace o aparece ante el visitante, vulnerable y a la vez monumental, frente al Atlántico. Por eso la obra se suele leer como una metáfora sobre el ser humano y su lugar en la naturaleza."
+        },
+        {
+          "heading": "Su creador: Mario Irarrázabal",
+          "body": "La Mano fue creada por el escultor chileno Mario Irarrázabal en 1982, durante un encuentro internacional de escultores en Punta del Este. Irarrázabal es conocido por sus manos y figuras humanas a escala monumental, y esta pieza se inscribe en esa línea de trabajo sobre el cuerpo y la condición humana."
+        },
+        {
+          "heading": "Una obra hecha en pocos días",
+          "body": "Según la Intendencia de Maldonado, la escultura se ejecutó en apenas seis días durante aquel encuentro de 1982. Está realizada en hormigón armado sobre una estructura de acero, moldeada in situ sobre la arena de la Playa Brava, y anclada al suelo para resistir la marea y el viento."
+        },
+        {
+          "heading": "Por qué se volvió el símbolo de Punta del Este",
+          "body": "Con el tiempo, La Mano pasó de ser una obra efímera de un evento a convertirse en uno de los puntos más fotografiados y reconocibles de Punta del Este. Hoy funciona como un hito visual de la Playa Brava y como símbolo de la ciudad, especialmente para quienes llegan buscando Los Dedos."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) en la Playa Brava de Punta del Este al amanecer" },
+        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Detalle de los cinco dedos de hormigón de La Mano emergiendo de la arena" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "La escultura La Mano rodeada por la playa de la Brava" }
+      ],
+      "mapTitle": "Dónde está La Mano en Punta del Este",
+      "faq": [
+        { "q": "¿Qué significa La Mano de Punta del Este?", "a": "Representa una mano humana que emerge de la arena y alude a la idea de Hombre emergiendo a la vida: una figura humana que surge del suelo y del mar, como metáfora de la persona frente a la naturaleza." },
+        { "q": "¿Quién hizo La Mano de Punta del Este y en qué año?", "a": "Fue creada por el escultor chileno Mario Irarrázabal en 1982, durante un encuentro internacional de escultores en Punta del Este, y se ejecutó en unos seis días." },
+        { "q": "¿La Mano tiene otro nombre?", "a": "Sí. Se la conoce como La Mano, Los Dedos de Punta del Este y, con su título completo, La Mano — Hombre emergiendo a la vida." },
+        { "q": "¿Por qué La Mano está en la playa y no en un museo?", "a": "Fue concebida como escultura pública sobre la arena de la Playa Brava (Parada 1). Su anclaje en la playa forma parte de la obra: la marea y la arena interactúan con su base." }
+      ],
+      "relatedTitle": "Sigue explorando",
+      "related": [
+        { "href": "/es/como-llegar-la-mano/", "label": "Cómo llegar a La Mano", "desc": "Dirección exacta, coordenadas GPS y opciones de transporte desde Montevideo." }
+      ]
+    },
+    "como-llegar-la-mano": {
+      "title": "Cómo llegar a La Mano en Punta del Este | Ubicación y transporte",
+      "description": "Cómo llegar a La Mano (Los Dedos) en Punta del Este: dirección exacta en Playa Brava, coordenadas GPS, ruta desde Montevideo en auto o bus, estacionamiento y el mapa para no perderte.",
+      "h1": "Cómo llegar a La Mano (Los Dedos) en Punta del Este",
+      "cardText": "Dirección, coordenadas GPS, ruta desde Montevideo y dónde estacionar junto a Playa Brava.",
+      "intro": "La Mano está al aire libre y es de acceso libre, pero llegar requiere ubicar bien la Playa Brava dentro de Punta del Este. Aquí tienes la dirección exacta, las coordenadas y las mejores opciones para moverte desde Montevideo o desde el centro de la ciudad.",
+      "sections": [
+        {
+          "heading": "Dirección exacta",
+          "body": "La Mano se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). No está en el centro de la península, sino en la costa este, en la franja de playa conocida como la Brava."
+        },
+        {
+          "heading": "Cómo llegar desde Montevideo",
+          "body": "Desde Montevideo son unos 140 km hacia el este. En auto, se toma la Ruta 1 y luego la Ruta Interbalnearia (IB) hasta Punta del Este; el trayecto suele durar entre 1 h 30 min y 2 h según el tráfico. En ómnibus, varias empresas conectan la Terminal Tres Cruces de Montevideo con la terminal de Punta del Este; desde allí se continúa en taxi, remisse o transporte urbano hasta la Playa Brava."
+        },
+        {
+          "heading": "Dentro de Punta del Este: en auto, taxi y ómnibus",
+          "body": "En auto, sigue la costanera y la Av. Roosevelt hasta la Av. Eduardo Víctor Haedo, que bordea la Playa Brava; la escultura está en la Parada 1. Desde el centro o el puerto, un taxi o remisse es la opción más directa. Los ómnibus urbanos que recorren la costanera también llegan cercano a la Parada 1; consulta en la terminal local las líneas del día."
+        },
+        {
+          "heading": "Coordenadas y Plus Code",
+          "body": "Puedes pegar estas coordenadas en tu navegador o app de mapas: -34.95789, -54.93729. El Plus Code es 23R7+R3 Punta del Este, Maldonado, Uruguay. Ambos apuntan a la Parada 1 de la Playa Brava, justo donde está La Mano."
+        },
+        {
+          "heading": "Estacionamiento y consejos",
+          "body": "El estacionamiento es limitado y se suma a la orilla de la Av. Haedo; en temporada alta conviene ir temprano. La visita es gratuita y la escultura está al aire libre las 24 horas, así que al amanecer o al atardecer hay menos gente y mejor luz para las fotos."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) sobre la arena de la Playa Brava en Punta del Este" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Panorámica de la Playa Brava con La Mano al fondo" },
+        { "src": "/gallery/punta-del-este-6.jpg", "alt": "La Mano junto a la fuerte rompiente de la Brava" }
+      ],
+      "mapTitle": "Mapa para llegar a La Mano en Punta del Este",
+      "faq": [
+        { "q": "¿Dónde queda La Mano exactamente?", "a": "En la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), Punta del Este, Maldonado, Uruguay. Está en la costa este, no en el centro de la península." },
+        { "q": "¿Cómo llegar a La Mano desde Montevideo?", "a": "Unos 140 km al este: en auto por la Ruta 1 y la Ruta Interbalnearia (1 h 30 min a 2 h), o en ómnibus desde Tres Cruces hasta la terminal de Punta del Este y desde allí en taxi o transporte urbano." },
+        { "q": "¿Se puede ir a La Mano en transporte público?", "a": "Sí. Ómnibus urbanos recorren la costanera hasta cercanías de la Parada 1; también es común tomar taxi o remisse desde el centro o la terminal de Punta del Este." },
+        { "q": "¿La entrada a La Mano es gratis?", "a": "Sí. Es una escultura pública al aire libre, de acceso libre y abierta las 24 horas; no hay ticket ni cerco." }
+      ],
+      "relatedTitle": "Sigue explorando",
+      "related": [
+        { "href": "/es/significado-la-mano-punta-del-este/", "label": "Significado de La Mano", "desc": "Descubre qué representa la escultura y por qué es el símbolo de la ciudad." }
+      ]
+    }
   },
   "seo": {
-    "h1": "Los Dedos de Punta del Este (La Mano) — Hombre emergiendo a la vida",
+    "h1": "La Mano de Punta del Este (Los Dedos)",
     "aboutHeading": "Acerca de La Mano — Hombre emergiendo a la vida",
     "locationHeading": "Ubicación y cómo visitar La Mano en Punta del Este",
     "landmarksHeading": "Lugares y atracciones cerca de La Mano",
@@ -14,6 +107,26 @@
     "breadcrumbLabel": "Ruta de navegación",
     "heroAlt": "La Mano — Hombre emergiendo a la vida, vista principal en Punta del Este, Uruguay",
     "galleryAlt": "Escultura La Mano (Los Dedos) en la Playa Brava, Punta del Este",
+    "galleryCaptions": [
+      "Los Dedos visto de frente al amanecer en Playa Brava",
+      "Detalle de los cinco dedos de hormigón de La Mano",
+      "La mano gigante emergiendo de la arena de la Brava",
+      "Los Dedos con el océano Atlántico de fondo",
+      "Primer plano de la escultura bajo luz dorada",
+      "La Mano y la fuerte rompiente de Playa Brava",
+      "Visitantes fotografiando Los Dedos al atardecer",
+      "Vista desde abajo de los dedos contra el cielo",
+      "Los Dedos rodeados por la arena de la playa",
+      "Panorámica de Playa Brava con La Mano",
+      "La escultura de noche con las luces de la ciudad",
+      "Textura de hormigón de la obra en primer plano",
+      "Los Dedos con el Faro de Punta del Este al fondo",
+      "Familia junto a La Mano en Playa Brava",
+      "La mano emergiendo entre las olas de la Brava",
+      "Los Dedos al amanecer con el cielo rosado",
+      "Ángulo posterior de la escultura sobre la arena",
+      "La Mano como símbolo de Punta del Este al atardecer"
+    ],
     "mapIframeTitle": "Mapa de ubicación de La Mano — Hombre emergiendo a la vida en Punta del Este",
     "officialLink": "Portal Oficial de Turismo de Uruguay / Maldonado"
   },
@@ -38,8 +151,8 @@
   "hero": {
     "title": "Los Dedos de Punta del Este",
     "subtitle": "Una mano monumental que emerge de la arena de la Playa Brava, uno de los símbolos más icónicos de Uruguay.",
-    "rating": "4.5(28.416)",
-    "reviewCount": "28.416 opiniones",
+    "rating": "4.5(28.487)",
+    "reviewCount": "28.487 opiniones",
     "hours": "Abierto las 24 horas",
     "openMaps": "Ver ubicación",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -50,7 +163,7 @@
     "phone": "Teléfono",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
+    "plusCodeValue": "23R7+R3 Punta del Este, Maldonado, Uruguay",
     "hours": "Horario",
     "hoursValue": "24 horas / todos los días"
   },
@@ -96,7 +209,7 @@
       {
         "id": "construction",
         "title": "Cómo se construyó",
-        "content": "La escultura está realizada en hormigón armado sobre una estructura de acero, moldeada in situ sobre la arena de la Playa Brava. Sus cinco dedos alcanzan una escala monumental, muy por encima de la altura de una persona, de modo que el visitante puede medir su propio tamaño frente a la obra. Al estar enterrada y anclada en la playa, la pieza dialoga con la marea, el viento y la sal: la arena cubre y descubre su base según el oleaje, y el mantenimiento periódico de la Intendencia de Maldonado conserva su aspecto original."
+        "content": "La escultura está realizada en hormigón armado sobre una estructura de acero, moldeada in situ sobre la arena de la Playa Brava. Sus cinco dedos alcanzan una escala monumental, muy por encima de la altura de una persona, de modo que el visitante puede medir su propio tamaño frente a la obra. Al estar enterrada y anclada en la playa, la pieza dialoga con la marea, el viento y la sal: la arena cubre y descubre su base según el oleaje, y el mantenimiento periódico de la Intendencia de Maldonado conserva su aspecto original. Según la propia Intendencia, la obra se ejecutó en apenas seis días durante aquel encuentro de 1982."
       },
       {
         "id": "meaning",
@@ -138,35 +251,13 @@
   },
   "reviews": {
     "title": "Opiniones de los visitantes",
-    "declaration": "Las opiniones de los visitantes están disponibles en Google Maps (enlace externo).",
+    "declaration": "Las opiniones de los visitantes se publican en Google Maps (enlace externo). No almacenamos ni mostramos reseñas individuales en este sitio.",
+    "ratingValue": "4.5",
+    "reviewCount": "28.487 opiniones",
+    "source": "Google Maps",
+    "updated": "Verificado octubre 2026",
     "moreReviews": "Ver en Google Maps",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
-    "items": [
-      {
-        "name": "James H.",
-        "date": "Marzo 2026",
-        "rating": 5,
-        "text": "Imperdible en Punta del Este. Llegamos al amanecer y tuvimos la escultura solo para nosotros; la luz sobre los dedos fue inolvidable. Gratis y abierto las 24 horas, justo en la Playa Brava."
-      },
-      {
-        "name": "Maria S.",
-        "date": "Febrero 2026",
-        "rating": 5,
-        "text": "Una obra pública tan potente como inesperada. Nuestro guía nos contó la historia y la visita ganó mucha profundidad. Fácil de llegar a pie desde el centro."
-      },
-      {
-        "name": "Thomas K.",
-        "date": "Enero 2026",
-        "rating": 4,
-        "text": "Un lugar icónico para fotografiar y una parada divertida en el paseo por la playa. Se llena al mediodía, así que ve temprano. El oleaje de la Brava justo al lado también impresiona."
-      },
-      {
-        "name": "Anna L.",
-        "date": "Diciembre 2025",
-        "rating": 5,
-        "text": "Volvimos tres veces durante la estancia: de día, al atardecer y de noche. Cada vez se siente distinto. Un verdadero símbolo de la ciudad y totalmente gratis."
-      }
-    ]
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "mapSection": {
     "title": "Cómo llegar",
@@ -414,7 +505,7 @@
         "items": [
           {
             "q": "¿Dónde se encuentra La Mano — Hombre emergiendo a la vida?",
-            "a": "La Mano — Hombre emergiendo a la vida se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). Coordenadas: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+            "a": "La Mano — Hombre emergiendo a la vida se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). Coordenadas: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "¿Es gratis visitar La Mano?",

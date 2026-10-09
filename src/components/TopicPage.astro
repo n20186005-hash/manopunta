@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getI18n, topicSlugs } from '../i18n/ui';
+import { attraction, SITE_URL } from '../config/attraction';
+
+interface Props {
+  topicKey: string;
+}
+const { topicKey } = Astro.props;
+const { lang, messages } = getI18n(Astro.url);
+const slugMap = topicSlugs[topicKey as keyof typeof topicSlugs] as Record<string, string>;
+const topic = messages.topics?.[topicKey];
+const urlSlug = slugMap[lang];
+const pageUrl = `${SITE_URL}/${lang}/${urlSlug}/`;
+const homeHref = `/${lang}/`;
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@id': `${pageUrl}#breadcrumb`,
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: attraction.fullName, item: `${SITE_URL}/${lang}/` },
+    { '@type': 'ListItem', position: 2, name: topic.h1, item: pageUrl },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: (topic.faq ?? []).map((it: any) => ({
+    '@type': 'Question',
+    name: it.q,
+    acceptedAnswer: { '@type': 'Answer', text: it.a },
+  })),
+};
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': pageUrl,
+  name: topic.title,
+  description: topic.description,
+  url: pageUrl,
+  inLanguage: lang,
+  isPartOf: { '@id': `${SITE_URL}/#website` },
+  about: { '@id': attraction.id },
+  breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+  primaryImageOfPage: { '@type': 'ImageObject', url: topic.images?.[0]?.src ?? attraction.heroImage },
+};
+---
+
+<BaseLayout title={topic.title} description={topic.description} path={slugMap} langs={['es', 'en', 'zh', 'gn']}>
+  <article class="section-padding" style="background: var(--bg-primary);">
+    <div class="max-w-3xl mx-auto px-4">
+      <a href={homeHref} class="text-sm hover:opacity-70" style="color: var(--accent);">&larr; {messages.header.backToHome}</a>
+      <h1 class="font-display text-3xl sm:text-4xl font-semibold mt-4 mb-4" style="color: var(--text-primary);">{topic.h1}</h1>
+      <p class="text-lg leading-relaxed mb-10" style="color: var(--text-secondary);">{topic.intro}</p>
+
+      {topic.images?.length > 0 && (
+        <div class="grid sm:grid-cols-2 gap-4 mb-10">
+          {topic.images.map((img: any) => (
+            <img
+              src={img.src}
+              alt={img.alt}
+              width="800"
+              height="600"
+              loading="lazy"
+              decoding="async"
+              class="w-full h-56 object-cover rounded-xl border"
+              style="border-color: var(--border-color);"
+            />
+          ))}
+        </div>
+      )}
+
+      {topic.sections.map((s: any) => (
+        <section class="mb-8">
+          <h2 class="font-display text-2xl font-semibold mb-2" style="color: var(--text-primary);">{s.heading}</h2>
+          <p class="text-base leading-relaxed" style="color: var(--text-secondary);">{s.body}</p>
+        </section>
+      ))}
+
+      <!-- Mapa embebido: 实际地图，便于导航 -->
+      <section class="my-10">
+        <h2 class="font-display text-2xl font-semibold mb-3" style="color: var(--text-primary);">{topic.mapTitle}</h2>
+        <div class="overflow-hidden border rounded-xl" style="border-color: var(--map-border);">
+          <iframe
+            src={attraction.mapsEmbedSrc}
+            width="100%"
+            height="400"
+            style="border:0;"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            title={topic.mapTitle}
+          ></iframe>
+        </div>
+        <div class="mt-4 text-sm" style="color: var(--text-secondary);">
+          <p class="font-semibold" style="color: var(--text-primary);">{attraction.fullName}</p>
+          <p>{attraction.streetAddress}, {attraction.city}, {attraction.region} {attraction.postalCode}, {attraction.country}</p>
+          <p>{attraction.plusCode}</p>
+        </div>
+        <div class="mt-4">
+          <a href={attraction.mapsShareUrl} target="_blank" rel="noopener noreferrer" class="inline-block px-6 py-2.5 rounded-full font-semibold text-white" style="background: var(--accent);">
+            📍 {messages.mapSection.openMaps}
+          </a>
+        </div>
+      </section>
+
+      {topic.faq?.length > 0 && (
+        <section class="my-10">
+          <h2 class="font-display text-2xl font-semibold mb-4" style="color: var(--text-primary);">{messages.faq.title}</h2>
+          <div class="space-y-4">
+            {topic.faq.map((f: any) => (
+              <details class="rounded-xl p-4 border" style="background: var(--card-bg); border-color: var(--border-color);">
+                <summary class="font-semibold cursor-pointer" style="color: var(--text-primary);">{f.q}</summary>
+                <p class="text-base mt-2 leading-relaxed" style="color: var(--text-secondary);">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {topic.related?.length > 0 && (
+        <section class="mt-12 pt-8 border-t" style="border-color: var(--border-color);">
+          <h2 class="font-display text-xl font-semibold mb-4" style="color: var(--text-primary);">{topic.relatedTitle}</h2>
+          <div class="grid sm:grid-cols-2 gap-4">
+            {topic.related.map((r: any) => (
+              <a href={r.href} class="block rounded-xl p-5 border hover:opacity-80" style="background: var(--card-bg); border-color: var(--border-color);">
+                <div class="font-semibold" style="color: var(--accent);">{r.label}</div>
+                <p class="text-sm mt-1" style="color: var(--text-secondary);">{r.desc}</p>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </div>
+  </article>
+
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} is:inline />
+  <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} is:inline />
+</BaseLayout>

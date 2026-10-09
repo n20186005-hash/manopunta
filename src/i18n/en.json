@@ -1,10 +1,103 @@
 {
   "meta": {
-    "title": "The Fingers of Punta del Este (La Mano) – Visitor Guide & Map",
-    "description": "Visiting The Fingers of Punta del Este (La Mano)? Exact location on Playa Brava, opening hours, history, photos and the best time to go. Free, open 24/7."
+    "title": "The Fingers of Punta del Este (La Mano) | Visitor Guide",
+    "description": "Visit The Fingers of Punta del Este, also known as La Mano. Explore its history, meaning, Playa Brava location, directions, photo tips and visitor information."
+  },
+  "topics": {
+    "exploreTitle": "La Mano Guides",
+    "significado-la-mano-punta-del-este": {
+      "title": "Meaning of La Mano (Los Dedos) in Punta del Este | History & Symbol",
+      "description": "What La Mano de Punta del Este, also called Los Dedos, means: the story behind the sculpture Hombre emergiendo a la vida, its creator Mario Irarrázabal, the idea of the hand rising from the sand, and why it became the symbol of the city.",
+      "h1": "Meaning of La Mano de Punta del Este (Los Dedos)",
+      "cardText": "Discover what the sculpture represents, its original title, and why it became the symbol of the city.",
+      "intro": "La Mano, also known as Los Dedos de Punta del Este, is much more than a beach photo: it is a public artwork with a precise title and intent. In this guide we explain what it means, where it comes from, and why it became the icon of Punta del Este.",
+      "sections": [
+        {
+          "heading": "What does La Mano represent?",
+          "body": "The sculpture shows a giant human hand rising out of the sand at Playa Brava, with the five fingers spread and part of the palm and wrist buried. The image evokes a person emerging from the ground and the beach, and therefore from the nature and sea that surround it. It is not a simple tourist marker: it is a piece designed to converse with its setting."
+        },
+        {
+          "heading": "The title: Hombre emergiendo a la vida",
+          "body": "Its full title is 'La Mano — Hombre emergiendo a la vida' (The Hand — Man Emerging into Life). That phrase sums up the artist's idea: a human figure that is born or appears before the visitor, vulnerable yet monumental, facing the Atlantic. That is why the work is usually read as a metaphor for the human being and its place in nature."
+        },
+        {
+          "heading": "Its creator: Mario Irarrázabal",
+          "body": "La Mano was created by the Chilean sculptor Mario Irarrázabal in 1982, during an international sculpture gathering in Punta del Este. Irarrázabal is known for his monumental hands and human figures, and this piece belongs to that body of work about the human body and condition."
+        },
+        {
+          "heading": "A work made in a few days",
+          "body": "According to the Intendencia de Maldonado, the sculpture was built in just six days during that 1982 gathering. It is made of reinforced concrete over a steel structure, molded in place on the sand of Playa Brava, and anchored to the ground to resist the tide and wind."
+        },
+        {
+          "heading": "Why it became the symbol of Punta del Este",
+          "body": "Over time, La Mano went from being an ephemeral piece of an event to one of the most photographed and recognizable spots in Punta del Este. Today it works as a visual landmark of Playa Brava and as an informal symbol of the city, especially for those who arrive looking for Los Dedos."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) at sunrise on Playa Brava, Punta del Este" },
+        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Close-up of the five concrete fingers of La Mano rising from the sand" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "The La Mano sculpture surrounded by the Brava Beach" }
+      ],
+      "mapTitle": "Where La Mano is in Punta del Este",
+      "faq": [
+        { "q": "What does La Mano de Punta del Este mean?", "a": "It represents a human hand rising from the sand and refers to the idea of Hombre emergiendo a la vida (Man Emerging into Life): a human figure that emerges from the ground and the sea, as a metaphor for the person before nature." },
+        { "q": "Who made La Mano de Punta del Este and in what year?", "a": "It was created by the Chilean sculptor Mario Irarrázabal in 1982, during an international sculpture gathering in Punta del Este, and was built in about six days." },
+        { "q": "Does La Mano have another name?", "a": "Yes. It is known as La Mano, Los Dedos de Punta del Este, and, with its full title, La Mano — Hombre emergiendo a la vida." },
+        { "q": "Why is La Mano on the beach and not in a museum?", "a": "It was conceived as a public sculpture on the sand of Playa Brava (Parada 1). Its anchoring in the beach is part of the work: the tide and sand interact with its base." }
+      ],
+      "relatedTitle": "Keep exploring",
+      "related": [
+        { "href": "/en/how-to-get-to-la-mano/", "label": "How to get to La Mano", "desc": "Exact address, GPS coordinates, and transport options from Montevideo." }
+      ]
+    },
+    "como-llegar-la-mano": {
+      "title": "How to get to La Mano in Punta del Este | Location & Transport",
+      "description": "How to get to La Mano (Los Dedos) in Punta del Este: exact address on Playa Brava, GPS coordinates, route from Montevideo by car or bus, parking, and the map so you don't get lost.",
+      "h1": "How to get to La Mano (Los Dedos) in Punta del Este",
+      "cardText": "Address, GPS coordinates, route from Montevideo, and where to park near Playa Brava.",
+      "intro": "La Mano is outdoors and free to visit, but getting there means locating Playa Brava correctly within Punta del Este. Here you have the exact address, the coordinates, and the best ways to move from Montevideo or from the city center.",
+      "sections": [
+        {
+          "heading": "Exact address",
+          "body": "La Mano is at Parada 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). It is not in the center of the peninsula but on the east coast, on the stretch of beach known as the Brava."
+        },
+        {
+          "heading": "How to get there from Montevideo",
+          "body": "It is about 140 km east from Montevideo. By car, take Route 1 and then the Interbalnearia Route (IB) to Punta del Este; the trip usually takes between 1h30 and 2h depending on traffic. By bus, several companies connect Montevideo's Tres Cruces terminal with the Punta del Este terminal; from there continue by taxi, remisse, or urban transport to Playa Brava."
+        },
+        {
+          "heading": "Within Punta del Este: by car, taxi, and bus",
+          "body": "By car, follow the waterfront and Av. Roosevelt to Av. Eduardo Víctor Haedo, which borders Playa Brava; the sculpture is at Parada 1. From downtown or the port, a taxi or remisse is the most direct option. Urban buses that run along the waterfront also arrive near Parada 1; check the local terminal for the day's lines."
+        },
+        {
+          "heading": "Coordinates and Plus Code",
+          "body": "You can paste these coordinates into your browser or maps app: -34.95789, -54.93729. The Plus Code is 23R7+R3 Punta del Este, Maldonado, Uruguay. Both point to Parada 1 of Playa Brava, right where La Mano is."
+        },
+        {
+          "heading": "Parking and tips",
+          "body": "Parking is limited and lines the edge of Av. Haedo; in high season it is best to arrive early. The visit is free and the sculpture is outdoors 24 hours, so at sunrise or sunset there are fewer people and better light for photos."
+        }
+      ],
+      "images": [
+        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) on the sand of Playa Brava, Punta del Este" },
+        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Panorama of Playa Brava with La Mano in the background" },
+        { "src": "/gallery/punta-del-este-6.jpg", "alt": "La Mano next to the strong surf of the Brava" }
+      ],
+      "mapTitle": "Map to get to La Mano in Punta del Este",
+      "faq": [
+        { "q": "Where exactly is La Mano?", "a": "At Parada 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), Punta del Este, Maldonado, Uruguay. It is on the east coast, not in the center of the peninsula." },
+        { "q": "How to get to La Mano from Montevideo?", "a": "About 140 km east: by car via Route 1 and the Interbalnearia Route (1h30 to 2h), or by bus from Tres Cruces to the Punta del Este terminal and from there by taxi or urban transport." },
+        { "q": "Can you get to La Mano by public transport?", "a": "Yes. Urban buses run along the waterfront to near Parada 1; it is also common to take a taxi or remisse from downtown or the Punta del Este terminal." },
+        { "q": "Is the entrance to La Mano free?", "a": "Yes. It is an outdoor public sculpture, free to access and open 24 hours; there is no ticket or fence." }
+      ],
+      "relatedTitle": "Keep exploring",
+      "related": [
+        { "href": "/en/meaning-of-la-mano-punta-del-este/", "label": "Meaning of La Mano", "desc": "Discover what the sculpture represents and why it became the symbol of the city." }
+      ]
+    }
   },
   "seo": {
-    "h1": "The Fingers of Punta del Este (La Mano) — Man Emerging into Life",
+    "h1": "The Fingers of Punta del Este (La Mano)",
     "aboutHeading": "About La Mano — Man Emerging into Life",
     "locationHeading": "Location & How to Visit La Mano in Punta del Este",
     "landmarksHeading": "Landmarks & Attractions Around La Mano",
@@ -14,6 +107,26 @@
     "breadcrumbLabel": "Breadcrumb",
     "heroAlt": "La Mano — Man Emerging into Life, main view in Punta del Este, Uruguay",
     "galleryAlt": "La Mano (The Fingers) sculpture on Brava Beach, Punta del Este",
+    "galleryCaptions": [
+      "The Fingers seen head-on at sunrise on Brava Beach",
+      "Close-up of the five concrete fingers of La Mano",
+      "The giant hand emerging from the Brava Beach sand",
+      "The Fingers with the Atlantic Ocean behind",
+      "The sculpture in close-up under golden light",
+      "La Mano and the strong surf of Playa Brava",
+      "Visitors photographing The Fingers at sunset",
+      "Low-angle view of the fingers against the sky",
+      "The Fingers surrounded by beach sand",
+      "Panorama of Brava Beach with La Mano",
+      "The sculpture at night with city lights",
+      "Close-up of the concrete texture of the artwork",
+      "The Fingers with Punta del Este Lighthouse in the distance",
+      "Family by La Mano on Playa Brava",
+      "The hand emerging between the Brava waves",
+      "The Fingers at sunrise with pink sky",
+      "Rear angle of the sculpture on the sand",
+      "La Mano as the symbol of Punta del Este at sunset"
+    ],
     "mapIframeTitle": "Location map of La Mano — Man Emerging into Life in Punta del Este",
     "officialLink": "Uruguay / Maldonado Official Tourism Portal"
   },
@@ -38,8 +151,8 @@
   "hero": {
     "title": "The Fingers of Punta del Este",
     "subtitle": "A monumental hand rising from the sand of Brava Beach — one of Uruguay's most iconic landmarks.",
-    "rating": "4.5(28,416)",
-    "reviewCount": "28,416 reviews",
+    "rating": "4.5(28,487)",
+    "reviewCount": "28,487 reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
     "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
@@ -50,7 +163,7 @@
     "phone": "Phone",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
-    "plusCodeValue": "23R7+R3 La Barra, Maldonado, Uruguay",
+    "plusCodeValue": "23R7+R3 Punta del Este, Maldonado, Uruguay",
     "hours": "Hours",
     "hoursValue": "24 hours / every day"
   },
@@ -96,7 +209,7 @@
       {
         "id": "construction",
         "title": "How it was built",
-        "content": "The sculpture is made of reinforced concrete over a steel frame, moulded in situ on the sand of Brava Beach. Its five fingers rise at monumental scale, far taller than a person, so that visitors can measure their own size against the work. Anchored in the beach, the piece converses with the tide, the wind and the salt: sand covers and uncovers its base with the surf, and periodic maintenance by the Intendencia de Maldonado keeps its original appearance."
+        "content": "The sculpture is made of reinforced concrete over a steel frame, moulded in situ on the sand of Brava Beach. Its five fingers rise at monumental scale, far taller than a person, so that visitors can measure their own size against the work. Anchored in the beach, the piece converses with the tide, the wind and the salt: sand covers and uncovers its base with the surf, and periodic maintenance by the Intendencia de Maldonado keeps its original appearance. According to the Intendencia de Maldonado, the work was completed in just six days during that 1982 gathering."
       },
       {
         "id": "meaning",
@@ -138,35 +251,13 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Visitor feedback is available on Google Maps (external link).",
+    "declaration": "Visitor reviews are published on Google Maps (external link). We do not store or display individual reviews on this site.",
+    "ratingValue": "4.5",
+    "reviewCount": "28,487 reviews",
+    "source": "Google Maps",
+    "updated": "Verified October 2026",
     "moreReviews": "View on Google Maps",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
-    "items": [
-      {
-        "name": "James H.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "An absolute must-see in Punta del Este. We arrived at sunrise and had the whole sculpture to ourselves — the light on the fingers was unforgettable. Free and open 24 hours, right on Brava Beach."
-      },
-      {
-        "name": "Maria S.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "Such a powerful and unexpected piece of public art. Our guide explained the story behind it and it made the visit so much richer. Easy to reach on foot from the centre."
-      },
-      {
-        "name": "Thomas K.",
-        "date": "January 2026",
-        "rating": 4,
-        "text": "Iconic photo spot and a fun stop on the beach walk. It gets crowded midday, so go early. The surf at Brava Beach right beside it is impressive too."
-      },
-      {
-        "name": "Anna L.",
-        "date": "December 2025",
-        "rating": 5,
-        "text": "We came back three times during our stay — by day, at sunset and at night. Each time it felt different. A true symbol of the city and completely free to visit."
-      }
-    ]
+    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
   },
   "mapSection": {
     "title": "How to Get Here",
@@ -414,7 +505,7 @@
         "items": [
           {
             "q": "Where is La Mano — Man Emerging into Life located?",
-            "a": "La Mano — Man Emerging into Life is located at Stop 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). Coordinates: -34.9578986, -54.9563196; Plus Code: 23R7+R3 La Barra, Maldonado."
+            "a": "La Mano — Man Emerging into Life is located at Stop 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). Coordinates: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "Is La Mano free to visit?",

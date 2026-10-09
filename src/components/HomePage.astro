@@ -13,13 +13,14 @@ import MapEmbed from './MapEmbed.astro';
 import Recommendations from './Recommendations.astro';
 import FAQ from './FAQ.astro';
 import SourcesSection from './SourcesSection.astro';
+import TopicLinks from './TopicLinks.astro';
 import { getI18n } from '../i18n/ui';
 import { attraction, galleryImages, SITE_URL } from '../config/attraction';
 
 // 由当前 URL 推断语言：/es、/en、/zh、/gn 取路径首段；
 // 根路径 / 没有语言段，getI18n 会回退到 defaultLang('es')。
 const { messages, lang } = getI18n(Astro.url);
-const pageUrl = `${SITE_URL}/${lang}`;
+const pageUrl = `${SITE_URL}/${lang}/`;
 
 const faqSchema = {
   '@context': 'https://schema.org',
@@ -75,12 +76,6 @@ const attractionSchema = {
     opens: '00:00',
     closes: '23:59',
   },
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: '4.5',
-    reviewCount: '28416',
-    bestRating: '5',
-  },
   availableLanguage: ['es', 'en', 'zh', 'gn'],
 };
 
@@ -121,7 +116,6 @@ const imageObjectSchema = {
 <BaseLayout title={messages.meta.title} description={messages.meta.description} path="" image={attraction.heroImage}>
   <Hero />
   <InfoBar />
-  <Weather />
   <Intro />
   <InfoSection />
   <Gallery />
@@ -132,6 +126,8 @@ const imageObjectSchema = {
   <Recommendations />
   <FAQ />
   <SourcesSection />
+  <TopicLinks />
+  <Weather />
 
   <script type="application/ld+json" set:html={JSON.stringify(attractionSchema)} is:inline />
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} is:inline />

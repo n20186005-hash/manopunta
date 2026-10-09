@@ -3,10 +3,16 @@ import { getI18n } from '../i18n/ui';
 const { messages } = getI18n(Astro.url);
 const g = messages.gallery;
 const seo = messages.seo;
+// 18 张独立描述（按真实场景：角度 / 时段 / 海滩 / 灯塔），避免千篇一律的编号 alt
+const captions: string[] | null =
+  Array.isArray(seo.galleryCaptions) && seo.galleryCaptions.length === 18
+    ? seo.galleryCaptions
+    : null;
 // 网格使用 640px 缩略图，灯箱按需加载 1600px 主图（显著降低首屏流量）
 const images = Array.from({ length: 18 }, (_, i) => ({
   thumb: `/gallery/punta-del-este-${i + 1}-thumb.jpg`,
   full: `/gallery/punta-del-este-${i + 1}.jpg`,
+  alt: captions ? captions[i] : `${seo.galleryAlt} — ${i + 1}`,
 }));
 ---
 
@@ -16,14 +22,11 @@ const images = Array.from({ length: 18 }, (_, i) => ({
     <p class="text-center text-lg mb-10" style="color: var(--text-secondary);">{g.subtitle}</p>
 
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4" id="gallery-grid">
-      {images.map((img, i) => {
-        const alt = `${seo.galleryAlt} — ${i + 1}`;
-        return (
-          <button type="button" class="gallery-item group" data-src={img.full} aria-label={alt}>
-            <img src={img.thumb} alt={alt} width="640" height="480" loading="lazy" decoding="async" class="w-full h-56 object-cover cursor-zoom-in" />
-          </button>
-        );
-      })}
+      {images.map((img) => (
+        <button type="button" class="gallery-item group" data-src={img.full} aria-label={img.alt}>
+          <img src={img.thumb} alt={img.alt} width="640" height="480" loading="lazy" decoding="async" class="w-full h-56 object-cover cursor-zoom-in" />
+        </button>
+      ))}
     </div>
 
     <div class="text-center mt-8 flex flex-col sm:flex-row gap-4 justify-center">

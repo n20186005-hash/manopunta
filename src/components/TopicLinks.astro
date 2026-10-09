@@ -1,0 +1,32 @@
+---
+import { getI18n, topicSlugs } from '../i18n/ui';
+
+const { lang, messages } = getI18n(Astro.url);
+// 专题页已发布四语（es/en/zh/gn）；此区块在四语首页均渲染，链接指向对应语言版本
+const topics: any = messages.topics;
+const topicKeys = Object.keys(topicSlugs);
+---
+
+{topics && (
+  <section class="section-padding" style="background: var(--bg-secondary);">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="font-display text-3xl sm:text-4xl font-semibold mb-2 text-center" style="color: var(--text-primary);">{topics.exploreTitle}</h2>
+      <div class="grid sm:grid-cols-2 gap-6 mt-8">
+        {topicKeys.map((key) => {
+          const slug = (topicSlugs as any)[key][lang];
+          const topic = topics[key];
+          return (
+            <a
+              href={`/${lang}/${slug}/`}
+              class="block rounded-2xl p-6 border transition hover:opacity-90"
+              style="background: var(--card-bg); border-color: var(--border-color); box-shadow: var(--card-shadow);"
+            >
+              <h3 class="font-display text-xl font-semibold mb-2" style="color: var(--text-primary);">{topic.h1}</h3>
+              <p class="text-sm" style="color: var(--text-secondary);">{topic.cardText}</p>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+)}

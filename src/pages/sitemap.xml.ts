@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { topicSlugs } from '../i18n/ui';
 
 const base = 'https://manopunta.com';
 const locales = ['es', 'en', 'zh', 'gn'];
@@ -10,13 +11,13 @@ export const GET: APIRoute = () => {
   const lastmod = new Date().toISOString().slice(0, 10);
 
   for (const page of pages) {
-    const suffix = page ? `/${page}` : '';
+    const path = page ? `${page}/` : '';
     for (const lang of locales) {
-      const loc = `${base}/${lang}${suffix}`;
+      const loc = `${base}/${lang}/${path}`;
       const alternates = locales
         .map(
           (l) =>
-            `    <xhtml:link rel="alternate" hreflang="${l}" href="${base}/${l}${suffix}"/>`,
+            `    <xhtml:link rel="alternate" hreflang="${l}" href="${base}/${l}/${path}"/>`,
         )
         .join('\n');
       entries.push(
@@ -25,7 +26,29 @@ export const GET: APIRoute = () => {
           `    <loc>${loc}</loc>`,
           `    <lastmod>${lastmod}</lastmod>`,
           alternates,
-          `    <xhtml:link rel="alternate" hreflang="x-default" href="${base}/es${suffix}"/>`,
+          `    <xhtml:link rel="alternate" hreflang="x-default" href="${base}/es/${path}"/>`,
+          '    <changefreq>weekly</changefreq>',
+          '  </url>',
+        ].join('\n'),
+      );
+    }
+  }
+
+  // 专题页：每语言使用各自 slug，输出四语互链 + x-default（指向 es）
+  for (const [, slugs] of Object.entries(topicSlugs)) {
+    for (const lang of locales) {
+      const slug = slugs[lang as keyof typeof slugs];
+      const loc = `${base}/${lang}/${slug}/`;
+      const alternates = locales
+        .map((l) => `    <xhtml:link rel="alternate" hreflang="${l}" href="${base}/${l}/${slugs[l as keyof typeof slugs]}/"/>`)
+        .join('\n');
+      entries.push(
+        [
+          '  <url>',
+          `    <loc>${loc}</loc>`,
+          `    <lastmod>${lastmod}</lastmod>`,
+          alternates,
+          `    <xhtml:link rel="alternate" hreflang="x-default" href="${base}/es/${slugs.es}/"/>`,
           '    <changefreq>weekly</changefreq>',
           '  </url>',
         ].join('\n'),

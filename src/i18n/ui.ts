@@ -33,18 +33,49 @@ export function getI18n(url: URL) {
   return { lang, messages, t };
 }
 
-export function buildAlternates(path = ''): Record<string, string> {
+export function buildAlternates(
+  path: string | Record<string, string> = '',
+): Record<string, string> {
   const base = 'https://manopunta.com';
-  const clean = path.replace(/^\/+/, '').replace(/\/+$/, '');
-  const mk = (l: string) => `${base}/${l}${clean ? '/' + clean : ''}`;
+  const mk = (l: string, p: string) => {
+    const clean = p.replace(/^\/+/, '').replace(/\/+$/, '');
+    return `${base}/${l}/${clean ? clean + '/' : ''}`;
+  };
+  if (typeof path === 'string') {
+    const clean = path.replace(/^\/+/, '').replace(/\/+$/, '');
+    return {
+      es: mk('es', clean),
+      en: mk('en', clean),
+      zh: mk('zh', clean),
+      gn: mk('gn', clean),
+      xDefault: mk('es', clean),
+    };
+  }
+  const esSlug = path.es ?? '';
   return {
-    es: mk('es'),
-    en: mk('en'),
-    zh: mk('zh'),
-    gn: mk('gn'),
-    xDefault: mk('es'),
+    es: mk('es', path.es ?? ''),
+    en: mk('en', path.en ?? ''),
+    zh: mk('zh', path.zh ?? ''),
+    gn: mk('gn', path.gn ?? ''),
+    xDefault: mk('es', esSlug),
   };
 }
+
+// 各语言版本的专题页 URL slug 映射；JSON 内容键沿用西语 slug 作为逻辑 id
+export const topicSlugs = {
+  'significado-la-mano-punta-del-este': {
+    es: 'significado-la-mano-punta-del-este',
+    en: 'meaning-of-la-mano-punta-del-este',
+    zh: 'wu-zhi-diao-su-han-yi',
+    gn: 'mbaepa-heis-va-la-mano',
+  },
+  'como-llegar-la-mano': {
+    es: 'como-llegar-la-mano',
+    en: 'how-to-get-to-la-mano',
+    zh: 'qian-wang-wu-zhi-diao-su',
+    gn: 'mbaechapa-eho-la-mano-pe',
+  },
+} as const;
 
 export function htmlLangAttr(lang: string): string {
   return lang === 'zh' ? 'zh-CN' : lang;
