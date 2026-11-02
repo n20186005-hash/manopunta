@@ -46,7 +46,7 @@ export const attraction = {
   /** {{POSTAL_CODE}} */
   postalCode: '20001',
   /** NAP 地址行 */
-  streetAddress: 'Av. Eduardo Víctor Haedo, Parada 1 Brava',
+  streetAddress: 'Rambla de Circunvalación Gral. Artigas, Parada 1 Brava',
   /** NAP 电话（与 Google Business Profile 保持一致） */
   telephone: '+598 93 324 497',
   /** Google Plus Code（位于 Punta del Este 的 Playa Brava 1 号站，避免与 La Barra 混淆） */
@@ -56,10 +56,10 @@ export const attraction = {
   /** {{LONGITUDE}} */
   longitude: -54.93729,
   /** {{MAPS_SHARE_URL}} Google Maps 分享短链接 */
-  mapsShareUrl: 'https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6',
+  mapsShareUrl: 'https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652',
   /** {{MAPS_EMBED_SRC}} Google Maps 嵌入代码中的 src 链接 */
   mapsEmbedSrc:
-    'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23247.29035913815!2d-54.93729!3d-34.95789!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95750512eda09d7d%3A0xb6244bde1fa3faee!2z5LqU5oyH6ZuV5aGR!5e1!3m2!1szh-CN!2s!4v1789019460312!5m2!1szh-CN!2s',
+    'https://maps.google.com/maps?q=-34.9578986%2C-54.9372652&z=17&output=embed',
   /** {{NEARBY_LANDMARK_1}} */
   nearbyLandmark1: 'Faro de Punta del Este',
   /** {{NEARBY_LANDMARK_2}} */
