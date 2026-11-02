@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "五指雕塑（La Mano）埃斯特角城｜位置、交通与游览指南",
-    "description": "埃斯特角城五指雕塑（La Mano / Los Dedos）游览指南：布拉瓦海滩 1 号站位置、开放时间、雕塑历史、最佳拍照时段与周边交通。免费开放，全天 24 小时。"
+    "title": "La Mano埃斯特角城｜位置、交通与游览指南",
+    "description": "埃斯特角城La Mano游览指南：布拉瓦海滩 1 号站位置、开放时间、雕塑历史、最佳拍照时段与周边交通。免费开放，全天 24 小时。"
   },
   "topics": {
-    "exploreTitle": "五指雕塑（La Mano）导览",
+    "exploreTitle": "La Mano导览",
     "significado-la-mano-punta-del-este": {
-      "title": "五指雕塑（La Mano）的含义｜历史与象征｜埃斯特角城",
-      "description": "五指雕塑（La Mano / Los Dedos）在埃斯特角城究竟代表什么：雕塑《自生命中浮现的人》背后的故事、创作者马里奥·伊拉拉萨瓦尔、从沙中升起的手的意象，以及它为何成为城市的象征。",
-      "h1": "五指雕塑（La Mano / Los Dedos）在埃斯特角城的含义",
+      "title": "La Mano的含义｜历史与象征｜埃斯特角城",
+      "description": "La Mano在埃斯特角城究竟代表什么：雕塑《自生命中浮现的人》背后的故事、创作者马里奥·伊拉拉萨瓦尔、从沙中升起的手的意象，以及它为何成为城市的象征。",
+      "h1": "La Mano在埃斯特角城的含义",
       "cardText": "了解这座雕塑的寓意、它的完整名称，以及它如何成为这座城市的象征。",
-      "intro": "五指雕塑（La Mano），又称 Los Dedos de Punta del Este，远不止是一处海滩打卡点：它是一件拥有精确标题与创作意图的公共艺术作品。本指南将解释它的含义、来源，以及它为何成为埃斯特角城的标志。",
+      "intro": "La Mano，远不止是一处海滩打卡点：它是一件拥有精确标题与创作意图的公共艺术作品。本指南将解释它的含义、来源，以及它为何成为埃斯特角城的标志。",
       "sections": [
         {
-          "heading": "五指雕塑代表什么？",
+          "heading": "La Mano代表什么？",
           "body": "这件雕塑呈现一只从布拉瓦海滩（Playa Brava）沙中升起、五指张开、手掌与手腕的一部分被埋在沙里的巨型人手。画面唤起了一个人从大地——以及海滩、进而从环绕它的自然与海洋中——浮现的意象。它并非一个普通的旅游标牌，而是一件被设计来与所处环境对话的作品。"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
           "heading": "创作者：马里奥·伊拉拉萨瓦尔",
-          "body": "五指雕塑由智利雕塑家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年创作，当时正值埃斯特角城的一次国际雕塑聚会。伊拉拉萨瓦尔以巨手与人类形象著称，这件作品属于他围绕人体与人类处境创作的一系列作品。"
+          "body": "La Mano由智利雕塑家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年创作，当时正值埃斯特角城的一次国际雕塑聚会。伊拉拉萨瓦尔以巨手与人类形象著称，这件作品属于他围绕人体与人类处境创作的一系列作品。"
         },
         {
           "heading": "几天之内完成的作品",
@@ -30,36 +30,61 @@
         },
         {
           "heading": "它为何成为埃斯特角城的象征",
-          "body": "随着时间推移，五指雕塑从一次活动的临时作品，演变为埃斯特角城被拍摄最多、最具辨识度的地标之一。如今它既是布拉瓦海滩的视觉地标，也是这座城市非正式的象征，尤其对于那些专程来找 Los Dedos 的游客而言。"
+          "body": "随着时间推移，La Mano从一次活动的临时作品，演变为埃斯特角城被拍摄最多、最具辨识度的地标之一。如今它既是布拉瓦海滩的视觉地标，也是这座城市非正式的象征。"
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "日出时分的布拉瓦海滩五指雕塑（La Mano），埃斯特角城" },
-        { "src": "/gallery/punta-del-este-1.jpg", "alt": "从沙中升起的五指雕塑五根混凝土手指特写" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "被布拉瓦海滩环绕的五指雕塑" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "日出时分的布拉瓦海滩La Mano，埃斯特角城"
+        },
+        {
+          "src": "/gallery/punta-del-este-1.jpg",
+          "alt": "从沙中升起的La Mano五根混凝土手指特写"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "被布拉瓦海滩环绕的La Mano"
+        }
       ],
-      "mapTitle": "五指雕塑在埃斯特角城的位置",
+      "mapTitle": "La Mano在埃斯特角城的位置",
       "faq": [
-        { "q": "埃斯特角城五指雕塑（La Mano）代表什么？", "a": "它呈现一只从沙中升起的人手，呼应《自生命中浮现的人》（Hombre emergiendo a la vida）的构思：一个从大地与海洋中浮现的人形，隐喻人在自然面前的样子。" },
-        { "q": "埃斯特角城五指雕塑是谁在何时创作的？", "a": "由智利雕塑家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年创作，当时正值埃斯特角城的一次国际雕塑聚会，仅用约六天建成。" },
-        { "q": "五指雕塑还有其他名字吗？", "a": "有。它被称为 La Mano、Los Dedos de Punta del Este，其完整名称则是《La Mano — 自生命中浮现的人》。" },
-        { "q": "为什么五指雕塑在海滩上而不是博物馆里？", "a": "它被构思为布拉瓦海滩（1 号站）上的一件公共雕塑。锚固于海滩正是作品的一部分：潮汐与沙地会与它的基座互动。" }
+        {
+          "q": "埃斯特角城La Mano代表什么？",
+          "a": "它呈现一只从沙中升起的人手，呼应《自生命中浮现的人》（Hombre emergiendo a la vida）的构思：一个从大地与海洋中浮现的人形，隐喻人在自然面前的样子。"
+        },
+        {
+          "q": "埃斯特角城La Mano是谁在何时创作的？",
+          "a": "由智利雕塑家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年创作，当时正值埃斯特角城的一次国际雕塑聚会，仅用约六天建成。"
+        },
+        {
+          "q": "La Mano还有其他名字吗？",
+          "a": "有。它被称为 La Mano、La Mano de Punta del Este，其完整名称则是《La Mano — 自生命中浮现的人》。"
+        },
+        {
+          "q": "为什么La Mano在海滩上而不是博物馆里？",
+          "a": "它被构思为布拉瓦海滩（1 号站）上的一件公共雕塑。锚固于海滩正是作品的一部分：潮汐与沙地会与它的基座互动。"
+        }
       ],
       "relatedTitle": "继续探索",
       "related": [
-        { "href": "/zh/qian-wang-wu-zhi-diao-su/", "label": "如何前往五指雕塑", "desc": "详细地址、GPS 坐标，以及从蒙得维的亚出发的交通方式。" }
+        {
+          "href": "/zh/qian-wang-wu-zhi-diao-su/",
+          "label": "如何前往La Mano",
+          "desc": "详细地址、GPS 坐标，以及从蒙得维的亚出发的交通方式。"
+        }
       ]
     },
     "como-llegar-la-mano": {
-      "title": "如何前往五指雕塑（La Mano）｜位置与交通｜埃斯特角城",
-      "description": "如何前往埃斯特角城五指雕塑（La Mano / Los Dedos）：布拉瓦海滩详细地址、GPS 坐标、从蒙得维的亚自驾或乘巴士的路线、停车，以及地图指引。",
-      "h1": "如何前往五指雕塑（La Mano / Los Dedos），埃斯特角城",
+      "title": "如何前往La Mano｜位置与交通｜埃斯特角城",
+      "description": "如何前往埃斯特角城La Mano：布拉瓦海滩详细地址、GPS 坐标、从蒙得维的亚自驾或乘巴士的路线、停车，以及地图指引。",
+      "h1": "如何前往La Mano，埃斯特角城",
       "cardText": "地址、GPS 坐标、从蒙得维的亚出发的路线，以及布拉瓦海滩附近的停车建议。",
-      "intro": "五指雕塑在户外、免费参观，但要找到它，需要在埃斯特角城内准确定位布拉瓦海滩。这里提供详细地址、坐标，以及从蒙得维的亚或市中心出发的最佳方式。",
+      "intro": "La Mano在户外、免费参观，但要找到它，需要在埃斯特角城内准确定位布拉瓦海滩。这里提供详细地址、坐标，以及从蒙得维的亚或市中心出发的最佳方式。",
       "sections": [
         {
           "heading": "详细地址",
-          "body": "五指雕塑位于埃斯特角城马尔多纳多省乌拉圭布拉瓦海滩（Playa Brava）1 号站，爱德华多·维克托·阿埃多大道（Av. Eduardo Víctor Haedo，km 162.500），邮编 20001。它不在半岛中心，而在东侧海岸，即被称为布拉瓦（Brava）的那段海滩。"
+          "body": "La Mano位于埃斯特角城马尔多纳多省乌拉圭布拉瓦海滩（Playa Brava）1 号站，Rambla de Circunvalación Gral. Artigas，邮编 20001。它不在半岛中心，而在东侧海岸，即被称为布拉瓦（Brava）的那段海滩。"
         },
         {
           "heading": "从蒙得维的亚出发如何抵达",
@@ -67,63 +92,88 @@
         },
         {
           "heading": "在埃斯特角城内：自驾、出租车与巴士",
-          "body": "自驾可沿滨海大道经罗斯福大道（Av. Roosevelt）转入爱德华多·维克托·阿埃多大道路（该路沿布拉瓦海滩延伸）；雕塑就在 1 号站。从市中心或港口出发，打车或租车（remisse）是最直接的方式。沿滨海大道行驶的市区巴士也可到达 1 号站附近；具体线路请咨询当地客运站当日班次。"
+          "body": "自驾可沿滨海大道经罗斯福大道（Av. Roosevelt）转入Rambla de Circunvalación Gral. Artigas（该路沿布拉瓦海滩延伸）；雕塑就在 1 号站。从市中心或港口出发，打车或租车（remisse）是最直接的方式。沿滨海大道行驶的市区巴士也可到达 1 号站附近；具体线路请咨询当地客运站当日班次。"
         },
         {
           "heading": "坐标与 Plus Code",
-          "body": "你可以将这些坐标粘贴到浏览器或地图应用中：-34.95789, -54.93729。Plus Code 为 23R7+R3 埃斯特角城，马尔多纳多省，乌拉圭。两者都指向布拉瓦海滩 1 号站，也就是五指雕塑所在处。"
+          "body": "你可以将这些坐标粘贴到浏览器或地图应用中：-34.95789, -54.93729。Plus Code 为 23R7+R3 埃斯特角城，马尔多纳多省，乌拉圭。两者都指向布拉瓦海滩 1 号站，也就是La Mano所在处。"
         },
         {
           "heading": "停车与实用建议",
-          "body": "停车位有限，沿阿埃多大道边缘分布；旺季建议尽早到达。参观免费且雕塑全天 24 小时露天展示，因此在日出或日落时分游客较少、光线也更适合拍照。"
+          "body": "停车位有限，沿Rambla de Circunvalación Gral. Artigas边缘分布；旺季建议尽早到达。参观免费且雕塑全天 24 小时露天展示，因此在日出或日落时分游客较少、光线也更适合拍照。"
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "布拉瓦海滩沙地上的五指雕塑（La Mano），埃斯特角城" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "以五指雕塑为背景的布拉瓦海滩全景" },
-        { "src": "/gallery/punta-del-este-6.jpg", "alt": "五指雕塑旁布拉瓦海滩的强劲海浪" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "布拉瓦海滩沙地上的La Mano，埃斯特角城"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "以La Mano为背景的布拉瓦海滩全景"
+        },
+        {
+          "src": "/gallery/punta-del-este-6.jpg",
+          "alt": "La Mano旁布拉瓦海滩的强劲海浪"
+        }
       ],
-      "mapTitle": "前往埃斯特角城五指雕塑的地图",
+      "mapTitle": "前往埃斯特角城La Mano的地图",
       "faq": [
-        { "q": "五指雕塑确切在哪里？", "a": "位于布拉瓦海滩（Playa Brava）1 号站，爱德华多·维克托·阿埃多大道（km 162.500），埃斯特角城，马尔多纳多省，乌拉圭。它在东侧海岸，不在半岛中心。" },
-        { "q": "从蒙得维的亚怎么去五指雕塑？", "a": "约 140 公里车程：自驾经 1 号公路与海滨公路（1 小时 30 分至 2 小时），或从特雷斯克鲁塞斯客运站乘巴士到埃斯特角城客运站，再打车或乘市区交通前往。" },
-        { "q": "去五指雕塑可以乘公共交通吗？", "a": "可以。沿滨海大道行驶的市区巴士可到 1 号站附近；从市中心或埃斯特角城客运站打车或租车（remisse）也很常见。" },
-        { "q": "参观五指雕塑需要门票吗？", "a": "不需要。它是一件户外公共雕塑，免费开放、全天 24 小时可参观，没有门票或围栏。" }
+        {
+          "q": "La Mano确切在哪里？",
+          "a": "位于布拉瓦海滩（Playa Brava）1 号站，Rambla de Circunvalación Gral. Artigas，埃斯特角城，马尔多纳多省，乌拉圭。它在东侧海岸，不在半岛中心。"
+        },
+        {
+          "q": "从蒙得维的亚怎么去La Mano？",
+          "a": "约 140 公里车程：自驾经 1 号公路与海滨公路（1 小时 30 分至 2 小时），或从特雷斯克鲁塞斯客运站乘巴士到埃斯特角城客运站，再打车或乘市区交通前往。"
+        },
+        {
+          "q": "去La Mano可以乘公共交通吗？",
+          "a": "可以。沿滨海大道行驶的市区巴士可到 1 号站附近；从市中心或埃斯特角城客运站打车或租车（remisse）也很常见。"
+        },
+        {
+          "q": "参观La Mano需要门票吗？",
+          "a": "不需要。它是一件户外公共雕塑，免费开放、全天 24 小时可参观，没有门票或围栏。"
+        }
       ],
       "relatedTitle": "继续探索",
       "related": [
-        { "href": "/zh/wu-zhi-diao-su-han-yi/", "label": "五指雕塑的含义", "desc": "了解这座雕塑的寓意，以及它如何成为这座城市的象征。" }
+        {
+          "href": "/zh/wu-zhi-diao-su-han-yi/",
+          "label": "La Mano的含义",
+          "desc": "了解这座雕塑的寓意，以及它如何成为这座城市的象征。"
+        }
       ]
     }
   },
   "seo": {
-    "h1": "五指雕塑（La Mano）— 自生命中浮现的人，埃斯特角城",
+    "h1": "La Mano— 自生命中浮现的人，埃斯特角城",
     "aboutHeading": "关于 La Mano — 自生命中浮现的人",
     "locationHeading": "La Mano 的位置与游览方式（埃斯特角城）",
     "landmarksHeading": "La Mano 周边的地标与景点",
     "historyHeading": "La Mano — 自生命中浮现的人的历史与意义",
-    "introLead": "欢迎来到 <strong>La Mano（自生命中浮现的人）</strong>，它被广泛称为 <strong>La Mano</strong>，也被称作五指雕塑（Los Dedos）。它坐落于 <strong>乌拉圭</strong> <strong>马尔多纳多省</strong> <strong>埃斯特角城</strong> 的中心地带，是该地区游客到访的核心地标。",
+    "introLead": "欢迎来到 <strong>La Mano（自生命中浮现的人）</strong>，它被广泛称为 <strong>La Mano</strong>。它坐落于 <strong>乌拉圭</strong> <strong>马尔多纳多省</strong> <strong>埃斯特角城</strong> 的中心地带，是该地区游客到访的核心地标。",
     "nearbyLead": "参观 <strong>La Mano（自生命中浮现的人）</strong> 时，游客可以轻松探访周边的历史地标与景点，包括 <strong>埃斯特角城灯塔</strong> 和 <strong>Casapueblo</strong>。",
     "breadcrumbLabel": "面包屑导航",
     "heroAlt": "La Mano — 自生命中浮现的人，埃斯特角城主视觉，乌拉圭",
-    "galleryAlt": "布拉瓦海滩上的 La Mano（五指雕塑）",
+    "galleryAlt": "布拉瓦海滩上的 La Mano",
     "galleryCaptions": [
-      "日出时布拉瓦海滩正面拍摄的五指雕塑",
+      "日出时布拉瓦海滩正面拍摄的La Mano",
       "La Mano 五根混凝土手指的特写",
       "从布拉瓦海滩沙中拔地而起的巨手",
-      "以大西洋为背景的五指雕塑",
+      "以大西洋为背景的La Mano",
       "金色光线下的雕塑特写",
       "La Mano 与布拉瓦海滩的汹涌浪涛",
-      "游客在日落时拍摄五指雕塑",
+      "游客在日落时拍摄La Mano",
       "手指映衬天空的低角度视角",
-      "被沙滩环绕的五指雕塑",
+      "被沙滩环绕的La Mano",
       "布拉瓦海滩与 La Mano 的全景",
       "夜幕下城市灯光中的雕塑",
       "作品混凝土质感的细节",
-      "远处埃斯特角城灯塔背景下的五指雕塑",
+      "远处埃斯特角城灯塔背景下的La Mano",
       "一家人在布拉瓦海滩的 La Mano 旁",
       "从布拉瓦海浪间浮现的巨手",
-      "粉色天空下日出时的五指雕塑",
+      "粉色天空下日出时的La Mano",
       "沙滩上雕塑的后方视角",
       "日落时作为埃斯特角城象征的 La Mano"
     ],
@@ -131,7 +181,7 @@
     "officialLink": "乌拉圭 / 马尔多纳多官方旅游门户"
   },
   "header": {
-    "siteName": "五指雕塑",
+    "siteName": "La Mano",
     "home": "首页",
     "visit": "导览",
     "history": "历史",
@@ -149,17 +199,17 @@
     "toggleTheme": "切换主题"
   },
   "hero": {
-    "title": "五指雕塑",
+    "title": "La Mano",
     "subtitle": "一只从埃斯特角城布拉瓦海滩沙中拔地而起的巨手——乌拉圭最具标志性的地标之一。",
     "rating": "4.5(28,487)",
     "reviewCount": "28,487 条评价",
     "hours": "24 小时开放",
     "openMaps": "查看位置",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "infoBar": {
     "address": "地址",
-    "addressValue": "爱德华多·维克托·阿埃多大道 162.500 公里处，布拉瓦海滩 1 号站，20001 埃斯特角城，马尔多纳多，乌拉圭",
+    "addressValue": "Rambla de Circunvalación Gral. Artigas，布拉瓦海滩 1 号站，20001 埃斯特角城，马尔多纳多，乌拉圭",
     "phone": "电话",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
@@ -168,13 +218,13 @@
     "hoursValue": "24 小时 / 全年无休"
   },
   "intro": {
-    "title": "探索五指雕塑",
-    "description": "五指雕塑，又称“La Mano”（手）或“Hombre emergiendo a la vida”（自生命中浮现的人），是一座由五根人手指从布拉瓦海滩沙地中破沙而出的混凝土雕塑。它由智利艺术家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年在一场国际雕塑工作坊中创作，如今已成为埃斯特角城无可替代的城市符号，也是乌拉圭被拍摄最多的纪念物之一。",
+    "title": "探索La Mano",
+    "description": "La Mano，又称“Hombre emergiendo a la vida”（自生命中浮现的人），是一座由五根人手指从布拉瓦海滩沙地中破沙而出的混凝土雕塑。它由智利艺术家马里奥·伊拉拉萨瓦尔（Mario Irarrázabal）于 1982 年在一场国际雕塑工作坊中创作，如今已成为埃斯特角城无可替代的城市符号，也是乌拉圭被拍摄最多的纪念物之一。",
     "visitGuide": {
       "title": "游览指南",
       "items": [
         "每周 7 天、每天 24 小时开放——随时可参观，免费入场。",
-        "坐落于埃斯特角城布拉瓦海滩 1 号站（Av. Eduardo Víctor Haedo）。",
+        "坐落于埃斯特角城布拉瓦海滩 1 号站（Rambla de Circunvalación Gral. Artigas）。",
         "清晨或傍晚光线最适合拍照；日出时分格外壮观。",
         "从市中心步行、骑行或乘公交均可轻松抵达（约 15 分钟）。"
       ]
@@ -191,16 +241,16 @@
   },
   "officialManagement": {
     "title": "关于这座雕塑",
-    "text": "五指雕塑是一座由马尔多纳多省政府（Intendencia de Maldonado）维护的公共艺术作品，埃斯特角城即隶属于该省。作为乌拉圭到访人数最多的地标之一，它每年吸引数十万游客，也是拉丁美洲现代公共艺术的典范。雕塑直接矗立在沙滩上，我们倡议每一位到访者共同守护海洋环境——请勿在雕塑周围留下任何垃圾，让这片海岸长久洁净。",
+    "text": "La Mano是一座由马尔多纳多省政府（Intendencia de Maldonado）维护的公共艺术作品，埃斯特角城即隶属于该省。作为乌拉圭到访人数最多的地标之一，它每年吸引数十万游客，也是拉丁美洲现代公共艺术的典范。雕塑直接矗立在沙滩上，我们倡议每一位到访者共同守护海洋环境——请勿在雕塑周围留下任何垃圾，让这片海岸长久洁净。",
     "ecoNote": "🌊 公益提示：雕塑位于海滩之上，请勿在周围遗留垃圾，与我们一起保护海洋环境。"
   },
   "knowledge": {
-    "title": "La Mano（五指雕塑）的历史、寓意与传说",
+    "title": "La Mano的历史、寓意与传说",
     "sections": [
       {
         "id": "origin",
         "title": "起源：1982 年的国际雕塑营",
-        "content": "五指雕塑诞生于 1982 年的夏天，当时埃斯特角城举办了一场国际露天雕塑交流活动。活动汇聚了来自多个国家的艺术家，他们需要在公众眼前、面朝大海创作纪念性作品。智利艺术家马里奥·伊拉拉萨瓦尔的方案最为大胆：一只从沙中浮现的巨手，仿佛整具身躯都被埋在沙滩之下。它被构思为一件“大地艺术”作品——为与地景对话而生，一经问世便引起轰动，并一直矗立在原地。"
+        "content": "La Mano诞生于 1982 年的夏天，当时埃斯特角城举办了一场国际露天雕塑交流活动。活动汇聚了来自多个国家的艺术家，他们需要在公众眼前、面朝大海创作纪念性作品。智利艺术家马里奥·伊拉拉萨瓦尔的方案最为大胆：一只从沙中浮现的巨手，仿佛整具身躯都被埋在沙滩之下。它被构思为一件“大地艺术”作品——为与地景对话而生，一经问世便引起轰动，并一直矗立在原地。"
       },
       {
         "id": "artist",
@@ -220,12 +270,12 @@
       {
         "id": "legend",
         "title": "当地传说与神话",
-        "content": "和所有标志性作品一样，五指雕塑也积累了自己的传说。流传最广的一则说，沙滩下埋着一位巨人，只露出一只手；另一则说它属于一位被大海困住、浮出水面求救的泳者。还有人说，触摸它的手指会带来好运，并让你再次回到埃斯特角城。这些说法并无史料依据，却已成为这座雕塑在当地人心中唤起的想象的一部分。"
+        "content": "和所有标志性作品一样，La Mano也积累了自己的传说。流传最广的一则说，沙滩下埋着一位巨人，只露出一只手；另一则说它属于一位被大海困住、浮出水面求救的泳者。还有人说，触摸它的手指会带来好运，并让你再次回到埃斯特角城。这些说法并无史料依据，却已成为这座雕塑在当地人心中唤起的想象的一部分。"
       },
       {
         "id": "icon",
         "title": "从艺术品到城市象征",
-        "content": "数十年过去，五指雕塑不再只是一件雕塑，而成为埃斯特角城的形象代表、乌拉圭被拍摄最多的地标之一。它出现在明信片、旅游指南、旅游宣传、音乐视频与社交媒体上，也是来自世界各地游客的约定会合点。它一眼可辨的轮廓宛如这座城市天然的品牌标志，守望着以强劲浪涛闻名的布拉瓦海滩。"
+        "content": "数十年过去，La Mano不再只是一件雕塑，而成为埃斯特角城的形象代表、乌拉圭被拍摄最多的地标之一。它出现在明信片、旅游指南、旅游宣传、音乐视频与社交媒体上，也是来自世界各地游客的约定会合点。它一眼可辨的轮廓宛如这座城市天然的品牌标志，守望着以强劲浪涛闻名的布拉瓦海滩。"
       },
       {
         "id": "conservation",
@@ -241,14 +291,14 @@
   },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "五指雕塑与辽阔布拉瓦海滩的影像",
-    "photoAlt": "布拉瓦海滩上的五指雕塑",
+    "subtitle": "La Mano与辽阔布拉瓦海滩的影像",
+    "photoAlt": "布拉瓦海滩上的La Mano",
     "lightboxClose": "关闭",
     "lightboxPrev": "上一张",
     "lightboxNext": "下一张",
     "viewAll": "在 Google 地图上查看位置",
     "showMore": "显示更多照片",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "reviews": {
     "title": "游客评价",
@@ -264,12 +314,13 @@
     "title": "如何到达",
     "subtitle": "乌拉圭马尔多纳多省埃斯特角城，布拉瓦海滩 1 号站",
     "openMaps": "在 Google 地图上打开",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+    "tourismCredit": "据马尔多纳多旅游部门 Javier Báez 提供的信息，La Mano 属于 Paseo de Las Américas，位于 Rambla de Circunvalación Gral. Artigas。"
   },
   "transport": {
     "title": "如何到达手指雕塑",
     "subtitle": "前往布拉瓦海滩（Playa Brava）上这座雕塑的各种方式。",
-    "note": "雕塑位于布拉瓦海滩 1 号站（Parada 1）、爱德华多·维克托·阿埃多大道（Av. Eduardo Víctor Haedo），距市中心约 15 分钟车程。",
+    "note": "雕塑位于布拉瓦海滩 1 号站（Parada 1）、Rambla de Circunvalación Gral. Artigas，距市中心约 15 分钟车程。",
     "modes": [
       {
         "icon": "✈️",
@@ -307,7 +358,7 @@
         "summary": "CODESA 市内公交线连接市中心、半岛与布拉瓦海滩。告诉司机在 1 号站下车即可。",
         "steps": [
           "从市中心或半岛乘坐市内公交（CODESA）。",
-          "在布拉瓦海滩 1 号站、爱德华多·维克托·阿埃多大道下车。",
+          "在布拉瓦海滩 1 号站、Rambla de Circunvalación Gral. Artigas下车。",
           "雕塑就在站台旁的滨海步道边，几步即到。"
         ]
       },
@@ -318,7 +369,7 @@
         "steps": [
           "在酒店叫一辆 remise，或用手机叫 Uber / DiDi。",
           "告知目的地：「手指雕塑，布拉瓦海滩 1 号站」。",
-          "沿爱德华多·维克托·阿埃多大道直达，路程短且顺畅。"
+          "沿Rambla de Circunvalación Gral. Artigas直达，路程短且顺畅。"
         ]
       },
       {
@@ -328,36 +379,51 @@
         "steps": [
           "在市中心租一辆自行车，或使用市内的自行车站点。",
           "沿滨海自行车道前往布拉瓦海滩。",
-          "把车停在阿埃多大道旁的停车桩，再步行到沙滩。"
+          "把车停在Rambla de Circunvalación Gral. Artigas旁的停车桩，再步行到沙滩。"
         ]
       },
       {
         "icon": "🚗",
         "title": "自驾",
-        "summary": "从蒙得维的亚沿海滨公路（IB，Ruta Interbalnearia）前往埃斯特角城，再走爱德华多·维克托·阿埃多大道。",
+        "summary": "从蒙得维的亚沿海滨公路（IB，Ruta Interbalnearia）前往埃斯特角城，再走Rambla de Circunvalación Gral. Artigas。",
         "steps": [
           "沿海滨公路（IB）行驶约 120 公里到达市区。",
-          "经爱德华多·维克托·阿埃多大道前往布拉瓦海滩。",
+          "经Rambla de Circunvalación Gral. Artigas前往布拉瓦海滩。",
           "可停在蓝色停车位或海滩停车场（旺季收费）。"
         ]
       }
     ]
   },
   "footer": {
-    "siteName": "五指雕塑",
-    "rights": "© 2026 五指雕塑 — 独立旅游指南。保留所有权利。",
+    "siteName": "La Mano",
+    "rights": "© 2026 La Mano — 独立旅游指南。保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "官方与参考资源",
     "mapsLabel": "Google 地图 →",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
     "officialLinksList": [
-      { "name": "乌拉圭国家旅游部", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Uruguay Natural — 官方旅游", "url": "https://uruguaynatural.com/" },
-      { "name": "马尔多纳多省政府", "url": "https://www.maldonado.gub.uy/" },
-      { "name": "乌拉圭教育与文化部", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
-      { "name": "乌拉圭总统府", "url": "https://www.gub.uy/" }
+      {
+        "name": "乌拉圭国家旅游部",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Uruguay Natural — 官方旅游",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "马尔多纳多省政府",
+        "url": "https://www.maldonado.gub.uy/"
+      },
+      {
+        "name": "乌拉圭教育与文化部",
+        "url": "https://www.gub.uy/ministerio-educacion-cultura/"
+      },
+      {
+        "name": "乌拉圭总统府",
+        "url": "https://www.gub.uy/"
+      }
     ],
     "disclaimer": "本网站是一个独立的非营利游客信息项目。我们与任何政府机构或官方组织均无隶属关系。",
     "officialName": "La Mano — 自生命中浮现的人",
@@ -429,14 +495,30 @@
   },
   "faq": {
     "title": "常见问题",
-    "subtitle": "关于五指雕塑的服务设施、历史背景与游览规划的实用信息。",
+    "subtitle": "关于La Mano的服务设施、历史背景与游览规划的实用信息。",
     "amenities": {
       "title": "周边服务设施",
       "items": [
-        { "icon": "🅿️", "label": "停车", "value": "蓝线车位及海滩停车场" },
-        { "icon": "🚻", "label": "洗手间", "value": "海滩摊位及 1 号站" },
-        { "icon": "🔌", "label": "加油/充电", "value": "Haedo 大道沿线" },
-        { "icon": "♿", "label": "无障碍", "value": "海滩与海滨步道" }
+        {
+          "icon": "🅿️",
+          "label": "停车",
+          "value": "蓝线车位及海滩停车场"
+        },
+        {
+          "icon": "🚻",
+          "label": "洗手间",
+          "value": "海滩摊位及 1 号站"
+        },
+        {
+          "icon": "🔌",
+          "label": "加油/充电",
+          "value": "Rambla de Circunvalación Gral. Artigas沿线"
+        },
+        {
+          "icon": "♿",
+          "label": "无障碍",
+          "value": "海滩与海滨步道"
+        }
       ]
     },
     "categories": [
@@ -446,7 +528,7 @@
         "items": [
           {
             "q": "雕塑周边有停车场吗？收费标准如何？",
-            "a": "雕塑坐落于 Eduardo Víctor Haedo 大道、布拉瓦海滩 1 号站。作品本身没有封闭式停车场，但大道沿线设有蓝线（计时收费，旺季之外时段免费）路边车位，夏季还会有多个计时海滩停车场。旺季（12 月至次年 2 月）车位很早就被占满，建议乘坐公交、骑行或从市中心步行前往（约 15 分钟）。"
+            "a": "雕塑坐落于 Rambla de Circunvalación Gral. Artigas、布拉瓦海滩 1 号站。作品本身没有封闭式停车场，但大道沿线设有蓝线（计时收费，旺季之外时段免费）路边车位，夏季还会有多个计时海滩停车场。旺季（12 月至次年 2 月）车位很早就被占满，建议乘坐公交、骑行或从市中心步行前往（约 15 分钟）。"
           },
           {
             "q": "从卡皮坦德科尔贝塔国际机场（PDP）怎么去？",
@@ -462,7 +544,7 @@
           },
           {
             "q": "雕塑周边有洗手间或餐饮补给吗？",
-            "a": "雕塑旁没有常设的免费公共洗手间，但几米之外 1 号站的沙滩摊位（chiringuito）和海滨浴场在旺季提供洗手间、淋浴和轻便餐饮；Haedo 大道沿线也有多处小卖部和餐厅。淡季（秋冬季）服务会相应减少，建议自备饮水。"
+            "a": "雕塑旁没有常设的免费公共洗手间，但几米之外 1 号站的沙滩摊位（chiringuito）和海滨浴场在旺季提供洗手间、淋浴和轻便餐饮；Rambla de Circunvalación Gral. Artigas沿线也有多处小卖部和餐厅。淡季（秋冬季）服务会相应减少，建议自备饮水。"
           }
         ]
       },
@@ -503,8 +585,8 @@
         "title": "周边区域联动",
         "items": [
           {
-            "q": "参观完后，周边还有哪些值得推荐的五指雕塑附近景点？",
-            "a": "几分钟内即可抵达埃斯特角城灯塔（经典城市观景点）、埃斯特角城港及其渔民市场，以及位于 Punta Ballena 的 Casapueblo——艺术家卡洛斯·帕埃斯·维拉罗（Carlos Páez Vilaró）的美术馆兼工作室。半岛城区与 20 街的酒吧餐厅群，更可在距五指雕塑几公里内凑成一个完美的整日行程。"
+            "q": "参观完后，周边还有哪些值得推荐的La Mano附近景点？",
+            "a": "几分钟内即可抵达埃斯特角城灯塔（经典城市观景点）、埃斯特角城港及其渔民市场，以及位于 Punta Ballena 的 Casapueblo——艺术家卡洛斯·帕埃斯·维拉罗（Carlos Páez Vilaró）的美术馆兼工作室。半岛城区与 20 街的酒吧餐厅群，更可在距La Mano几公里内凑成一个完美的整日行程。"
           }
         ]
       },
@@ -514,7 +596,7 @@
         "items": [
           {
             "q": "La Mano（自生命中浮现的人）在哪里？",
-            "a": "La Mano（自生命中浮现的人）位于乌拉圭马尔多纳多省埃斯特角城布拉瓦海滩 1 号站，爱德华多·维克托·阿埃多大道（Av. Eduardo Víctor Haedo，162.500 公里处），邮政编码 20001。坐标：-34.95789, -54.93729；Plus Code：23R7+R3 Punta del Este, Maldonado。"
+            "a": "La Mano（自生命中浮现的人）位于乌拉圭马尔多纳多省埃斯特角城布拉瓦海滩 1 号站，Rambla de Circunvalación Gral. Artigas，邮政编码 20001。坐标：-34.95789, -54.93729；Plus Code：23R7+R3 Punta del Este, Maldonado。"
           },
           {
             "q": "参观 La Mano 免费吗？",
@@ -530,11 +612,31 @@
     "intro": "本指南是一个独立项目，内容整理自官方与权威参考资料。如需获取最新、官方的信息，请访问以下链接：",
     "officialNote": "如需官方与地区信息，请访问",
     "items": [
-      { "name": "马尔多纳多省政府（Intendencia de Maldonado）", "url": "https://www.maldonado.gub.uy/", "desc": "负责维护与管理雕塑所在公共空间的当地政府。" },
-      { "name": "乌拉圭国家旅游部", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "乌拉圭国家旅游官方门户。" },
-      { "name": "Uruguay Natural — 官方旅游", "url": "https://uruguaynatural.com/", "desc": "国家官方旅游推广网站。" },
-      { "name": "维基百科 — La Mano（雕塑）", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "关于作品及其作者的百科参考。" },
-      { "name": "Google 地图 — 官方地点", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "包含位置、开放时间与游客评价的地点信息。" }
+      {
+        "name": "马尔多纳多省政府（Intendencia de Maldonado）",
+        "url": "https://www.maldonado.gub.uy/",
+        "desc": "负责维护与管理雕塑所在公共空间的当地政府。"
+      },
+      {
+        "name": "乌拉圭国家旅游部",
+        "url": "https://www.gub.uy/ministerio-turismo/",
+        "desc": "乌拉圭国家旅游官方门户。"
+      },
+      {
+        "name": "Uruguay Natural — 官方旅游",
+        "url": "https://uruguaynatural.com/",
+        "desc": "国家官方旅游推广网站。"
+      },
+      {
+        "name": "维基百科 — La Mano（雕塑）",
+        "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)",
+        "desc": "关于作品及其作者的百科参考。"
+      },
+      {
+        "name": "Google 地图 — 坐标",
+        "url": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+        "desc": "按坐标显示雕塑的大致位置。"
+      }
     ]
   },
   "imageRights": {
@@ -553,7 +655,15 @@
     "forecastTitle": "未来 7 天预报",
     "updated": "更新于",
     "source": "数据来源",
-    "dayNames": ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
+    "dayNames": [
+      "周日",
+      "周一",
+      "周二",
+      "周三",
+      "周四",
+      "周五",
+      "周六"
+    ],
     "adviceTitle": "出行建议",
     "outfitLabel": "出行穿搭",
     "planLabel": "游玩安排",
@@ -643,15 +753,60 @@
     "subtitle": "出发前需要了解的一切：服务设施、到达方式，以及参观布拉瓦海滩的实用建议。",
     "neutralNote": "我们是非营利科普网站，仅说明当地存在哪些类型的服务，不推荐、不推广任何具体商户。",
     "items": [
-      { "icon": "🚻", "title": "洗手间与淋浴", "desc": "雕塑旁没有固定的公共洗手间。旺季时布拉瓦海滩的浴场与海滩服务点会提供洗手间和淋浴；淡季需前往市中心解决。", "tip": "夏季之外，海滩服务设施通常会关闭。" },
-      { "icon": "🅿️", "title": "停车", "desc": "雕塑位于爱德华多·维克托·阿埃多大道旁。路边设有计时收费车位，周边也有私人停车场；旺季会收费且很快停满。", "tip": "1、2 月建议早到，或改乘公交、出租车、自行车。" },
-      { "icon": "🍽️", "title": "餐饮", "desc": "沿大道与半岛区分布着各价位的餐厅、烧烤店、咖啡馆、披萨店与冰淇淋店。海滩上的服务点提供简餐。", "tip": "旺季建议提前订位；淡季不少店铺会歇业。" },
-      { "icon": "🏨", "title": "住宿", "desc": "周边有酒店、青旅、公寓式酒店、度假公寓与短租。市中心与半岛区房源最多，距雕塑仅数分钟。", "tip": "12 月至次年 2 月及长周末请提前预订。" },
-      { "icon": "🛒", "title": "商超与补给", "desc": "市中心与半岛区有超市、便利店和药店，可购买饮用水、防晒霜、零食和海滩用品。", "tip": "建议自带水杯：滨海步道沿线公共饮水点很少。" },
-      { "icon": "⛽", "title": "加油与充电", "desc": "进城主干道上有提供汽油和柴油的加油站。电动车充电桩数量有限，多设在酒店与市中心停车场。", "tip": "若驾驶电动车，请在抵达滨海区前规划好充电。" },
-      { "icon": "♿", "title": "无障碍通行", "desc": "滨海步道宽敞、大多平坦，适合轮椅和婴儿车。沙滩入口的通行条件会随沙地状况变化。", "tip": "靠近雕塑时，建议走铺装步道，不要走松软沙地。" },
-      { "icon": "🏥", "title": "医疗、药店与取现", "desc": "市中心有药店、医疗中心和 ATM。遇紧急情况，乌拉圭统一紧急电话为 911。", "tip": "随身备些现金：部分小店不接受刷卡。" },
-      { "icon": "🛟", "title": "海滩与周边安全", "desc": "布拉瓦海滩浪涌与海流有时较强。请遵守旗帜与救生员指示，大风天气避免下水。", "tip": "看管好随身物品，不要留下垃圾：这里是受保护的公共空间。" }
+      {
+        "icon": "🚻",
+        "title": "洗手间与淋浴",
+        "desc": "雕塑旁没有固定的公共洗手间。旺季时布拉瓦海滩的浴场与海滩服务点会提供洗手间和淋浴；淡季需前往市中心解决。",
+        "tip": "夏季之外，海滩服务设施通常会关闭。"
+      },
+      {
+        "icon": "🅿️",
+        "title": "停车",
+        "desc": "雕塑位于Rambla de Circunvalación Gral. Artigas旁。路边设有计时收费车位，周边也有私人停车场；旺季会收费且很快停满。",
+        "tip": "1、2 月建议早到，或改乘公交、出租车、自行车。"
+      },
+      {
+        "icon": "🍽️",
+        "title": "餐饮",
+        "desc": "沿大道与半岛区分布着各价位的餐厅、烧烤店、咖啡馆、披萨店与冰淇淋店。海滩上的服务点提供简餐。",
+        "tip": "旺季建议提前订位；淡季不少店铺会歇业。"
+      },
+      {
+        "icon": "🏨",
+        "title": "住宿",
+        "desc": "周边有酒店、青旅、公寓式酒店、度假公寓与短租。市中心与半岛区房源最多，距雕塑仅数分钟。",
+        "tip": "12 月至次年 2 月及长周末请提前预订。"
+      },
+      {
+        "icon": "🛒",
+        "title": "商超与补给",
+        "desc": "市中心与半岛区有超市、便利店和药店，可购买饮用水、防晒霜、零食和海滩用品。",
+        "tip": "建议自带水杯：滨海步道沿线公共饮水点很少。"
+      },
+      {
+        "icon": "⛽",
+        "title": "加油与充电",
+        "desc": "进城主干道上有提供汽油和柴油的加油站。电动车充电桩数量有限，多设在酒店与市中心停车场。",
+        "tip": "若驾驶电动车，请在抵达滨海区前规划好充电。"
+      },
+      {
+        "icon": "♿",
+        "title": "无障碍通行",
+        "desc": "滨海步道宽敞、大多平坦，适合轮椅和婴儿车。沙滩入口的通行条件会随沙地状况变化。",
+        "tip": "靠近雕塑时，建议走铺装步道，不要走松软沙地。"
+      },
+      {
+        "icon": "🏥",
+        "title": "医疗、药店与取现",
+        "desc": "市中心有药店、医疗中心和 ATM。遇紧急情况，乌拉圭统一紧急电话为 911。",
+        "tip": "随身备些现金：部分小店不接受刷卡。"
+      },
+      {
+        "icon": "🛟",
+        "title": "海滩与周边安全",
+        "desc": "布拉瓦海滩浪涌与海流有时较强。请遵守旗帜与救生员指示，大风天气避免下水。",
+        "tip": "看管好随身物品，不要留下垃圾：这里是受保护的公共空间。"
+      }
     ]
   },
   "recommendations": {
@@ -659,14 +814,32 @@
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐游览与活动",
     "attractions": [
-      { "name": "Casapueblo 艺术工坊博物馆", "url": "https://casapueblo.com.uy/" },
-      { "name": "潘德埃斯特灯塔", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "潘德埃斯特港", "url": "https://www.maldonado.gub.uy/" }
+      {
+        "name": "Casapueblo 艺术工坊博物馆",
+        "url": "https://casapueblo.com.uy/"
+      },
+      {
+        "name": "潘德埃斯特灯塔",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "潘德埃斯特港",
+        "url": "https://www.maldonado.gub.uy/"
+      }
     ],
     "tours": [
-      { "name": "城市与海滩导览游", "url": "https://uruguaynatural.com/" },
-      { "name": "双体船日落巡航", "url": "https://uruguaynatural.com/" },
-      { "name": "洛沃斯岛乘船之旅", "url": "https://www.gub.uy/ministerio-turismo/" }
+      {
+        "name": "城市与海滩导览游",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "双体船日落巡航",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "洛沃斯岛乘船之旅",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      }
     ]
   }
 }

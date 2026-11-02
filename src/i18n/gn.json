@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "Los Dedos de Punta del Este (La Mano) | Jeguata ha Tenda",
-    "description": "Eikuaa Los Dedos de Punta del Este (La Mano): tenda Playa Brava-pe, aravo, jeréia, ta'anga ha aravo iporãvéva. Reike rei, ojepe'a 24 aravo."
+    "title": "La Mano de Punta del Este | Jeguata ha Tenda",
+    "description": "Eikuaa La Mano de Punta del Este: tenda Playa Brava-pe, aravo, jeréia, ta'anga ha aravo iporãvéva. Reike rei, ojepe'a 24 aravo."
   },
   "topics": {
     "exploreTitle": "La Mano Jeguata",
     "significado-la-mano-punta-del-este": {
-      "title": "Mba'épa he'iséva La Mano (Los Dedos) Punta del Este-pe | Jeréia ha Techaukaha",
-      "description": "Mba'épa he'iséva La Mano de Punta del Este (Los Dedos): tembiapo jeréia, omboaparéva Mario Irarrázabal, po yvytúpe guã jehe'a, ha mba'érepa oiko chugui táva ra'anga.",
-      "h1": "Mba'épa he'iséva La Mano de Punta del Este (Los Dedos)",
+      "title": "Mba'épa he'iséva La Mano Punta del Este-pe | Jeréia ha Techaukaha",
+      "description": "Mba'épa he'iséva La Mano de Punta del Este: tembiapo jeréia, omboaparéva Mario Irarrázabal, po yvytúpe guã jehe'a, ha mba'érepa oiko chugui táva ra'anga.",
+      "h1": "Mba'épa he'iséva La Mano de Punta del Este",
       "cardText": "Eikuaa mba'épa ohechauka tembiapo, i téra tuichavéva, ha mba'érepa oiko chugui táva ra'anga.",
-      "intro": "La Mano, ojehero avei Los Dedos de Punta del Este, ha'e peteĩ tembiapo joajéva porãite orekóva téra ha mba'e apopyre, ha ndaha'éi peteĩ jehechaplaya. Ko jehe'ay-pe roñemyanyhẽ mba'épa oheiséva, moõgui ou, ha mba'érepa oiko chugui Punta del Este ta'anga.",
+      "intro": "La Mano ha'e peteĩ tembiapo joajéva porãite orekóva téra ha mba'e apopyre, ha ndaha'éi peteĩ jehechaplaya. Ko jehe'ay-pe roñemyanyhẽ mba'épa oheiséva, moõgui ou, ha mba'érepa oiko chugui Punta del Este ta'anga.",
       "sections": [
         {
           "heading": "Mba'épa ohechauka La Mano?",
@@ -30,36 +30,61 @@
         },
         {
           "heading": "Mba'érepa oiko chugui Punta del Este ra'anga",
-          "body": "Ara pukukue rupi, La Mano oñemoambuéva peteĩ jeheja mba'eguígui, oiko chugui peteĩ tenda oje'akãvéva ha ojeikuaavéva Punta del Este-pe. Ko'ãro ha'e Playa Brava ta'anga ha táva ra'anga oje'éva, teeteve umíva oho va'erã Los Dedos."
+          "body": "Ara pukukue rupi, La Mano oñemoambuéva peteĩ jeheja mba'eguígui, oiko chugui peteĩ tenda oje'akãvéva ha ojeikuaavéva Punta del Este-pe. Ko'ãro ha'e Playa Brava ta'anga ha táva ra'anga oje'éva."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) ara renda-pe Playa Brava, Punta del Este" },
-        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Poapy po'i kuarepoti La Mano pegua yvytúpe" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "La Mano Playa Brava ndive" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano ara renda-pe Playa Brava, Punta del Este"
+        },
+        {
+          "src": "/gallery/punta-del-este-1.jpg",
+          "alt": "Poapy po'i kuarepoti La Mano pegua yvytúpe"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "La Mano Playa Brava ndive"
+        }
       ],
       "mapTitle": "La Mano oĩva Punta del Este-pe",
       "faq": [
-        { "q": "Mba'épa he'iséva La Mano de Punta del Este?", "a": "Ohechauka peteĩ po ava oúva yvytúpe, ha oñe'ẽ 'Hombre emergiendo a la vida' (Pó oúva vida-pe) reheve: peteĩ ava ta'anga oúva yvýgui ha paraguasúgui, peteĩ ava ha ihendápe yvy ári rembimbo." },
-        { "q": "Máva ojapóva La Mano de Punta del Este ha moõpa ary-pe?", "a": "Ojapóva Chile-gua tembiapohára Mario Irarrázabal ary 1982-pe, peteĩ jehejápe tembiapo internaciónal de Punta del Este, ha ojapóva 6 ára añóme." },
-        { "q": "La Mano oguereko ambue téra?", "a": "Héẽ. Ojehero La Mano, Los Dedos de Punta del Este, ha i téra tuichavéva 'La Mano — Hombre emergiendo a la vida'." },
-        { "q": "Mba'érepa La Mano oĩ playa-pe ha ndaha'éi museo-pe?", "a": "Ojapóva peteĩ tembiapo joajéva Playa Brava-pe (Parada 1). Oñemboja'o playa-pe ha'e tembiapo pegua: ypa ha yvytu oñembyaty i pya'e ndive." }
+        {
+          "q": "Mba'épa he'iséva La Mano de Punta del Este?",
+          "a": "Ohechauka peteĩ po ava oúva yvytúpe, ha oñe'ẽ 'Hombre emergiendo a la vida' (Pó oúva vida-pe) reheve: peteĩ ava ta'anga oúva yvýgui ha paraguasúgui, peteĩ ava ha ihendápe yvy ári rembimbo."
+        },
+        {
+          "q": "Máva ojapóva La Mano de Punta del Este ha moõpa ary-pe?",
+          "a": "Ojapóva Chile-gua tembiapohára Mario Irarrázabal ary 1982-pe, peteĩ jehejápe tembiapo internaciónal de Punta del Este, ha ojapóva 6 ára añóme."
+        },
+        {
+          "q": "La Mano oguereko ambue téra?",
+          "a": "Héẽ. Ojehero La Mano, La Mano de Punta del Este, ha i téra tuichavéva 'La Mano — Hombre emergiendo a la vida'."
+        },
+        {
+          "q": "Mba'érepa La Mano oĩ playa-pe ha ndaha'éi museo-pe?",
+          "a": "Ojapóva peteĩ tembiapo joajéva Playa Brava-pe (Parada 1). Oñemboja'o playa-pe ha'e tembiapo pegua: ypa ha yvytu oñembyaty i pya'e ndive."
+        }
       ],
       "relatedTitle": "Eikuaave",
       "related": [
-        { "href": "/gn/mbaechapa-eho-la-mano-pe/", "label": "Mba'éichapa eho La Mano-pe", "desc": "Kuatiañe'ẽ tuichavéva, GPS, ha mba'éichapa eho Montevideo-gui." }
+        {
+          "href": "/gn/mbaechapa-eho-la-mano-pe/",
+          "label": "Mba'éichapa eho La Mano-pe",
+          "desc": "Kuatiañe'ẽ tuichavéva, GPS, ha mba'éichapa eho Montevideo-gui."
+        }
       ]
     },
     "como-llegar-la-mano": {
       "title": "Mba'éichapa eho La Mano-pe Punta del Este-pe | Tenda ha Jeguata",
-      "description": "Mba'éichapa eho La Mano (Los Dedos) Punta del Este-pe: Playa Brava kuatiañe'ẽ, GPS, Montevideo-gui jeguata auto térã ómnibus, estacionamiento, ha mapa.",
-      "h1": "Mba'éichapa eho La Mano (Los Dedos) Punta del Este-pe",
+      "description": "Mba'éichapa eho La Mano Punta del Este-pe: Playa Brava kuatiañe'ẽ, GPS, Montevideo-gui jeguata auto térã ómnibus, estacionamiento, ha mapa.",
+      "h1": "Mba'éichapa eho La Mano Punta del Este-pe",
       "cardText": "Kuatiañe'ẽ, GPS, Montevideo-gui jeguata, ha moõpa eiporu estacionamiento Playa Brava jerére.",
       "intro": "La Mano oĩ yvy ári ha reike rei, hákatu eho va'erã embojo'áva Playa Brava Punta del Este rypy'úpe. Ko'ãpe oguereko kuatiañe'ẽ tuichavéva, coordenada, ha jeguata iporãvéva Montevideo térã táva mbytégui.",
       "sections": [
         {
           "heading": "Kuatiañe'ẽ tuichavéva",
-          "body": "La Mano oĩ Playa Brava Parada 1-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (CEP 20001). Ha'éi táva mbytépe, hákatu paraguasu kuarahyresẽygua, Playa Brava ojeherohápe."
+          "body": "La Mano oĩ Playa Brava Parada 1-pe, Rambla de Circunvalación Gral. Artigas ári, Punta del Este, Maldonado, Uruguay (CEP 20001). Ha'éi táva mbytépe, hákatu paraguasu kuarahyresẽygua, Playa Brava ojeherohápe."
         },
         {
           "heading": "Mba'éichapa eho Montevideo-gui",
@@ -67,7 +92,7 @@
         },
         {
           "heading": "Punta del Este ryepýpe: auto, taxi ha ómnibus",
-          "body": "Auto-pe, eho costa rupi ha Av. Roosevelt rupi oñe'ẽva Av. Eduardo Víctor Haedo-pe, ojereváva Playa Brava, ha tembiapo oĩ Parada 1-pe. Táva mbytéve térã puerto-gui, taxi térã remisse ha'e mba'e iporãvéva. Ómnibus táva oho costa rupi oguahẽ avei Parada 1 jerére; eporandu terminal local ára pegua línea."
+          "body": "Auto-pe, eho costa rupi ha Av. Roosevelt rupi oñe'ẽva Rambla de Circunvalación Gral. Artigas-pe, ojereváva Playa Brava, ha tembiapo oĩ Parada 1-pe. Táva mbytéve térã puerto-gui, taxi térã remisse ha'e mba'e iporãvéva. Ómnibus táva oho costa rupi oguahẽ avei Parada 1 jerére; eporandu terminal local ára pegua línea."
         },
         {
           "heading": "Coordenada ha Plus Code",
@@ -75,55 +100,80 @@
         },
         {
           "heading": "Estacionamiento ha jeheja",
-          "body": "Estacionamiento michĩ, oĩva Av. Haedo borde ári; temporada tuichavépe iporã eho tenondete. Reike ha'e rei ha tembiapo oĩ yvy ári 24 aravo, upéicha ko'ãro ha kuarahy renda-pe oĩ michĩ tapicha ha mba'era porãve ta'anga."
+          "body": "Estacionamiento michĩ, oĩva Rambla de Circunvalación Gral. Artigas borde ári; temporada tuichavépe iporã eho tenondete. Reike ha'e rei ha tembiapo oĩ yvy ári 24 aravo, upéicha ko'ãro ha kuarahy renda-pe oĩ michĩ tapicha ha mba'era porãve ta'anga."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano Playa Brava yvy ári, Punta del Este" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Playa Brava jehecha tuichavéva La Mano ndive" },
-        { "src": "/gallery/punta-del-este-6.jpg", "alt": "Ypa hu'ũ La Mano jerére Playa Brava-pe" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano Playa Brava yvy ári, Punta del Este"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "Playa Brava jehecha tuichavéva La Mano ndive"
+        },
+        {
+          "src": "/gallery/punta-del-este-6.jpg",
+          "alt": "Ypa hu'ũ La Mano jerére Playa Brava-pe"
+        }
       ],
       "mapTitle": "Mapa eho La Mano-pe",
       "faq": [
-        { "q": "La Mano oĩ porãite moõpa?", "a": "Playa Brava Parada 1-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay. Oĩ paraguasu kuarahyresẽygua, ha'éi táva mbytépe." },
-        { "q": "Mba'éichapa eho La Mano-pe Montevideo-gui?", "a": "140 km kuarahyresẽ gotyo: auto-pe Ruta 1 ha Ruta Interbalnearia rupi (1 aravo 30 - 2 aravo), térã ómnibus Tres Cruces-gui Punta del Este terminal-pe ha upe rire taxi térã jeguata táva." },
-        { "q": "Ikatumo eho La Mano-pe transporte público-pe?", "a": "Héẽ. Ómnibus táva oho costa rupi oguahẽ Parada 1 jerére; avei ojejapo taxi térã remisse táva mbytéve térã terminal-gui." },
-        { "q": "Reike La Mano-pe oñepe'a?", "a": "Héẽ. Ha'e peteĩ tembiapo joajéva yvy ári, reike rei, ojepe'a 24 aravo; ndoguerekói jeheja térã venda." }
+        {
+          "q": "La Mano oĩ porãite moõpa?",
+          "a": "Playa Brava Parada 1-pe, Rambla de Circunvalación Gral. Artigas ári, Punta del Este, Maldonado, Uruguay. Oĩ paraguasu kuarahyresẽygua, ha'éi táva mbytépe."
+        },
+        {
+          "q": "Mba'éichapa eho La Mano-pe Montevideo-gui?",
+          "a": "140 km kuarahyresẽ gotyo: auto-pe Ruta 1 ha Ruta Interbalnearia rupi (1 aravo 30 - 2 aravo), térã ómnibus Tres Cruces-gui Punta del Este terminal-pe ha upe rire taxi térã jeguata táva."
+        },
+        {
+          "q": "Ikatumo eho La Mano-pe transporte público-pe?",
+          "a": "Héẽ. Ómnibus táva oho costa rupi oguahẽ Parada 1 jerére; avei ojejapo taxi térã remisse táva mbytéve térã terminal-gui."
+        },
+        {
+          "q": "Reike La Mano-pe oñepe'a?",
+          "a": "Héẽ. Ha'e peteĩ tembiapo joajéva yvy ári, reike rei, ojepe'a 24 aravo; ndoguerekói jeheja térã venda."
+        }
       ],
       "relatedTitle": "Eikuaave",
       "related": [
-        { "href": "/gn/mbaepa-heis-va-la-mano/", "label": "Mba'épa he'iséva La Mano", "desc": "Eikuaa mba'épa ohechauka tembiapo ha mba'érepa oiko chugui táva ra'anga." }
+        {
+          "href": "/gn/mbaepa-heis-va-la-mano/",
+          "label": "Mba'épa he'iséva La Mano",
+          "desc": "Eikuaa mba'épa ohechauka tembiapo ha mba'érepa oiko chugui táva ra'anga."
+        }
       ]
     }
   },
   "seo": {
-    "h1": "Los Dedos de Punta del Este (La Mano) — Hombre emergiendo a la vida",
+    "h1": "La Mano de Punta del Este — Hombre emergiendo a la vida",
     "aboutHeading": "La Mano — Hombre emergiendo a la vida rehegua",
     "locationHeading": "Tenda ha mba'éichapa eguata La Mano Punta del Este-pe",
     "landmarksHeading": "Tenda ha mba'e oĩva La Mano jerére",
     "historyHeading": "La Mano — Hombre emergiendo a la vida jeréia ha hesa'ỹ",
-    "introLead": "Tereguahẽ porã <strong>La Mano (Hombre emergiendo a la vida)</strong> pe, ojehero <strong>La Mano</strong>, ha avei Los Dedos. Oĩva <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong> mbytépe, ha'e tenda tuichavéva ojeho va'erã.",
+    "introLead": "Tereguahẽ porã <strong>La Mano (Hombre emergiendo a la vida)</strong> pe. Oĩva <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong> mbytépe, ha'e tenda tuichavéva ojeho va'erã.",
     "nearbyLead": "Ehecha jave <strong>La Mano (Hombre emergiendo a la vida)</strong>, ikatu ehecha tenda jeréia oĩva, <strong>Faro de Punta del Este</strong> ha <strong>Casapueblo</strong>.",
     "breadcrumbLabel": "Jeguata rape",
     "heroAlt": "La Mano — Hombre emergiendo a la vida, Punta del Este, Uruguay",
-    "galleryAlt": "La Mano (Los Dedos) Playa Brava-pe",
+    "galleryAlt": "La Mano Playa Brava-pe",
     "galleryCaptions": [
-      "Los Dedos ojehecha kuarahy oikévo Playa Brava-pe",
+      "La Mano ojehecha kuarahy oikévo Playa Brava-pe",
       "La Mano ao poapy kuimba'e jehecha",
       "Roga tuicha oúva yvy guýpe Playa Brava-gui",
-      "Los Dedos parapápe Atlántico oĩva",
+      "La Mano parapápe Atlántico oĩva",
       "Tembiporu jehecha mba'ekuéra pytûichagua",
       "La Mano ha Playa Brava ha'yguasu mbarete",
-      "Tapicha oñemombe'u Los Dedos kuarahy oityvo",
+      "Tapicha oñemombe'u La Mano kuarahy oityvo",
       "Kuimba'e ao yvate guýpe ojehecha",
-      "Los Dedos yvy arenosa rupive",
+      "La Mano yvy arenosa rupive",
       "Playa Brava jehecha tuichavéva La Mano ndive",
       "Tembiporu pyhare oĩva tavagua mba'ekuéra ndive",
       "Hormigón jehecha tuicha",
-      "Los Dedos Faro Punta del Este oĩva mba'epe",
+      "La Mano Faro Punta del Este oĩva mba'epe",
       "Tetãygua La Mano rende Playa Brava-pe",
       "Roga oúva Brava ha'yguasu mbytépe",
-      "Los Dedos kuarahy oikévo yvyra'anga pytã ndive",
+      "La Mano kuarahy oikévo yvyra'anga pytã ndive",
       "Tembiporu tapykue oĩva yvy arenosa ári",
       "La Mano Punta del Este ta'anga kuarahy oityvo"
     ],
@@ -155,11 +205,11 @@
     "reviewCount": "Jeikuaa 28.487",
     "hours": "Arapýpe 24 aravo",
     "openMaps": "Ehecha tenda",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "infoBar": {
     "address": "Tenda",
-    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
+    "addressValue": "Rambla de Circunvalación Gral. Artigas, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Pumbyry",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
@@ -174,7 +224,7 @@
       "title": "Jeguata reko",
       "items": [
         "Arapýpe 24 aravo, ára pukukue tuichakue, visita oĩma oĩ'ỹre viru.",
-        "Oĩva Stop 1 Playa Brava, Av. Eduardo Víctor Haedo, Punta del Este.",
+        "Oĩva Stop 1 Playa Brava, Rambla de Circunvalación Gral. Artigas, Punta del Este.",
         "Ta'anga porãve kuarahy oikévo térã oityvo; kuarahy oikévo iporãve.",
         "Ogusteta porã pé, bicicleta térã ómnibus rupive centro-gui (15 aravo rasa)."
       ]
@@ -247,7 +297,7 @@
     "lightboxNext": "Upeigua",
     "viewAll": "Ehecha Google Maps-pe",
     "showMore": "Ehecha ta'angave",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "reviews": {
     "title": "Visitante jeikuaa",
@@ -263,12 +313,13 @@
     "title": "Mba'éichapa ogusteta",
     "subtitle": "Stop 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Eipe'a Google Maps-pe",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+    "tourismCredit": "Departamento de Turismo de Maldonado (Lic. Javier Báez): La Mano oĩ Paseo de Las Américas-pe, Rambla de Circunvalación Gral. Artigas ári."
   },
   "transport": {
-    "title": "Mba'éicha llegar Los Dedos-pe",
+    "title": "Mba'éicha llegar La Mano-pe",
     "subtitle": "Opa mba'e oipuru va'ekue oguejy hag̃ua escultura Brava playa-pe, Punta del Este.",
-    "note": "Escultura oĩ Parada 1 Brava playa-pe, Av. Eduardo Víctor Haedo ári, centro-gui 15 minutope.",
+    "note": "Escultura oĩ Parada 1 Brava playa-pe, Rambla de Circunvalación Gral. Artigas ári, centro-gui 15 minutope.",
     "modes": [
       {
         "icon": "✈️",
@@ -277,7 +328,7 @@
         "steps": [
           "Eravi Montevideo (MVD) térã directo Punta del Este (PDP) temporada aja.",
           "Carrasco-gui, eipuru transfer, remise térã ómnibus Punta del Este-pe (1,5–2 h).",
-          "Centro-gui, Los Dedos oĩ 15 min auto, taxi térã ómnibus ciudad rupi."
+          "Centro-gui, La Mano oĩ 15 min auto, taxi térã ómnibus ciudad rupi."
         ]
       },
       {
@@ -306,7 +357,7 @@
         "summary": "CODESA línea ciudad ojoluha centro ha península íme Brava playa. Eñe'ẽ eguete hag̃ua Parada 1-pe.",
         "steps": [
           "Eipuru ómnibus ciudad (CODESA) centro térã península-gui.",
-          "Eguete Parada 1 Brava playa-pe, Av. Eduardo Víctor Haedo ári.",
+          "Eguete Parada 1 Brava playa-pe, Rambla de Circunvalación Gral. Artigas ári.",
           "Escultura oĩ parada cercano, paseo costanera ári."
         ]
       },
@@ -316,8 +367,8 @@
         "summary": "Remises, taxi medidor ha app opere ha ciudad-pe, oĩ Uber ha DiDi. Centro-gui 10–15 min.",
         "steps": [
           "Ejerure remise hotel-pe térã eipuru Uber / DiDi móvil-gui.",
-          "Eñe'ẽ destino: 'Los Dedos, Parada 1 Brava'.",
-          "Viaje michĩ ha directo Av. Eduardo Víctor Haedo rupi."
+          "Eñe'ẽ destino: 'La Mano, Parada 1 Brava'.",
+          "Viaje michĩ ha directo Rambla de Circunvalación Gral. Artigas rupi."
         ]
       },
       {
@@ -327,16 +378,16 @@
         "steps": [
           "Ealquila bicicleta centro-pe térã eipuru ciudad estación.",
           "Eguĩ ciclovía costa rupi Brava playa-pe.",
-          "Ejey bicicleta Av. Haedo parquímetro-pe ha eguata arena-pe."
+          "Ejey bicicleta Rambla de Circunvalación Gral. Artigas parquímetro-pe ha eguata arena-pe."
         ]
       },
       {
         "icon": "🚗",
         "title": "Auto-pe (nde iporãva)",
-        "summary": "Montevideo-gui eipuru Ruta Interbalnearia (IB) Punta del Este-pe ha upéi Av. Eduardo Víctor Haedo.",
+        "summary": "Montevideo-gui eipuru Ruta Interbalnearia (IB) Punta del Este-pe ha upéi Rambla de Circunvalación Gral. Artigas.",
         "steps": [
           "Emano Ruta Interbalnearia (IB) 120 km rupi ciudad-pe.",
-          "Eguĩ Brava playa Av. Eduardo Víctor Haedo rupi.",
+          "Eguĩ Brava playa Rambla de Circunvalación Gral. Artigas rupi.",
           "Ejey coche zona azul térã playa estacionamiento (temporada aja pago)."
         ]
       }
@@ -350,13 +401,28 @@
     "cookies": "Cookie",
     "officialResourcesTitle": "Oficial ha referencia",
     "mapsLabel": "Google Maps →",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
     "officialLinksList": [
-      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/" },
-      { "name": "Intendencia de Maldonado", "url": "https://www.maldonado.gub.uy/" },
-      { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
-      { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
+      {
+        "name": "Ministerio de Turismo (Uruguay)",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Uruguay Natural — Turismo Oficial",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Intendencia de Maldonado",
+        "url": "https://www.maldonado.gub.uy/"
+      },
+      {
+        "name": "Ministerio de Educación y Cultura",
+        "url": "https://www.gub.uy/ministerio-educacion-cultura/"
+      },
+      {
+        "name": "Presidencia de la República (Uruguay)",
+        "url": "https://www.gub.uy/"
+      }
     ],
     "disclaimer": "Ko ha'e peteĩ jeheka peteĩha, ndaha'éi mba'e oficiable. Ndaroikuaa gobierno térã institución oficial ndive.",
     "officialName": "La Mano — Hombre emergiendo a la vida",
@@ -432,10 +498,26 @@
     "amenities": {
       "title": "Tenda oĩva",
       "items": [
-        { "icon": "🅿️", "label": "Estacionamiento", "value": "Zona azul ha playa" },
-        { "icon": "🚻", "label": "Baño", "value": "Chiringuito-pe" },
-        { "icon": "🔌", "label": "Nafta / Carga", "value": "Av. Haedo-pe" },
-        { "icon": "♿", "label": "Accesibilidad", "value": "Playa ha paseo" }
+        {
+          "icon": "🅿️",
+          "label": "Estacionamiento",
+          "value": "Zona azul ha playa"
+        },
+        {
+          "icon": "🚻",
+          "label": "Baño",
+          "value": "Chiringuito-pe"
+        },
+        {
+          "icon": "🔌",
+          "label": "Nafta / Carga",
+          "value": "Rambla de Circunvalación Gral. Artigas-pe"
+        },
+        {
+          "icon": "♿",
+          "label": "Accesibilidad",
+          "value": "Playa ha paseo"
+        }
       ]
     },
     "categories": [
@@ -445,7 +527,7 @@
         "items": [
           {
             "q": "¿Oĩ estacionamiento tenda-pe? ¿Mba'épa precio?",
-            "a": "Roga oĩva Avenida Eduardo Víctor Haedo, Stop 1 Playa Brava-pe. Ndoroikuaa estacionamiento mbyky roga ypýpe, hána avenida reheve oĩ estacionamiento zona azul (pago, libre temporada'yguire) ha playa estacionamiento verano-pe. Temporada tuichakue (Diciembre guive Febrero peve) oĩheta tapicha; jajerurhe transporte, bicicleta térã pé centro-gui (15 aravo rasa)."
+            "a": "Roga oĩva Rambla de Circunvalación Gral. Artigas, Stop 1 Playa Brava-pe. Ndoroikuaa estacionamiento mbyky roga ypýpe, hána avenida reheve oĩ estacionamiento zona azul (pago, libre temporada'yguire) ha playa estacionamiento verano-pe. Temporada tuichakue (Diciembre guive Febrero peve) oĩheta tapicha; jajerurhe transporte, bicicleta térã pé centro-gui (15 aravo rasa)."
           },
           {
             "q": "¿Ikatu silla de ruedas térã coche de bebé?",
@@ -453,7 +535,7 @@
           },
           {
             "q": "¿Oĩ baño térã comida tenda-pe?",
-            "a": "Ndaroikuaa baño público libre roga ypýpe, hána metros rasa Stop 1 chiringuito ha balneario oikuave'ẽ baño, ducha ha comida verano-pe. Av. Haedo reheve oĩ kiosco ha restaurante. Temporada'yguire (otoño ha invierno) oĩve mbyky, upéicha egueru y."
+            "a": "Ndaroikuaa baño público libre roga ypýpe, hána metros rasa Stop 1 chiringuito ha balneario oikuave'ẽ baño, ducha ha comida verano-pe. Rambla de Circunvalación Gral. Artigas reheve oĩ kiosco ha restaurante. Temporada'yguire (otoño ha invierno) oĩve mbyky, upéicha egueru y."
           }
         ]
       },
@@ -505,7 +587,7 @@
         "items": [
           {
             "q": "¿Moõpa oĩ La Mano — Hombre emergiendo a la vida?",
-            "a": "La Mano — Hombre emergiendo a la vida oĩ Stop 1 Playa Brava-pe, Av. Eduardo Víctor Haedo (km 162.500) ári, Punta del Este, Maldonado, Uruguay (postal 20001). Coordenada: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
+            "a": "La Mano — Hombre emergiendo a la vida oĩ Stop 1 Playa Brava-pe, Rambla de Circunvalación Gral. Artigas ári, Punta del Este, Maldonado, Uruguay (postal 20001). Coordenada: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "¿Iviru'ỹpa ojehecha La Mano?",
@@ -521,11 +603,31 @@
     "intro": "Ko kuatia ha'e peteĩ proyecto ojejapóva oficial ha referencia rendágui. Ehecha ko'ã link marandu pyahu ha oficial rehe:",
     "officialNote": "Marandu oficial ha tetãvore rehe, ehecha",
     "items": [
-      { "name": "Intendencia de Maldonado — Gobierno", "url": "https://www.maldonado.gub.uy/", "desc": "Gobierno local oñangarekóva tenda roga oĩhápe." },
-      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Uruguay turismo portal oficial." },
-      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/", "desc": "Tetã turismo promoción web oficial." },
-      { "name": "Wikipedia — La Mano (escultura)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Enciclopedia marandu tembiporu ha mba'apohára rehe." },
-      { "name": "Google Maps — tenda oficial", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Tenda marandu: tenda, aravo ha visitante jeikuaa." }
+      {
+        "name": "Intendencia de Maldonado — Gobierno",
+        "url": "https://www.maldonado.gub.uy/",
+        "desc": "Gobierno local oñangarekóva tenda roga oĩhápe."
+      },
+      {
+        "name": "Ministerio de Turismo (Uruguay)",
+        "url": "https://www.gub.uy/ministerio-turismo/",
+        "desc": "Uruguay turismo portal oficial."
+      },
+      {
+        "name": "Uruguay Natural — Turismo Oficial",
+        "url": "https://uruguaynatural.com/",
+        "desc": "Tetã turismo promoción web oficial."
+      },
+      {
+        "name": "Wikipedia — La Mano (escultura)",
+        "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)",
+        "desc": "Enciclopedia marandu tembiporu ha mba'apohára rehe."
+      },
+      {
+        "name": "Google Maps — coordenadas",
+        "url": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+        "desc": "La Mano tenda coordenadas rupive."
+      }
     ]
   },
   "imageRights": {
@@ -544,7 +646,15 @@
     "forecastTitle": "7 ára oútava",
     "updated": "Oñembohekopyahu",
     "source": "Ñepyrũha",
-    "dayNames": ["Arateĩ", "Arakõi", "Araapy", "Ararundy", "Arapo", "Arapoteĩ", "Arapokõi"],
+    "dayNames": [
+      "Arateĩ",
+      "Arakõi",
+      "Araapy",
+      "Ararundy",
+      "Arapo",
+      "Arapoteĩ",
+      "Arapokõi"
+    ],
     "adviceTitle": "Marandu porã reju hag̃ua",
     "outfitLabel": "Mba'e rejaho'i",
     "planLabel": "Mba'épa rejapo",
@@ -634,15 +744,60 @@
     "subtitle": "Opa mba'e eikuaa va'erã reju mboyve: servicio, jeike ha marandu porã Playa Brava-pe.",
     "neutralNote": "Ñande ha'e web marandu ndaha'éi viru rehegua. Ñahechauka añónte mba'éichagua servicio oĩ, ndoroikuaaukái comercio peteĩva.",
     "items": [
-      { "icon": "🚻", "title": "Baño ha ducha", "desc": "Ndaipóri baño público oĩmbáva roga ypýpe. Verano-pe, parador ha balneario Playa Brava-pe ome'ẽ baño ha ducha; ambue ára-pe eho táva mbytépe.", "tip": "Verano rire, servicio plia-gua oñembotýma." },
-      { "icon": "🅿️", "title": "Estacionamiento", "desc": "Roga oĩ Av. Eduardo Víctor Haedo ári. Oĩ estacionamiento medido tape ári ha estacionamiento privado jerére; verano-pe ojehepyme'ẽ ha oñemyenyhẽ pya'e.", "tip": "Enero ha febrero-pe, eju pyhareve, térã eipuru ómnibus, taxi térã bicicleta." },
-      { "icon": "🍽️", "title": "Mba'épa re'u", "desc": "Avenida ha península rupi oĩ restaurante, parrilla, cafetería, pizzería ha heladería, hepy ojojogua. Playa-pe, parador ome'ẽ tembi'u hasy'ỹva.", "tip": "Verano-pe eipuru reserva; ambue ára-pe heta oñemboty." },
-      { "icon": "🏨", "title": "Roga jepyta", "desc": "Oĩ hotel, hostal, apart-hotel, apartamento ha alquiler temporal. Heta oĩ centro ha península-pe, roga ypýpe.", "tip": "Eipuru reserva diciembre–febrero ha feriado puku-pe." },
-      { "icon": "🛒", "title": "Supermercado ha mba'e", "desc": "Centro ha península-pe oĩ supermercado, minimercado ha farmacia, ikatu rejogua y, protector solar, snack ha mba'e plia-gua.", "tip": "Egueru y: ndaheta fuente público rambla-pe." },
-      { "icon": "⛽", "title": "Nafta ha carga eléctrica", "desc": "Oĩ estación de servicio nafta ha gasoil ndive tape guasu oikehápe táva-pe. Carga eléctrica sa'ive ha oĩ hotel ha estacionamiento centro-pe.", "tip": "Eléctrico-pe, emboaje carga yvy gotyo reju mboyve." },
-      { "icon": "♿", "title": "Accesibilidad", "desc": "Rambla ha paseo costero tuicha ha flat, iporã silla de ruedas ha cochecito-pe. Yvy plia-gua ikatu vai.", "tip": "Roga ypýpe eho paseo pavimentado rupi, ndaha'éi yvy ku'i ári." },
-      { "icon": "🏥", "title": "Salud, farmacia ha cajero", "desc": "Centro-pe oĩ farmacia, centro médico ha cajero automático. Emergencia-pe, Uruguay número único ha'e 911.", "tip": "Egueru viru: ndaopaitéi comercio michĩ ojagarra tarjeta." },
-      { "icon": "🛟", "title": "Seguridad plia ha jerére", "desc": "Playa Brava y imbarete ha corriente ikatu vai. Erespeta bandera ha guardavida, ha ani reike y-pe yvytu tuicha jave.", "tip": "Eñangareko ne mba'e ha ani rejapo yty: tenda público oñeñangarekóva." }
+      {
+        "icon": "🚻",
+        "title": "Baño ha ducha",
+        "desc": "Ndaipóri baño público oĩmbáva roga ypýpe. Verano-pe, parador ha balneario Playa Brava-pe ome'ẽ baño ha ducha; ambue ára-pe eho táva mbytépe.",
+        "tip": "Verano rire, servicio plia-gua oñembotýma."
+      },
+      {
+        "icon": "🅿️",
+        "title": "Estacionamiento",
+        "desc": "Roga oĩ Rambla de Circunvalación Gral. Artigas ári. Oĩ estacionamiento medido tape ári ha estacionamiento privado jerére; verano-pe ojehepyme'ẽ ha oñemyenyhẽ pya'e.",
+        "tip": "Enero ha febrero-pe, eju pyhareve, térã eipuru ómnibus, taxi térã bicicleta."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Mba'épa re'u",
+        "desc": "Avenida ha península rupi oĩ restaurante, parrilla, cafetería, pizzería ha heladería, hepy ojojogua. Playa-pe, parador ome'ẽ tembi'u hasy'ỹva.",
+        "tip": "Verano-pe eipuru reserva; ambue ára-pe heta oñemboty."
+      },
+      {
+        "icon": "🏨",
+        "title": "Roga jepyta",
+        "desc": "Oĩ hotel, hostal, apart-hotel, apartamento ha alquiler temporal. Heta oĩ centro ha península-pe, roga ypýpe.",
+        "tip": "Eipuru reserva diciembre–febrero ha feriado puku-pe."
+      },
+      {
+        "icon": "🛒",
+        "title": "Supermercado ha mba'e",
+        "desc": "Centro ha península-pe oĩ supermercado, minimercado ha farmacia, ikatu rejogua y, protector solar, snack ha mba'e plia-gua.",
+        "tip": "Egueru y: ndaheta fuente público rambla-pe."
+      },
+      {
+        "icon": "⛽",
+        "title": "Nafta ha carga eléctrica",
+        "desc": "Oĩ estación de servicio nafta ha gasoil ndive tape guasu oikehápe táva-pe. Carga eléctrica sa'ive ha oĩ hotel ha estacionamiento centro-pe.",
+        "tip": "Eléctrico-pe, emboaje carga yvy gotyo reju mboyve."
+      },
+      {
+        "icon": "♿",
+        "title": "Accesibilidad",
+        "desc": "Rambla ha paseo costero tuicha ha flat, iporã silla de ruedas ha cochecito-pe. Yvy plia-gua ikatu vai.",
+        "tip": "Roga ypýpe eho paseo pavimentado rupi, ndaha'éi yvy ku'i ári."
+      },
+      {
+        "icon": "🏥",
+        "title": "Salud, farmacia ha cajero",
+        "desc": "Centro-pe oĩ farmacia, centro médico ha cajero automático. Emergencia-pe, Uruguay número único ha'e 911.",
+        "tip": "Egueru viru: ndaopaitéi comercio michĩ ojagarra tarjeta."
+      },
+      {
+        "icon": "🛟",
+        "title": "Seguridad plia ha jerére",
+        "desc": "Playa Brava y imbarete ha corriente ikatu vai. Erespeta bandera ha guardavida, ha ani reike y-pe yvytu tuicha jave.",
+        "tip": "Eñangareko ne mba'e ha ani rejapo yty: tenda público oñeñangarekóva."
+      }
     ]
   },
   "recommendations": {
@@ -650,14 +805,32 @@
     "attractionsTitle": "Tenda oĩva",
     "toursTitle": "Jeguata ha actividad",
     "attractions": [
-      { "name": "Casapueblo — Museo Taller", "url": "https://casapueblo.com.uy/" },
-      { "name": "Punta del Este Faro", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Puerto de Punta del Este", "url": "https://www.maldonado.gub.uy/" }
+      {
+        "name": "Casapueblo — Museo Taller",
+        "url": "https://casapueblo.com.uy/"
+      },
+      {
+        "name": "Punta del Este Faro",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Puerto de Punta del Este",
+        "url": "https://www.maldonado.gub.uy/"
+      }
     ],
     "tours": [
-      { "name": "Ciudad ha playa jeguata", "url": "https://uruguaynatural.com/" },
-      { "name": "Kuarahy oity catamarán", "url": "https://uruguaynatural.com/" },
-      { "name": "Isla de Lobos jeheka", "url": "https://www.gub.uy/ministerio-turismo/" }
+      {
+        "name": "Ciudad ha playa jeguata",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Kuarahy oity catamarán",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Isla de Lobos jeheka",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      }
     ]
   }
 }

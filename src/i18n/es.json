@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "La Mano de Punta del Este (Los Dedos) | Ubicación y Visita",
-    "description": "Conoce La Mano de Punta del Este, también llamada Los Dedos. Descubre dónde está, cómo llegar a Playa Brava, su historia, significado y consejos para tu visita."
+    "title": "La Mano de Punta del Este | Ubicación y Visita",
+    "description": "Conoce La Mano de Punta del Este. Descubre dónde está, cómo llegar a Playa Brava, su historia, significado y consejos para tu visita."
   },
   "topics": {
     "exploreTitle": "Guías de La Mano",
     "significado-la-mano-punta-del-este": {
-      "title": "Significado de La Mano (Los Dedos) en Punta del Este | Historia y símbolo",
-      "description": "Qué significa La Mano de Punta del Este, también llamada Los Dedos: el origen de la escultura Hombre emergiendo a la vida, su autor Mario Irarrázabal, la idea de la mano que surge de la arena y por qué se volvió el símbolo de la ciudad.",
-      "h1": "Significado de La Mano de Punta del Este (Los Dedos)",
+      "title": "Significado de La Mano en Punta del Este | Historia y símbolo",
+      "description": "Qué significa La Mano de Punta del Este: el origen de la escultura Hombre emergiendo a la vida, su autor Mario Irarrázabal, la idea de la mano que surge de la arena y por qué se volvió el símbolo de la ciudad.",
+      "h1": "Significado de La Mano de Punta del Este",
       "cardText": "Descubre qué representa la escultura, su título original y por qué es el símbolo de la ciudad.",
-      "intro": "La Mano, conocida también como Los Dedos de Punta del Este, es mucho más que una foto de playa: es una obra de arte público con un título y una intención precisos. En esta guía explicamos qué significa, de dónde viene y por qué se convirtió en el ícono de Punta del Este.",
+      "intro": "La Mano es mucho más que una foto de playa: es una obra de arte público con un título y una intención precisos. En esta guía explicamos qué significa, de dónde viene y por qué se convirtió en el ícono de Punta del Este.",
       "sections": [
         {
           "heading": "¿Qué representa La Mano?",
@@ -30,36 +30,61 @@
         },
         {
           "heading": "Por qué se volvió el símbolo de Punta del Este",
-          "body": "Con el tiempo, La Mano pasó de ser una obra efímera de un evento a convertirse en uno de los puntos más fotografiados y reconocibles de Punta del Este. Hoy funciona como un hito visual de la Playa Brava y como símbolo de la ciudad, especialmente para quienes llegan buscando Los Dedos."
+          "body": "Con el tiempo, La Mano pasó de ser una obra efímera de un evento a convertirse en uno de los puntos más fotografiados y reconocibles de Punta del Este. Hoy funciona como un hito visual de la Playa Brava y como símbolo de la ciudad."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) en la Playa Brava de Punta del Este al amanecer" },
-        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Detalle de los cinco dedos de hormigón de La Mano emergiendo de la arena" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "La escultura La Mano rodeada por la playa de la Brava" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano en la Playa Brava de Punta del Este al amanecer"
+        },
+        {
+          "src": "/gallery/punta-del-este-1.jpg",
+          "alt": "Detalle de los cinco dedos de hormigón de La Mano emergiendo de la arena"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "La escultura La Mano rodeada por la playa de la Brava"
+        }
       ],
       "mapTitle": "Dónde está La Mano en Punta del Este",
       "faq": [
-        { "q": "¿Qué significa La Mano de Punta del Este?", "a": "Representa una mano humana que emerge de la arena y alude a la idea de Hombre emergiendo a la vida: una figura humana que surge del suelo y del mar, como metáfora de la persona frente a la naturaleza." },
-        { "q": "¿Quién hizo La Mano de Punta del Este y en qué año?", "a": "Fue creada por el escultor chileno Mario Irarrázabal en 1982, durante un encuentro internacional de escultores en Punta del Este, y se ejecutó en unos seis días." },
-        { "q": "¿La Mano tiene otro nombre?", "a": "Sí. Se la conoce como La Mano, Los Dedos de Punta del Este y, con su título completo, La Mano — Hombre emergiendo a la vida." },
-        { "q": "¿Por qué La Mano está en la playa y no en un museo?", "a": "Fue concebida como escultura pública sobre la arena de la Playa Brava (Parada 1). Su anclaje en la playa forma parte de la obra: la marea y la arena interactúan con su base." }
+        {
+          "q": "¿Qué significa La Mano de Punta del Este?",
+          "a": "Representa una mano humana que emerge de la arena y alude a la idea de Hombre emergiendo a la vida: una figura humana que surge del suelo y del mar, como metáfora de la persona frente a la naturaleza."
+        },
+        {
+          "q": "¿Quién hizo La Mano de Punta del Este y en qué año?",
+          "a": "Fue creada por el escultor chileno Mario Irarrázabal en 1982, durante un encuentro internacional de escultores en Punta del Este, y se ejecutó en unos seis días."
+        },
+        {
+          "q": "¿La Mano tiene otro nombre?",
+          "a": "Sí. Se la conoce como La Mano — Hombre emergiendo a la vida."
+        },
+        {
+          "q": "¿Por qué La Mano está en la playa y no en un museo?",
+          "a": "Fue concebida como escultura pública sobre la arena de la Playa Brava (Parada 1). Su anclaje en la playa forma parte de la obra: la marea y la arena interactúan con su base."
+        }
       ],
       "relatedTitle": "Sigue explorando",
       "related": [
-        { "href": "/es/como-llegar-la-mano/", "label": "Cómo llegar a La Mano", "desc": "Dirección exacta, coordenadas GPS y opciones de transporte desde Montevideo." }
+        {
+          "href": "/es/como-llegar-la-mano/",
+          "label": "Cómo llegar a La Mano",
+          "desc": "Dirección exacta, coordenadas GPS y opciones de transporte desde Montevideo."
+        }
       ]
     },
     "como-llegar-la-mano": {
       "title": "Cómo llegar a La Mano en Punta del Este | Ubicación y transporte",
-      "description": "Cómo llegar a La Mano (Los Dedos) en Punta del Este: dirección exacta en Playa Brava, coordenadas GPS, ruta desde Montevideo en auto o bus, estacionamiento y el mapa para no perderte.",
-      "h1": "Cómo llegar a La Mano (Los Dedos) en Punta del Este",
+      "description": "Cómo llegar a La Mano en Punta del Este: dirección exacta en Playa Brava, coordenadas GPS, ruta desde Montevideo en auto o bus, estacionamiento y el mapa para no perderte.",
+      "h1": "Cómo llegar a La Mano en Punta del Este",
       "cardText": "Dirección, coordenadas GPS, ruta desde Montevideo y dónde estacionar junto a Playa Brava.",
       "intro": "La Mano está al aire libre y es de acceso libre, pero llegar requiere ubicar bien la Playa Brava dentro de Punta del Este. Aquí tienes la dirección exacta, las coordenadas y las mejores opciones para moverte desde Montevideo o desde el centro de la ciudad.",
       "sections": [
         {
           "heading": "Dirección exacta",
-          "body": "La Mano se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). No está en el centro de la península, sino en la costa este, en la franja de playa conocida como la Brava."
+          "body": "La Mano se encuentra en la Parada 1 de la Playa Brava, sobre la Rambla de Circunvalación Gral. Artigas, en Punta del Este, Maldonado, Uruguay (código postal 20001). No está en el centro de la península, sino en la costa este, en la franja de playa conocida como la Brava."
         },
         {
           "heading": "Cómo llegar desde Montevideo",
@@ -67,7 +92,7 @@
         },
         {
           "heading": "Dentro de Punta del Este: en auto, taxi y ómnibus",
-          "body": "En auto, sigue la costanera y la Av. Roosevelt hasta la Av. Eduardo Víctor Haedo, que bordea la Playa Brava; la escultura está en la Parada 1. Desde el centro o el puerto, un taxi o remisse es la opción más directa. Los ómnibus urbanos que recorren la costanera también llegan cercano a la Parada 1; consulta en la terminal local las líneas del día."
+          "body": "En auto, sigue la costanera y la Av. Roosevelt hasta la Rambla de Circunvalación Gral. Artigas, que bordea la Playa Brava; la escultura está en la Parada 1. Desde el centro o el puerto, un taxi o remisse es la opción más directa. Los ómnibus urbanos que recorren la costanera también llegan cercano a la Parada 1; consulta en la terminal local las líneas del día."
         },
         {
           "heading": "Coordenadas y Plus Code",
@@ -75,55 +100,80 @@
         },
         {
           "heading": "Estacionamiento y consejos",
-          "body": "El estacionamiento es limitado y se suma a la orilla de la Av. Haedo; en temporada alta conviene ir temprano. La visita es gratuita y la escultura está al aire libre las 24 horas, así que al amanecer o al atardecer hay menos gente y mejor luz para las fotos."
+          "body": "El estacionamiento es limitado y se suma a la orilla de la Rambla de Circunvalación Gral. Artigas; en temporada alta conviene ir temprano. La visita es gratuita y la escultura está al aire libre las 24 horas, así que al amanecer o al atardecer hay menos gente y mejor luz para las fotos."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) sobre la arena de la Playa Brava en Punta del Este" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Panorámica de la Playa Brava con La Mano al fondo" },
-        { "src": "/gallery/punta-del-este-6.jpg", "alt": "La Mano junto a la fuerte rompiente de la Brava" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano sobre la arena de la Playa Brava en Punta del Este"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "Panorámica de la Playa Brava con La Mano al fondo"
+        },
+        {
+          "src": "/gallery/punta-del-este-6.jpg",
+          "alt": "La Mano junto a la fuerte rompiente de la Brava"
+        }
       ],
       "mapTitle": "Mapa para llegar a La Mano en Punta del Este",
       "faq": [
-        { "q": "¿Dónde queda La Mano exactamente?", "a": "En la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), Punta del Este, Maldonado, Uruguay. Está en la costa este, no en el centro de la península." },
-        { "q": "¿Cómo llegar a La Mano desde Montevideo?", "a": "Unos 140 km al este: en auto por la Ruta 1 y la Ruta Interbalnearia (1 h 30 min a 2 h), o en ómnibus desde Tres Cruces hasta la terminal de Punta del Este y desde allí en taxi o transporte urbano." },
-        { "q": "¿Se puede ir a La Mano en transporte público?", "a": "Sí. Ómnibus urbanos recorren la costanera hasta cercanías de la Parada 1; también es común tomar taxi o remisse desde el centro o la terminal de Punta del Este." },
-        { "q": "¿La entrada a La Mano es gratis?", "a": "Sí. Es una escultura pública al aire libre, de acceso libre y abierta las 24 horas; no hay ticket ni cerco." }
+        {
+          "q": "¿Dónde queda La Mano exactamente?",
+          "a": "En la Parada 1 de la Playa Brava, sobre la Rambla de Circunvalación Gral. Artigas, Punta del Este, Maldonado, Uruguay. Está en la costa este, no en el centro de la península."
+        },
+        {
+          "q": "¿Cómo llegar a La Mano desde Montevideo?",
+          "a": "Unos 140 km al este: en auto por la Ruta 1 y la Ruta Interbalnearia (1 h 30 min a 2 h), o en ómnibus desde Tres Cruces hasta la terminal de Punta del Este y desde allí en taxi o transporte urbano."
+        },
+        {
+          "q": "¿Se puede ir a La Mano en transporte público?",
+          "a": "Sí. Ómnibus urbanos recorren la costanera hasta cercanías de la Parada 1; también es común tomar taxi o remisse desde el centro o la terminal de Punta del Este."
+        },
+        {
+          "q": "¿La entrada a La Mano es gratis?",
+          "a": "Sí. Es una escultura pública al aire libre, de acceso libre y abierta las 24 horas; no hay ticket ni cerco."
+        }
       ],
       "relatedTitle": "Sigue explorando",
       "related": [
-        { "href": "/es/significado-la-mano-punta-del-este/", "label": "Significado de La Mano", "desc": "Descubre qué representa la escultura y por qué es el símbolo de la ciudad." }
+        {
+          "href": "/es/significado-la-mano-punta-del-este/",
+          "label": "Significado de La Mano",
+          "desc": "Descubre qué representa la escultura y por qué es el símbolo de la ciudad."
+        }
       ]
     }
   },
   "seo": {
-    "h1": "La Mano de Punta del Este (Los Dedos)",
+    "h1": "La Mano de Punta del Este",
     "aboutHeading": "Acerca de La Mano — Hombre emergiendo a la vida",
     "locationHeading": "Ubicación y cómo visitar La Mano en Punta del Este",
     "landmarksHeading": "Lugares y atracciones cerca de La Mano",
     "historyHeading": "Historia y significado de La Mano — Hombre emergiendo a la vida",
-    "introLead": "Bienvenido a <strong>La Mano (Hombre emergiendo a la vida)</strong>, conocida popularmente como <strong>La Mano</strong> y también llamada Los Dedos. Situada en el corazón de <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, este destino es un punto de referencia principal para los viajeros que visitan la región.",
+    "introLead": "Bienvenido a <strong>La Mano (Hombre emergiendo a la vida)</strong>. Situada en el corazón de <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, este destino es un punto de referencia principal para los viajeros que visitan la región.",
     "nearbyLead": "Al visitar <strong>La Mano (Hombre emergiendo a la vida)</strong>, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés cercanos, como el <strong>Faro de Punta del Este</strong> y <strong>Casapueblo</strong>.",
     "breadcrumbLabel": "Ruta de navegación",
     "heroAlt": "La Mano — Hombre emergiendo a la vida, vista principal en Punta del Este, Uruguay",
-    "galleryAlt": "Escultura La Mano (Los Dedos) en la Playa Brava, Punta del Este",
+    "galleryAlt": "Escultura La Mano en la Playa Brava, Punta del Este",
     "galleryCaptions": [
-      "Los Dedos visto de frente al amanecer en Playa Brava",
+      "La Mano vista de frente al amanecer en Playa Brava",
       "Detalle de los cinco dedos de hormigón de La Mano",
       "La mano gigante emergiendo de la arena de la Brava",
-      "Los Dedos con el océano Atlántico de fondo",
+      "La Mano con el océano Atlántico de fondo",
       "Primer plano de la escultura bajo luz dorada",
       "La Mano y la fuerte rompiente de Playa Brava",
-      "Visitantes fotografiando Los Dedos al atardecer",
+      "Visitantes fotografiando La Mano al atardecer",
       "Vista desde abajo de los dedos contra el cielo",
-      "Los Dedos rodeados por la arena de la playa",
+      "La Mano rodeada por la arena de la playa",
       "Panorámica de Playa Brava con La Mano",
       "La escultura de noche con las luces de la ciudad",
       "Textura de hormigón de la obra en primer plano",
-      "Los Dedos con el Faro de Punta del Este al fondo",
+      "La Mano con el Faro de Punta del Este al fondo",
       "Familia junto a La Mano en Playa Brava",
       "La mano emergiendo entre las olas de la Brava",
-      "Los Dedos al amanecer con el cielo rosado",
+      "La Mano al amanecer con el cielo rosado",
       "Ángulo posterior de la escultura sobre la arena",
       "La Mano como símbolo de Punta del Este al atardecer"
     ],
@@ -131,7 +181,7 @@
     "officialLink": "Portal Oficial de Turismo de Uruguay / Maldonado"
   },
   "header": {
-    "siteName": "Los Dedos de Punta del Este",
+    "siteName": "La Mano de Punta del Este",
     "home": "Inicio",
     "visit": "Visita",
     "history": "Historia",
@@ -149,17 +199,17 @@
     "toggleTheme": "Cambiar tema"
   },
   "hero": {
-    "title": "Los Dedos de Punta del Este",
+    "title": "La Mano de Punta del Este",
     "subtitle": "Una mano monumental que emerge de la arena de la Playa Brava, uno de los símbolos más icónicos de Uruguay.",
     "rating": "4.5(28.487)",
     "reviewCount": "28.487 opiniones",
     "hours": "Abierto las 24 horas",
     "openMaps": "Ver ubicación",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "infoBar": {
     "address": "Dirección",
-    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
+    "addressValue": "Rambla de Circunvalación Gral. Artigas, Parada 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Teléfono",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
@@ -168,13 +218,13 @@
     "hoursValue": "24 horas / todos los días"
   },
   "intro": {
-    "title": "Descubre Los Dedos de Punta del Este",
-    "description": "Los Dedos —también conocidos como La Mano u Hombre emergiendo a la vida— es una escultura de hormigón con cinco dedos humanos que brotan de la arena de la Playa Brava. Creada por el artista chileno Mario Irarrázabal en 1982 durante un encuentro internacional de escultura, se ha convertido en el símbolo indiscutible de Punta del Este y uno de los monumentos más fotografiados de Uruguay.",
+    "title": "Descubre La Mano de Punta del Este",
+    "description": "La Mano —también llamada Hombre emergiendo a la vida— es una escultura de hormigón con cinco dedos humanos que brotan de la arena de la Playa Brava. Creada por el artista chileno Mario Irarrázabal en 1982 durante un encuentro internacional de escultura, se ha convertido en el símbolo indiscutible de Punta del Este y uno de los monumentos más fotografiados de Uruguay.",
     "visitGuide": {
       "title": "Guía de visita",
       "items": [
         "Abierto las 24 horas, todos los días de la semana — visítalo cuando quieras, con entrada gratuita.",
-        "Ubicado en el Parada 1 de la Playa Brava, Av. Eduardo Víctor Haedo, Punta del Este.",
+        "Ubicado en el Parada 1 de la Playa Brava, Rambla de Circunvalación Gral. Artigas, Punta del Este.",
         "La mejor luz para fotografiar es al amanecer o al atardecer; el amanecer es espectacular.",
         "Fácil de llegar a pie, en bicicleta o en autobús desde el centro (unos 15 minutos)."
       ]
@@ -191,7 +241,7 @@
   },
   "officialManagement": {
     "title": "Acerca de la escultura",
-    "text": "Los Dedos es una obra pública mantenida por la Intendencia de Maldonado, el gobierno departamental de Maldonado donde se encuentra Punta del Este. Como uno de los monumentos más visitados de Uruguay, recibe cientos de miles de visitantes cada año y es un hito del arte público latinoamericano moderno."
+    "text": "La Mano es una obra pública mantenida por la Intendencia de Maldonado, el gobierno departamental de Maldonado donde se encuentra Punta del Este. Como uno de los monumentos más visitados de Uruguay, recibe cientos de miles de visitantes cada año y es un hito del arte público latinoamericano moderno."
   },
   "knowledge": {
     "title": "Historia, significado y leyenda de La Mano",
@@ -240,14 +290,14 @@
   },
   "gallery": {
     "title": "Galería de fotos",
-    "subtitle": "Vistas de Los Dedos y de la inmensa Playa Brava",
-    "photoAlt": "Escultura Los Dedos de Punta del Este en la Playa Brava",
+    "subtitle": "Vistas de La Mano y de la inmensa Playa Brava",
+    "photoAlt": "Escultura La Mano de Punta del Este en la Playa Brava",
     "lightboxClose": "Cerrar",
     "lightboxPrev": "Anterior",
     "lightboxNext": "Siguiente",
     "viewAll": "Ver ubicación en Google Maps",
     "showMore": "Mostrar más fotos",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "reviews": {
     "title": "Opiniones de los visitantes",
@@ -263,12 +313,13 @@
     "title": "Cómo llegar",
     "subtitle": "Parada 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Abrir en Google Maps",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+    "tourismCredit": "Según el Departamento de Turismo de Maldonado (Lic. Javier Báez), La Mano forma parte del Paseo de Las Américas y se encuentra en la Rambla de Circunvalación Gral. Artigas."
   },
   "transport": {
-    "title": "Cómo llegar a Los Dedos",
+    "title": "Cómo llegar a La Mano",
     "subtitle": "Todas las formas de llegar a la escultura en la Playa Brava, Punta del Este.",
-    "note": "La escultura está en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo, a unos 15 minutos del centro.",
+    "note": "La escultura está en la Parada 1 de la Playa Brava, sobre la Rambla de Circunvalación Gral. Artigas, a unos 15 minutos del centro.",
     "modes": [
       {
         "icon": "✈️",
@@ -277,7 +328,7 @@
         "steps": [
           "Vuela a Montevideo (MVD) o directo a Punta del Este (PDP) en temporada.",
           "Desde Carrasco, toma un transfer, remise o bus a Punta del Este (1,5–2 h).",
-          "Desde el centro, Los Dedos están a 15 min en auto, taxi o bus urbano."
+          "Desde el centro, La Mano está a 15 min en auto, taxi o bus urbano."
         ]
       },
       {
@@ -306,7 +357,7 @@
         "summary": "Las líneas urbanas de CODESA conectan el centro y la península con la Playa Brava. Pide bajar en Parada 1.",
         "steps": [
           "Usa los ómnibus urbanos (CODESA) desde el centro o la península.",
-          "Baja en Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo.",
+          "Baja en Parada 1 de la Playa Brava, sobre la Rambla de Circunvalación Gral. Artigas.",
           "La escultura está a pasos de la parada, sobre el paseo costero."
         ]
       },
@@ -316,8 +367,8 @@
         "summary": "Remises, taxímetro y apps como Uber o DiDi operan en la ciudad. Desde el centro tarda unos 10–15 min.",
         "steps": [
           "Pide un remise en tu hotel o usa Uber / DiDi desde el móvil.",
-          "Indica destino: 'Los Dedos, Parada 1 Brava'.",
-          "El trayecto es corto y directo por la Av. Eduardo Víctor Haedo."
+          "Indica destino: 'La Mano, Parada 1 Brava'.",
+          "El trayecto es corto y directo por la Rambla de Circunvalación Gral. Artigas."
         ]
       },
       {
@@ -327,36 +378,51 @@
         "steps": [
           "Alquila una bici en el centro o usa las estaciones de la ciudad.",
           "Sigue la ciclovía costera hacia la Playa Brava.",
-          "Deja la bici en los parquímetros de la Av. Haedo y camina a la arena."
+          "Deja la bici en los parquímetros de la Rambla de Circunvalación Gral. Artigas y camina a la arena."
         ]
       },
       {
         "icon": "🚗",
         "title": "En auto (por tu cuenta)",
-        "summary": "Desde Montevideo toma la Ruta Interbalnearia (IB) hasta Punta del Este y luego la Av. Eduardo Víctor Haedo.",
+        "summary": "Desde Montevideo toma la Ruta Interbalnearia (IB) hasta Punta del Este y luego la Rambla de Circunvalación Gral. Artigas.",
         "steps": [
           "Conduce por la Ruta Interbalnearia (IB) unos 120 km hasta la ciudad.",
-          "Sigue a la Playa Brava por la Av. Eduardo Víctor Haedo.",
+          "Sigue a la Playa Brava por la Rambla de Circunvalación Gral. Artigas.",
           "Estaciona en zona azul o en los estacionamientos de playa (de pago en temporada)."
         ]
       }
     ]
   },
   "footer": {
-    "siteName": "Los Dedos de Punta del Este",
-    "rights": "© 2026 Los Dedos de Punta del Este — Guía de viaje independiente. Todos los derechos reservados.",
+    "siteName": "La Mano de Punta del Este",
+    "rights": "© 2026 La Mano de Punta del Este — Guía de viaje independiente. Todos los derechos reservados.",
     "privacy": "Política de privacidad",
     "terms": "Términos del servicio",
     "cookies": "Configuración de cookies",
     "officialResourcesTitle": "Recursos oficiales y de referencia",
     "mapsLabel": "Google Maps →",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
     "officialLinksList": [
-      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/" },
-      { "name": "Intendencia de Maldonado", "url": "https://www.maldonado.gub.uy/" },
-      { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
-      { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
+      {
+        "name": "Ministerio de Turismo (Uruguay)",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Uruguay Natural — Turismo Oficial",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Intendencia de Maldonado",
+        "url": "https://www.maldonado.gub.uy/"
+      },
+      {
+        "name": "Ministerio de Educación y Cultura",
+        "url": "https://www.gub.uy/ministerio-educacion-cultura/"
+      },
+      {
+        "name": "Presidencia de la República (Uruguay)",
+        "url": "https://www.gub.uy/"
+      }
     ],
     "disclaimer": "Este es un proyecto independiente y sin fines de lucro de información para visitantes. No estamos afiliados con ningún organismo gubernamental ni institución oficial.",
     "officialName": "La Mano — Hombre emergiendo a la vida",
@@ -428,14 +494,30 @@
   },
   "faq": {
     "title": "Preguntas frecuentes",
-    "subtitle": "Información práctica sobre servicios, historia y planificación de tu visita a Los Dedos.",
+    "subtitle": "Información práctica sobre servicios, historia y planificación de tu visita a La Mano.",
     "amenities": {
       "title": "Servicios en la zona",
       "items": [
-        { "icon": "🅿️", "label": "Estacionamiento", "value": "Zona azul y playas cercanas" },
-        { "icon": "🚻", "label": "Baños", "value": "En chiringuitos y parada" },
-        { "icon": "🔌", "label": "Carga / Gasolina", "value": "Estaciones en Av. Haedo" },
-        { "icon": "♿", "label": "Accesibilidad", "value": "Playa y paseo accesibles" }
+        {
+          "icon": "🅿️",
+          "label": "Estacionamiento",
+          "value": "Zona azul y playas cercanas"
+        },
+        {
+          "icon": "🚻",
+          "label": "Baños",
+          "value": "En chiringuitos y parada"
+        },
+        {
+          "icon": "🔌",
+          "label": "Carga / Gasolina",
+          "value": "Estaciones en Rambla de Circunvalación Gral. Artigas"
+        },
+        {
+          "icon": "♿",
+          "label": "Accesibilidad",
+          "value": "Playa y paseo accesibles"
+        }
       ]
     },
     "categories": [
@@ -445,7 +527,7 @@
         "items": [
           {
             "q": "¿Hay estacionamiento en la zona? ¿Cuánto cuesta?",
-            "a": "La escultura está sobre la Avenida Eduardo Víctor Haedo, en la Parada 1 de la Playa Brava. No existe un parking cerrado en la misma obra, pero hay estacionamiento de zona azul (tarifa temporal, gratuito fuera de temporada alta) a lo largo de la avenida y varios estacionamientos de playa con control de horario en temporada. En verano (diciembre a febrero) se llena temprano; recomendamos ir en transporte público, bicicleta o a pie desde el centro (unos 15 minutos)."
+            "a": "La escultura está sobre la Rambla de Circunvalación Gral. Artigas, en la Parada 1 de la Playa Brava. No existe un parking cerrado en la misma obra, pero hay estacionamiento de zona azul (tarifa temporal, gratuito fuera de temporada alta) a lo largo de la avenida y varios estacionamientos de playa con control de horario en temporada. En verano (diciembre a febrero) se llena temprano; recomendamos ir en transporte público, bicicleta o a pie desde el centro (unos 15 minutos)."
           },
           {
             "q": "¿Se puede acceder con silla de ruedas o coche de bebé?",
@@ -453,7 +535,7 @@
           },
           {
             "q": "¿Hay baños o servicios de comida en la zona?",
-            "a": "La zona no cuenta con baños públicos gratuitos permanentes junto a la escultura, pero a pocos metros hay chiringuitos (puestos de playa) y balnearios de la Parada 1 que en temporada ofrecen baños, duchas y comida ligera. También hay kioscos y restaurantes a lo largo de la Av. Haedo. Fuera de temporada (otoño e invierno) la oferta se reduce, así que conviene ir preparado con agua."
+            "a": "La zona no cuenta con baños públicos gratuitos permanentes junto a la escultura, pero a pocos metros hay chiringuitos (puestos de playa) y balnearios de la Parada 1 que en temporada ofrecen baños, duchas y comida ligera. También hay kioscos y restaurantes a lo largo de la Rambla de Circunvalación Gral. Artigas. Fuera de temporada (otoño e invierno) la oferta se reduce, así que conviene ir preparado con agua."
           }
         ]
       },
@@ -476,7 +558,7 @@
         "title": "Planificación y entradas",
         "items": [
           {
-            "q": "¿Se paga entrada para ver Los Dedos?",
+            "q": "¿Se paga entrada para ver La Mano?",
             "a": "No. Es una obra pública al aire libre, de acceso libre y gratuito las 24 horas del día, todos los días del año. No hay taquilla ni control de acceso."
           },
           {
@@ -495,7 +577,7 @@
         "items": [
           {
             "q": "Terminando la visita, ¿qué otros lugares recomiendan cerca?",
-            "a": "A pocos minutos están el Faro de Punta del Este (el clásico mirador de la ciudad), el Puerto de Punta del Este con su mercado de pescadores y el Casapueblo, el museo-taller del artista Carlos Páez Vilaró en Punta Ballena. La Península y la zona de bares y restaurantes de la Calle 20 completan una jornada ideal a pocos kilómetros de Los Dedos."
+            "a": "A pocos minutos están el Faro de Punta del Este (el clásico mirador de la ciudad), el Puerto de Punta del Este con su mercado de pescadores y el Casapueblo, el museo-taller del artista Carlos Páez Vilaró en Punta Ballena. La Península y la zona de bares y restaurantes de la Calle 20 completan una jornada ideal a pocos kilómetros de La Mano."
           }
         ]
       },
@@ -505,7 +587,7 @@
         "items": [
           {
             "q": "¿Dónde se encuentra La Mano — Hombre emergiendo a la vida?",
-            "a": "La Mano — Hombre emergiendo a la vida se encuentra en la Parada 1 de la Playa Brava, sobre la Av. Eduardo Víctor Haedo (km 162.500), en Punta del Este, Maldonado, Uruguay (código postal 20001). Coordenadas: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
+            "a": "La Mano — Hombre emergiendo a la vida se encuentra en la Parada 1 de la Playa Brava, sobre la Rambla de Circunvalación Gral. Artigas, en Punta del Este, Maldonado, Uruguay (código postal 20001). Coordenadas: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "¿Es gratis visitar La Mano?",
@@ -521,11 +603,31 @@
     "intro": "Esta guía es un proyecto independiente elaborado a partir de fuentes oficiales y de referencia. Para consultar información oficial y actualizada, visita los siguientes enlaces:",
     "officialNote": "Para información oficial y regional, consulta el",
     "items": [
-      { "name": "Intendencia de Maldonado — Gobierno departamental", "url": "https://www.maldonado.gub.uy/", "desc": "Gobierno local responsable del mantenimiento y la gestión del espacio público donde se ubica la escultura." },
-      { "name": "Ministerio de Turismo de Uruguay", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Portal oficial del turismo nacional de Uruguay." },
-      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/", "desc": "Sitio oficial de promoción turística del país." },
-      { "name": "Wikipedia — La Mano (escultura)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Referencia enciclopédica sobre la obra y su autor." },
-      { "name": "Google Maps — ubicación oficial", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Ficha del lugar con ubicación, horarios y opiniones de visitantes." }
+      {
+        "name": "Intendencia de Maldonado — Gobierno departamental",
+        "url": "https://www.maldonado.gub.uy/",
+        "desc": "Gobierno local responsable del mantenimiento y la gestión del espacio público donde se ubica la escultura."
+      },
+      {
+        "name": "Ministerio de Turismo de Uruguay",
+        "url": "https://www.gub.uy/ministerio-turismo/",
+        "desc": "Portal oficial del turismo nacional de Uruguay."
+      },
+      {
+        "name": "Uruguay Natural — Turismo Oficial",
+        "url": "https://uruguaynatural.com/",
+        "desc": "Sitio oficial de promoción turística del país."
+      },
+      {
+        "name": "Wikipedia — La Mano (escultura)",
+        "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)",
+        "desc": "Referencia enciclopédica sobre la obra y su autor."
+      },
+      {
+        "name": "Google Maps — coordenadas",
+        "url": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+        "desc": "Ubicación aproximada de la escultura por coordenadas."
+      }
     ]
   },
   "imageRights": {
@@ -544,7 +646,15 @@
     "forecastTitle": "Pronóstico de 7 días",
     "updated": "Actualizado",
     "source": "Fuente",
-    "dayNames": ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"],
+    "dayNames": [
+      "Dom",
+      "Lun",
+      "Mar",
+      "Mié",
+      "Jue",
+      "Vie",
+      "Sáb"
+    ],
     "adviceTitle": "Recomendaciones para tu visita",
     "outfitLabel": "Qué ponerte",
     "planLabel": "Qué hacer",
@@ -634,15 +744,60 @@
     "subtitle": "Lo esencial antes de venir: servicios, accesos y consejos útiles para tu visita a la Playa Brava.",
     "neutralNote": "Somos un sitio informativo sin fines de lucro. Solo indicamos qué tipos de servicios existen en la zona; no recomendamos ni promocionamos comercios concretos.",
     "items": [
-      { "icon": "🚻", "title": "Aseos y duchas", "desc": "No hay baños públicos fijos junto a la escultura. En temporada alta, los paradores y balnearios de Playa Brava ofrecen aseos y duchas; el resto del año conviene prever alternativas en el centro.", "tip": "Fuera del verano, los servicios de playa suelen estar cerrados." },
-      { "icon": "🅿️", "title": "Estacionamiento", "desc": "La escultura se ubica sobre la Av. Eduardo Víctor Haedo. Hay estacionamiento medido en la vía pública y playas de estacionamiento privadas en los alrededores; en verano se cobran y se llenan rápido.", "tip": "En enero y febrero, llega temprano o usa bus, taxi o bicicleta." },
-      { "icon": "🍽️", "title": "Dónde comer", "desc": "A lo largo de la avenida y en la península hay restaurantes, parrillas, cafeterías, pizzerías y heladerías para distintos presupuestos. En la playa, los paradores ofrecen menús informales.", "tip": "En temporada alta conviene reservar; fuera de temporada, varios locales cierran." },
-      { "icon": "🏨", "title": "Alojamiento", "desc": "La zona ofrece hoteles, hostales, apart-hoteles, apartamentos turísticos y alquileres temporales. La mayor oferta está en el centro y en la península, a pocos minutos de la escultura.", "tip": "Reserva con antelación para diciembre–febrero y fines de semana largos." },
-      { "icon": "🛒", "title": "Supermercados y suministros", "desc": "En el centro y la península hay supermercados, minimercados y farmacias donde comprar agua, protector solar, snacks y artículos de playa.", "tip": "Lleva una botella reutilizable: hay pocas fuentes públicas en la rambla." },
-      { "icon": "⛽", "title": "Combustible y carga eléctrica", "desc": "Hay estaciones de servicio con nafta y gasoil sobre las avenidas principales de acceso a la ciudad. Los puntos de carga para vehículos eléctricos son limitados y suelen estar en hoteles y estacionamientos céntricos.", "tip": "Si viajas en eléctrico, planifica la carga antes de llegar a la zona costera." },
-      { "icon": "♿", "title": "Accesibilidad", "desc": "La rambla y el paseo costero son amplios y mayormente planos, aptos para sillas de ruedas y cochecitos. El acceso a la arena puede ser irregular según el estado del terreno.", "tip": "Para acercarte a la escultura, usa el paseo pavimentado en lugar de la arena blanda." },
-      { "icon": "🏥", "title": "Salud, farmacias y cajeros", "desc": "El centro cuenta con farmacias, centros médicos y cajeros automáticos. Ante una emergencia, el número único de emergencias en Uruguay es el 911.", "tip": "Lleva algo de efectivo: no todos los comercios pequeños aceptan tarjeta." },
-      { "icon": "🛟", "title": "Seguridad en la playa y el entorno", "desc": "Playa Brava tiene oleaje y corrientes que pueden ser intensos. Respeta las banderas y las indicaciones de los guardavidas, y evita el agua cuando hay viento fuerte.", "tip": "Cuida tus pertenencias y no dejes residuos: es un espacio público protegido." }
+      {
+        "icon": "🚻",
+        "title": "Aseos y duchas",
+        "desc": "No hay baños públicos fijos junto a la escultura. En temporada alta, los paradores y balnearios de Playa Brava ofrecen aseos y duchas; el resto del año conviene prever alternativas en el centro.",
+        "tip": "Fuera del verano, los servicios de playa suelen estar cerrados."
+      },
+      {
+        "icon": "🅿️",
+        "title": "Estacionamiento",
+        "desc": "La escultura se ubica sobre la Rambla de Circunvalación Gral. Artigas. Hay estacionamiento medido en la vía pública y playas de estacionamiento privadas en los alrededores; en verano se cobran y se llenan rápido.",
+        "tip": "En enero y febrero, llega temprano o usa bus, taxi o bicicleta."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Dónde comer",
+        "desc": "A lo largo de la avenida y en la península hay restaurantes, parrillas, cafeterías, pizzerías y heladerías para distintos presupuestos. En la playa, los paradores ofrecen menús informales.",
+        "tip": "En temporada alta conviene reservar; fuera de temporada, varios locales cierran."
+      },
+      {
+        "icon": "🏨",
+        "title": "Alojamiento",
+        "desc": "La zona ofrece hoteles, hostales, apart-hoteles, apartamentos turísticos y alquileres temporales. La mayor oferta está en el centro y en la península, a pocos minutos de la escultura.",
+        "tip": "Reserva con antelación para diciembre–febrero y fines de semana largos."
+      },
+      {
+        "icon": "🛒",
+        "title": "Supermercados y suministros",
+        "desc": "En el centro y la península hay supermercados, minimercados y farmacias donde comprar agua, protector solar, snacks y artículos de playa.",
+        "tip": "Lleva una botella reutilizable: hay pocas fuentes públicas en la rambla."
+      },
+      {
+        "icon": "⛽",
+        "title": "Combustible y carga eléctrica",
+        "desc": "Hay estaciones de servicio con nafta y gasoil sobre las avenidas principales de acceso a la ciudad. Los puntos de carga para vehículos eléctricos son limitados y suelen estar en hoteles y estacionamientos céntricos.",
+        "tip": "Si viajas en eléctrico, planifica la carga antes de llegar a la zona costera."
+      },
+      {
+        "icon": "♿",
+        "title": "Accesibilidad",
+        "desc": "La rambla y el paseo costero son amplios y mayormente planos, aptos para sillas de ruedas y cochecitos. El acceso a la arena puede ser irregular según el estado del terreno.",
+        "tip": "Para acercarte a la escultura, usa el paseo pavimentado en lugar de la arena blanda."
+      },
+      {
+        "icon": "🏥",
+        "title": "Salud, farmacias y cajeros",
+        "desc": "El centro cuenta con farmacias, centros médicos y cajeros automáticos. Ante una emergencia, el número único de emergencias en Uruguay es el 911.",
+        "tip": "Lleva algo de efectivo: no todos los comercios pequeños aceptan tarjeta."
+      },
+      {
+        "icon": "🛟",
+        "title": "Seguridad en la playa y el entorno",
+        "desc": "Playa Brava tiene oleaje y corrientes que pueden ser intensos. Respeta las banderas y las indicaciones de los guardavidas, y evita el agua cuando hay viento fuerte.",
+        "tip": "Cuida tus pertenencias y no dejes residuos: es un espacio público protegido."
+      }
     ]
   },
   "recommendations": {
@@ -650,14 +805,32 @@
     "attractionsTitle": "Atracciones cercanas",
     "toursTitle": "Tours y actividades recomendados",
     "attractions": [
-      { "name": "Casapueblo — Museo Taller", "url": "https://casapueblo.com.uy/" },
-      { "name": "Faro de Punta del Este", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Puerto de Punta del Este", "url": "https://www.maldonado.gub.uy/" }
+      {
+        "name": "Casapueblo — Museo Taller",
+        "url": "https://casapueblo.com.uy/"
+      },
+      {
+        "name": "Faro de Punta del Este",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Puerto de Punta del Este",
+        "url": "https://www.maldonado.gub.uy/"
+      }
     ],
     "tours": [
-      { "name": "Tour guiado por la ciudad y las playas", "url": "https://uruguaynatural.com/" },
-      { "name": "Crucero al atardecer en catamarán", "url": "https://uruguaynatural.com/" },
-      { "name": "Excursión en barco a la Isla de Lobos", "url": "https://www.gub.uy/ministerio-turismo/" }
+      {
+        "name": "Tour guiado por la ciudad y las playas",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Crucero al atardecer en catamarán",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Excursión en barco a la Isla de Lobos",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      }
     ]
   }
 }
