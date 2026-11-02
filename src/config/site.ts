@@ -1,5 +1,5 @@
 const siteConfig = {
-  name: 'The Fingers of Punta del Este',
+  name: 'La Mano de Punta del Este',
   baseUrl: 'https://manopunta.com',
   locales: ['es', 'en', 'zh', 'gn'] as const,
 };
