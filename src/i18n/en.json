@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "The Fingers of Punta del Este (La Mano) | Visitor Guide",
-    "description": "Visit The Fingers of Punta del Este, also known as La Mano. Explore its history, meaning, Playa Brava location, directions, photo tips and visitor information."
+    "title": "La Mano de Punta del Este | Visitor Guide",
+    "description": "Visit La Mano de Punta del Este. Explore its history, meaning, Playa Brava location, directions, photo tips and visitor information."
   },
   "topics": {
     "exploreTitle": "La Mano Guides",
     "significado-la-mano-punta-del-este": {
-      "title": "Meaning of La Mano (Los Dedos) in Punta del Este | History & Symbol",
-      "description": "What La Mano de Punta del Este, also called Los Dedos, means: the story behind the sculpture Hombre emergiendo a la vida, its creator Mario Irarrázabal, the idea of the hand rising from the sand, and why it became the symbol of the city.",
-      "h1": "Meaning of La Mano de Punta del Este (Los Dedos)",
+      "title": "Meaning of La Mano in Punta del Este | History & Symbol",
+      "description": "What La Mano de Punta del Este, means: the story behind the sculpture Hombre emergiendo a la vida, its creator Mario Irarrázabal, the idea of the hand rising from the sand, and why it became the symbol of the city.",
+      "h1": "Meaning of La Mano de Punta del Este",
       "cardText": "Discover what the sculpture represents, its original title, and why it became the symbol of the city.",
-      "intro": "La Mano, also known as Los Dedos de Punta del Este, is much more than a beach photo: it is a public artwork with a precise title and intent. In this guide we explain what it means, where it comes from, and why it became the icon of Punta del Este.",
+      "intro": "La Mano is much more than a beach photo: it is a public artwork with a precise title and intent. In this guide we explain what it means, where it comes from, and why it became the icon of Punta del Este.",
       "sections": [
         {
           "heading": "What does La Mano represent?",
@@ -30,36 +30,61 @@
         },
         {
           "heading": "Why it became the symbol of Punta del Este",
-          "body": "Over time, La Mano went from being an ephemeral piece of an event to one of the most photographed and recognizable spots in Punta del Este. Today it works as a visual landmark of Playa Brava and as an informal symbol of the city, especially for those who arrive looking for Los Dedos."
+          "body": "Over time, La Mano went from being an ephemeral piece of an event to one of the most photographed and recognizable spots in Punta del Este. Today it works as a visual landmark of Playa Brava and as an informal symbol of the city."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) at sunrise on Playa Brava, Punta del Este" },
-        { "src": "/gallery/punta-del-este-1.jpg", "alt": "Close-up of the five concrete fingers of La Mano rising from the sand" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "The La Mano sculpture surrounded by the Brava Beach" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano at sunrise on Playa Brava, Punta del Este"
+        },
+        {
+          "src": "/gallery/punta-del-este-1.jpg",
+          "alt": "Close-up of the five concrete fingers of La Mano rising from the sand"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "The La Mano sculpture surrounded by the Brava Beach"
+        }
       ],
       "mapTitle": "Where La Mano is in Punta del Este",
       "faq": [
-        { "q": "What does La Mano de Punta del Este mean?", "a": "It represents a human hand rising from the sand and refers to the idea of Hombre emergiendo a la vida (Man Emerging into Life): a human figure that emerges from the ground and the sea, as a metaphor for the person before nature." },
-        { "q": "Who made La Mano de Punta del Este and in what year?", "a": "It was created by the Chilean sculptor Mario Irarrázabal in 1982, during an international sculpture gathering in Punta del Este, and was built in about six days." },
-        { "q": "Does La Mano have another name?", "a": "Yes. It is known as La Mano, Los Dedos de Punta del Este, and, with its full title, La Mano — Hombre emergiendo a la vida." },
-        { "q": "Why is La Mano on the beach and not in a museum?", "a": "It was conceived as a public sculpture on the sand of Playa Brava (Parada 1). Its anchoring in the beach is part of the work: the tide and sand interact with its base." }
+        {
+          "q": "What does La Mano de Punta del Este mean?",
+          "a": "It represents a human hand rising from the sand and refers to the idea of Hombre emergiendo a la vida (Man Emerging into Life): a human figure that emerges from the ground and the sea, as a metaphor for the person before nature."
+        },
+        {
+          "q": "Who made La Mano de Punta del Este and in what year?",
+          "a": "It was created by the Chilean sculptor Mario Irarrázabal in 1982, during an international sculpture gathering in Punta del Este, and was built in about six days."
+        },
+        {
+          "q": "Does La Mano have another name?",
+          "a": "Yes. It is known as La Mano — Hombre emergiendo a la vida."
+        },
+        {
+          "q": "Why is La Mano on the beach and not in a museum?",
+          "a": "It was conceived as a public sculpture on the sand of Playa Brava (Parada 1). Its anchoring in the beach is part of the work: the tide and sand interact with its base."
+        }
       ],
       "relatedTitle": "Keep exploring",
       "related": [
-        { "href": "/en/how-to-get-to-la-mano/", "label": "How to get to La Mano", "desc": "Exact address, GPS coordinates, and transport options from Montevideo." }
+        {
+          "href": "/en/how-to-get-to-la-mano/",
+          "label": "How to get to La Mano",
+          "desc": "Exact address, GPS coordinates, and transport options from Montevideo."
+        }
       ]
     },
     "como-llegar-la-mano": {
       "title": "How to get to La Mano in Punta del Este | Location & Transport",
-      "description": "How to get to La Mano (Los Dedos) in Punta del Este: exact address on Playa Brava, GPS coordinates, route from Montevideo by car or bus, parking, and the map so you don't get lost.",
-      "h1": "How to get to La Mano (Los Dedos) in Punta del Este",
+      "description": "How to get to La Mano in Punta del Este: exact address on Playa Brava, GPS coordinates, route from Montevideo by car or bus, parking, and the map so you don't get lost.",
+      "h1": "How to get to La Mano in Punta del Este",
       "cardText": "Address, GPS coordinates, route from Montevideo, and where to park near Playa Brava.",
       "intro": "La Mano is outdoors and free to visit, but getting there means locating Playa Brava correctly within Punta del Este. Here you have the exact address, the coordinates, and the best ways to move from Montevideo or from the city center.",
       "sections": [
         {
           "heading": "Exact address",
-          "body": "La Mano is at Parada 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). It is not in the center of the peninsula but on the east coast, on the stretch of beach known as the Brava."
+          "body": "La Mano is at Parada 1 of Playa Brava, on Rambla de Circunvalación Gral. Artigas, in Punta del Este, Maldonado, Uruguay (postal code 20001). It is not in the center of the peninsula but on the east coast, on the stretch of beach known as the Brava."
         },
         {
           "heading": "How to get there from Montevideo",
@@ -67,7 +92,7 @@
         },
         {
           "heading": "Within Punta del Este: by car, taxi, and bus",
-          "body": "By car, follow the waterfront and Av. Roosevelt to Av. Eduardo Víctor Haedo, which borders Playa Brava; the sculpture is at Parada 1. From downtown or the port, a taxi or remisse is the most direct option. Urban buses that run along the waterfront also arrive near Parada 1; check the local terminal for the day's lines."
+          "body": "By car, follow the waterfront and Av. Roosevelt to Rambla de Circunvalación Gral. Artigas, which borders Playa Brava; the sculpture is at Parada 1. From downtown or the port, a taxi or remisse is the most direct option. Urban buses that run along the waterfront also arrive near Parada 1; check the local terminal for the day's lines."
         },
         {
           "heading": "Coordinates and Plus Code",
@@ -75,55 +100,80 @@
         },
         {
           "heading": "Parking and tips",
-          "body": "Parking is limited and lines the edge of Av. Haedo; in high season it is best to arrive early. The visit is free and the sculpture is outdoors 24 hours, so at sunrise or sunset there are fewer people and better light for photos."
+          "body": "Parking is limited and lines the edge of Rambla de Circunvalación Gral. Artigas; in high season it is best to arrive early. The visit is free and the sculpture is outdoors 24 hours, so at sunrise or sunset there are fewer people and better light for photos."
         }
       ],
       "images": [
-        { "src": "/gallery/hero-mano.jpg", "alt": "La Mano (Los Dedos) on the sand of Playa Brava, Punta del Este" },
-        { "src": "/gallery/punta-del-este-12.jpg", "alt": "Panorama of Playa Brava with La Mano in the background" },
-        { "src": "/gallery/punta-del-este-6.jpg", "alt": "La Mano next to the strong surf of the Brava" }
+        {
+          "src": "/gallery/hero-mano.jpg",
+          "alt": "La Mano on the sand of Playa Brava, Punta del Este"
+        },
+        {
+          "src": "/gallery/punta-del-este-12.jpg",
+          "alt": "Panorama of Playa Brava with La Mano in the background"
+        },
+        {
+          "src": "/gallery/punta-del-este-6.jpg",
+          "alt": "La Mano next to the strong surf of the Brava"
+        }
       ],
       "mapTitle": "Map to get to La Mano in Punta del Este",
       "faq": [
-        { "q": "Where exactly is La Mano?", "a": "At Parada 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), Punta del Este, Maldonado, Uruguay. It is on the east coast, not in the center of the peninsula." },
-        { "q": "How to get to La Mano from Montevideo?", "a": "About 140 km east: by car via Route 1 and the Interbalnearia Route (1h30 to 2h), or by bus from Tres Cruces to the Punta del Este terminal and from there by taxi or urban transport." },
-        { "q": "Can you get to La Mano by public transport?", "a": "Yes. Urban buses run along the waterfront to near Parada 1; it is also common to take a taxi or remisse from downtown or the Punta del Este terminal." },
-        { "q": "Is the entrance to La Mano free?", "a": "Yes. It is an outdoor public sculpture, free to access and open 24 hours; there is no ticket or fence." }
+        {
+          "q": "Where exactly is La Mano?",
+          "a": "At Parada 1 of Playa Brava, on Rambla de Circunvalación Gral. Artigas, Punta del Este, Maldonado, Uruguay. It is on the east coast, not in the center of the peninsula."
+        },
+        {
+          "q": "How to get to La Mano from Montevideo?",
+          "a": "About 140 km east: by car via Route 1 and the Interbalnearia Route (1h30 to 2h), or by bus from Tres Cruces to the Punta del Este terminal and from there by taxi or urban transport."
+        },
+        {
+          "q": "Can you get to La Mano by public transport?",
+          "a": "Yes. Urban buses run along the waterfront to near Parada 1; it is also common to take a taxi or remisse from downtown or the Punta del Este terminal."
+        },
+        {
+          "q": "Is the entrance to La Mano free?",
+          "a": "Yes. It is an outdoor public sculpture, free to access and open 24 hours; there is no ticket or fence."
+        }
       ],
       "relatedTitle": "Keep exploring",
       "related": [
-        { "href": "/en/meaning-of-la-mano-punta-del-este/", "label": "Meaning of La Mano", "desc": "Discover what the sculpture represents and why it became the symbol of the city." }
+        {
+          "href": "/en/meaning-of-la-mano-punta-del-este/",
+          "label": "Meaning of La Mano",
+          "desc": "Discover what the sculpture represents and why it became the symbol of the city."
+        }
       ]
     }
   },
   "seo": {
-    "h1": "The Fingers of Punta del Este (La Mano)",
+    "h1": "La Mano de Punta del Este",
     "aboutHeading": "About La Mano — Man Emerging into Life",
     "locationHeading": "Location & How to Visit La Mano in Punta del Este",
     "landmarksHeading": "Landmarks & Attractions Around La Mano",
     "historyHeading": "History & Significance of La Mano — Man Emerging into Life",
-    "introLead": "Welcome to <strong>La Mano (Man Emerging into Life)</strong>, widely recognized as the central <strong>La Mano</strong> landmark and also known as The Fingers. Located in the heart of <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, this destination serves as a primary hub for travellers visiting the region.",
+    "introLead": "Welcome to <strong>La Mano (Man Emerging into Life)</strong>. Located in the heart of <strong>Punta del Este</strong>, <strong>Maldonado</strong>, <strong>Uruguay</strong>, this destination serves as a primary hub for travellers visiting the region.",
     "nearbyLead": "When visiting <strong>La Mano (Man Emerging into Life)</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including the <strong>Punta del Este Lighthouse</strong> and <strong>Casapueblo</strong>.",
     "breadcrumbLabel": "Breadcrumb",
     "heroAlt": "La Mano — Man Emerging into Life, main view in Punta del Este, Uruguay",
-    "galleryAlt": "La Mano (The Fingers) sculpture on Brava Beach, Punta del Este",
+    "galleryAlt": "La Mano sculpture on Brava Beach, Punta del Este",
     "galleryCaptions": [
-      "The Fingers seen head-on at sunrise on Brava Beach",
+      "La Mano seen head-on at sunrise on Brava Beach",
       "Close-up of the five concrete fingers of La Mano",
       "The giant hand emerging from the Brava Beach sand",
-      "The Fingers with the Atlantic Ocean behind",
+      "La Mano with the Atlantic Ocean behind",
       "The sculpture in close-up under golden light",
       "La Mano and the strong surf of Playa Brava",
-      "Visitors photographing The Fingers at sunset",
+      "Visitors photographing La Mano at sunset",
       "Low-angle view of the fingers against the sky",
-      "The Fingers surrounded by beach sand",
+      "La Mano surrounded by beach sand",
       "Panorama of Brava Beach with La Mano",
       "The sculpture at night with city lights",
       "Close-up of the concrete texture of the artwork",
-      "The Fingers with Punta del Este Lighthouse in the distance",
+      "La Mano with Punta del Este Lighthouse in the distance",
       "Family by La Mano on Playa Brava",
       "The hand emerging between the Brava waves",
-      "The Fingers at sunrise with pink sky",
+      "La Mano at sunrise with pink sky",
       "Rear angle of the sculpture on the sand",
       "La Mano as the symbol of Punta del Este at sunset"
     ],
@@ -131,7 +181,7 @@
     "officialLink": "Uruguay / Maldonado Official Tourism Portal"
   },
   "header": {
-    "siteName": "The Fingers of Punta del Este",
+    "siteName": "La Mano de Punta del Este",
     "home": "Home",
     "visit": "Visit",
     "history": "History",
@@ -149,17 +199,17 @@
     "toggleTheme": "Toggle theme"
   },
   "hero": {
-    "title": "The Fingers of Punta del Este",
+    "title": "La Mano de Punta del Este",
     "subtitle": "A monumental hand rising from the sand of Brava Beach — one of Uruguay's most iconic landmarks.",
     "rating": "4.5(28,487)",
     "reviewCount": "28,487 reviews",
     "hours": "Open 24 hours",
     "openMaps": "View Location",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "infoBar": {
     "address": "Address",
-    "addressValue": "Av. Eduardo Víctor Haedo km 162.500, Stop 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
+    "addressValue": "Rambla de Circunvalación Gral. Artigas, Stop 1 Brava, 20001 Punta del Este, Maldonado, Uruguay",
     "phone": "Phone",
     "phoneValue": "+598 93 324 497",
     "plusCode": "Plus Code",
@@ -168,13 +218,13 @@
     "hoursValue": "24 hours / every day"
   },
   "intro": {
-    "title": "Discover The Fingers of Punta del Este",
-    "description": "The Fingers — also known as La Mano or Hombre emergiendo a la vida (Man Emerging into Life) — is a concrete sculpture of five human fingers breaking through the sand of Playa Brava. Created by Chilean artist Mario Irarrázabal in 1982 during an international sculpture workshop, it has become the unmistakable symbol of Punta del Este and one of the most photographed monuments in Uruguay.",
+    "title": "Discover La Mano de Punta del Este",
+    "description": "La Mano — Hombre emergiendo a la vida (Man Emerging into Life) — is a concrete sculpture of five human fingers breaking through the sand of Playa Brava. Created by Chilean artist Mario Irarrázabal in 1982 during an international sculpture workshop, it has become the unmistakable symbol of Punta del Este and one of the most photographed monuments in Uruguay.",
     "visitGuide": {
       "title": "Visitor Guide",
       "items": [
         "Open 24 hours a day, 7 days a week — visit anytime, free of charge.",
-        "Located at Stop 1 of Playa Brava, Av. Eduardo Víctor Haedo, Punta del Este.",
+        "Located at Stop 1 of Playa Brava, Rambla de Circunvalación Gral. Artigas, Punta del Este.",
         "Best light for photos is early morning or late afternoon; sunrise is spectacular.",
         "Easily reached on foot, by bike, or by bus from the city centre (about 15 minutes)."
       ]
@@ -191,7 +241,7 @@
   },
   "officialManagement": {
     "title": "About the Sculpture",
-    "text": "The Fingers is a public artwork maintained by the Intendencia de Maldonado, the provincial government of Maldonado Department where Punta del Este is located. As one of Uruguay's most visited landmarks, it draws hundreds of thousands of visitors every year and stands as a landmark of modern Latin American public art."
+    "text": "La Mano is a public artwork maintained by the Intendencia de Maldonado, the provincial government of Maldonado Department where Punta del Este is located. As one of Uruguay's most visited landmarks, it draws hundreds of thousands of visitors every year and stands as a landmark of modern Latin American public art."
   },
   "knowledge": {
     "title": "History, Meaning & Legend of La Mano",
@@ -240,14 +290,14 @@
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Views of The Fingers and the sweeping Brava Beach",
-    "photoAlt": "The Fingers of Punta del Este sculpture on Brava Beach",
+    "subtitle": "Views of La Mano and the sweeping Brava Beach",
+    "photoAlt": "La Mano de Punta del Este sculpture on Brava Beach",
     "lightboxClose": "Close",
     "lightboxPrev": "Previous",
     "lightboxNext": "Next",
     "viewAll": "View Location on Google Maps",
     "showMore": "Show More Photos",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652"
   },
   "reviews": {
     "title": "Visitor Reviews",
@@ -263,12 +313,13 @@
     "title": "How to Get Here",
     "subtitle": "Stop 1 Brava, Punta del Este, Maldonado, Uruguay",
     "openMaps": "Open in Google Maps",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6"
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+    "tourismCredit": "According to the Maldonado Tourism Department (Lic. Javier Báez), La Mano is part of Paseo de Las Américas and is located on Rambla de Circunvalación Gral. Artigas."
   },
   "transport": {
-    "title": "How to get to The Fingers",
+    "title": "How to get to La Mano",
     "subtitle": "Every way to reach the sculpture on Brava Beach, Punta del Este.",
-    "note": "The sculpture is at Parada 1 of Brava Beach, on Av. Eduardo Víctor Haedo, about 15 minutes from downtown.",
+    "note": "The sculpture is at Parada 1 of Brava Beach, on Rambla de Circunvalación Gral. Artigas, about 15 minutes from downtown.",
     "modes": [
       {
         "icon": "✈️",
@@ -277,7 +328,7 @@
         "steps": [
           "Fly into Montevideo (MVD) or directly to Punta del Este (PDP) in season.",
           "From Carrasco, take a transfer, remise or bus to Punta del Este (1.5–2 h).",
-          "From downtown, The Fingers are 15 min by car, taxi or city bus."
+          "From downtown, La Mano is 15 min by car, taxi or city bus."
         ]
       },
       {
@@ -306,7 +357,7 @@
         "summary": "CODESA city lines connect downtown and the peninsula with Brava Beach. Ask to get off at Parada 1.",
         "steps": [
           "Use the urban buses (CODESA) from downtown or the peninsula.",
-          "Get off at Parada 1 of Brava Beach, on Av. Eduardo Víctor Haedo.",
+          "Get off at Parada 1 of Brava Beach, on Rambla de Circunvalación Gral. Artigas.",
           "The sculpture is steps from the stop, on the coastal promenade."
         ]
       },
@@ -316,8 +367,8 @@
         "summary": "Remises, metered taxis and apps like Uber or DiDi operate in the city. From downtown it takes about 10–15 min.",
         "steps": [
           "Order a remise at your hotel or use Uber / DiDi from your phone.",
-          "Tell the driver: 'The Fingers, Parada 1 Brava'.",
-          "The ride is short and direct along Av. Eduardo Víctor Haedo."
+          "Tell the driver: 'La Mano, Parada 1 Brava'.",
+          "The ride is short and direct along Rambla de Circunvalación Gral. Artigas."
         ]
       },
       {
@@ -327,36 +378,51 @@
         "steps": [
           "Rent a bike downtown or use the city's bike stations.",
           "Follow the coastal bike lane toward Brava Beach.",
-          "Leave the bike at the meters on Av. Haedo and walk to the sand."
+          "Leave the bike at the meters on Rambla de Circunvalación Gral. Artigas and walk to the sand."
         ]
       },
       {
         "icon": "🚗",
         "title": "By car (self-drive)",
-        "summary": "From Montevideo take the Interbalnearia Route (IB) to Punta del Este and then Av. Eduardo Víctor Haedo.",
+        "summary": "From Montevideo take the Interbalnearia Route (IB) to Punta del Este and then Rambla de Circunvalación Gral. Artigas.",
         "steps": [
           "Drive the Interbalnearia Route (IB) about 120 km to the city.",
-          "Follow to Brava Beach via Av. Eduardo Víctor Haedo.",
+          "Follow to Brava Beach via Rambla de Circunvalación Gral. Artigas.",
           "Park in the blue zone or in the beach lots (paid in season)."
         ]
       }
     ]
   },
   "footer": {
-    "siteName": "The Fingers of Punta del Este",
-    "rights": "© 2026 The Fingers of Punta del Este — Independent Travel Guide. All rights reserved.",
+    "siteName": "La Mano de Punta del Este",
+    "rights": "© 2026 La Mano de Punta del Este — Independent Travel Guide. All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Official & Reference Resources",
     "mapsLabel": "Google Maps →",
-    "mapsUrl": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
     "officialLinksList": [
-      { "name": "Ministerio de Turismo (Uruguay)", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Uruguay Natural — Turismo Oficial", "url": "https://uruguaynatural.com/" },
-      { "name": "Intendencia de Maldonado", "url": "https://www.maldonado.gub.uy/" },
-      { "name": "Ministerio de Educación y Cultura", "url": "https://www.gub.uy/ministerio-educacion-cultura/" },
-      { "name": "Presidencia de la República (Uruguay)", "url": "https://www.gub.uy/" }
+      {
+        "name": "Ministerio de Turismo (Uruguay)",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Uruguay Natural — Turismo Oficial",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Intendencia de Maldonado",
+        "url": "https://www.maldonado.gub.uy/"
+      },
+      {
+        "name": "Ministerio de Educación y Cultura",
+        "url": "https://www.gub.uy/ministerio-educacion-cultura/"
+      },
+      {
+        "name": "Presidencia de la República (Uruguay)",
+        "url": "https://www.gub.uy/"
+      }
     ],
     "disclaimer": "This is an independent, non-profit visitor information project. We are not affiliated with any government body or official institution.",
     "officialName": "La Mano — Man Emerging into Life",
@@ -428,14 +494,30 @@
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "subtitle": "Practical information on facilities, history and planning your visit to The Fingers.",
+    "subtitle": "Practical information on facilities, history and planning your visit to La Mano.",
     "amenities": {
       "title": "Facilities nearby",
       "items": [
-        { "icon": "🅿️", "label": "Parking", "value": "Blue zone & beach lots" },
-        { "icon": "🚻", "label": "Restrooms", "value": "At kiosks & stop" },
-        { "icon": "🔌", "label": "Fuel / EV", "value": "Stations on Av. Haedo" },
-        { "icon": "♿", "label": "Accessibility", "value": "Beach & promenade" }
+        {
+          "icon": "🅿️",
+          "label": "Parking",
+          "value": "Blue zone & beach lots"
+        },
+        {
+          "icon": "🚻",
+          "label": "Restrooms",
+          "value": "At kiosks & stop"
+        },
+        {
+          "icon": "🔌",
+          "label": "Fuel / EV",
+          "value": "Stations on Rambla de Circunvalación Gral. Artigas"
+        },
+        {
+          "icon": "♿",
+          "label": "Accessibility",
+          "value": "Beach & promenade"
+        }
       ]
     },
     "categories": [
@@ -445,7 +527,7 @@
         "items": [
           {
             "q": "Is there parking nearby? How much does it cost?",
-            "a": "The sculpture sits on Avenida Eduardo Víctor Haedo at Stop 1 of Playa Brava. There is no enclosed car park at the artwork itself, but paid blue-zone street parking (metered, free outside peak season) runs along the avenue, and several timed beach parking lots operate in summer. In high season (December–February) it fills up early; we recommend public transport, bike, or walking from the centre (about 15 minutes)."
+            "a": "The sculpture sits on Rambla de Circunvalación Gral. Artigas at Stop 1 of Playa Brava. There is no enclosed car park at the artwork itself, but paid blue-zone street parking (metered, free outside peak season) runs along the avenue, and several timed beach parking lots operate in summer. In high season (December–February) it fills up early; we recommend public transport, bike, or walking from the centre (about 15 minutes)."
           },
           {
             "q": "Can wheelchairs or strollers get close?",
@@ -453,7 +535,7 @@
           },
           {
             "q": "Are there restrooms or food nearby?",
-            "a": "There are no permanent free public restrooms right at the sculpture, but a few metres away the Stop 1 beach kiosks (chiringuitos) and bathhouses offer toilets, showers and light food in season. Kiosks and restaurants also line Av. Haedo. Outside peak season (autumn and winter) options shrink, so bring water with you."
+            "a": "There are no permanent free public restrooms right at the sculpture, but a few metres away the Stop 1 beach kiosks (chiringuitos) and bathhouses offer toilets, showers and light food in season. Kiosks and restaurants also line Rambla de Circunvalación Gral. Artigas. Outside peak season (autumn and winter) options shrink, so bring water with you."
           }
         ]
       },
@@ -476,7 +558,7 @@
         "title": "Planning & Tickets",
         "items": [
           {
-            "q": "Is there an entrance fee to see The Fingers?",
+            "q": "Is there an entrance fee to see La Mano?",
             "a": "No. It is a free, open-air public artwork, accessible and free of charge 24 hours a day, every day of the year. There is no ticket office or access control."
           },
           {
@@ -495,7 +577,7 @@
         "items": [
           {
             "q": "After visiting, what other spots do you recommend nearby?",
-            "a": "Just minutes away are the Punta del Este Lighthouse (the classic city viewpoint), the Punta del Este Port with its fishermen's market, and Casapueblo, the museum-workshop of artist Carlos Páez Vilaró at Punta Ballena. The peninsula and the bars and restaurants of Calle 20 round out an ideal day within a few kilometres of The Fingers."
+            "a": "Just minutes away are the Punta del Este Lighthouse (the classic city viewpoint), the Punta del Este Port with its fishermen's market, and Casapueblo, the museum-workshop of artist Carlos Páez Vilaró at Punta Ballena. The peninsula and the bars and restaurants of Calle 20 round out an ideal day within a few kilometres of La Mano."
           }
         ]
       },
@@ -505,7 +587,7 @@
         "items": [
           {
             "q": "Where is La Mano — Man Emerging into Life located?",
-            "a": "La Mano — Man Emerging into Life is located at Stop 1 of Playa Brava, on Av. Eduardo Víctor Haedo (km 162.500), in Punta del Este, Maldonado, Uruguay (postal code 20001). Coordinates: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
+            "a": "La Mano — Man Emerging into Life is located at Stop 1 of Playa Brava, on Rambla de Circunvalación Gral. Artigas, in Punta del Este, Maldonado, Uruguay (postal code 20001). Coordinates: -34.95789, -54.93729; Plus Code: 23R7+R3 Punta del Este, Maldonado."
           },
           {
             "q": "Is La Mano free to visit?",
@@ -521,11 +603,31 @@
     "intro": "This guide is an independent project compiled from official and reference sources. For up-to-date, official information, please consult the links below:",
     "officialNote": "For official and regional information, visit the",
     "items": [
-      { "name": "Intendencia de Maldonado — Departmental Government", "url": "https://www.maldonado.gub.uy/", "desc": "Local government responsible for maintaining the public space where the sculpture stands." },
-      { "name": "Ministry of Tourism of Uruguay", "url": "https://www.gub.uy/ministerio-turismo/", "desc": "Official national tourism portal of Uruguay." },
-      { "name": "Uruguay Natural — Official Tourism", "url": "https://uruguaynatural.com/", "desc": "Official country tourism promotion site." },
-      { "name": "Wikipedia — La Mano (sculpture)", "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)", "desc": "Encyclopedic reference on the artwork and its author." },
-      { "name": "Google Maps — official listing", "url": "https://maps.app.goo.gl/MU5QCr5mQWiTMGuG6", "desc": "Place listing with location, hours and visitor reviews." }
+      {
+        "name": "Intendencia de Maldonado — Departmental Government",
+        "url": "https://www.maldonado.gub.uy/",
+        "desc": "Local government responsible for maintaining the public space where the sculpture stands."
+      },
+      {
+        "name": "Ministry of Tourism of Uruguay",
+        "url": "https://www.gub.uy/ministerio-turismo/",
+        "desc": "Official national tourism portal of Uruguay."
+      },
+      {
+        "name": "Uruguay Natural — Official Tourism",
+        "url": "https://uruguaynatural.com/",
+        "desc": "Official country tourism promotion site."
+      },
+      {
+        "name": "Wikipedia — La Mano (sculpture)",
+        "url": "https://es.wikipedia.org/wiki/La_mano_(escultura)",
+        "desc": "Encyclopedic reference on the artwork and its author."
+      },
+      {
+        "name": "Google Maps — coordinates",
+        "url": "https://www.google.com/maps/search/?api=1&query=-34.9578986%2C-54.9372652",
+        "desc": "Approximate location of the sculpture by coordinates."
+      }
     ]
   },
   "imageRights": {
@@ -544,7 +646,15 @@
     "forecastTitle": "7-Day Forecast",
     "updated": "Updated",
     "source": "Source",
-    "dayNames": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "dayNames": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
     "adviceTitle": "What to expect & how to prepare",
     "outfitLabel": "What to wear",
     "planLabel": "What to do",
@@ -634,15 +744,60 @@
     "subtitle": "The essentials before you come: services, access and useful tips for your visit to Brava Beach.",
     "neutralNote": "We are a non-profit information site. We only indicate which types of services exist in the area and do not recommend or promote specific businesses.",
     "items": [
-      { "icon": "🚻", "title": "Restrooms & showers", "desc": "There are no permanent public restrooms next to the sculpture. In high season, the beach clubs and paradores along Brava Beach provide toilets and showers; outside summer, plan to use facilities in the city centre.", "tip": "Outside summer, beach services are usually closed." },
-      { "icon": "🅿️", "title": "Parking", "desc": "The sculpture sits on Av. Eduardo Víctor Haedo. There is metered on-street parking and private car parks nearby; in summer they are paid and fill up quickly.", "tip": "In January and February, arrive early or use the bus, a taxi or a bicycle." },
-      { "icon": "🍽️", "title": "Where to eat", "desc": "Along the avenue and on the peninsula you will find restaurants, steakhouses, cafés, pizzerias and ice-cream shops for every budget. On the beach, paradores serve informal menus.", "tip": "Book ahead in high season; outside season, several places close." },
-      { "icon": "🏨", "title": "Where to stay", "desc": "The area offers hotels, hostels, apart-hotels, tourist apartments and short-term rentals. The largest choice is in the centre and on the peninsula, minutes from the sculpture.", "tip": "Book early for December–February and long weekends." },
-      { "icon": "🛒", "title": "Supermarkets & supplies", "desc": "The centre and peninsula have supermarkets, mini-markets and pharmacies where you can buy water, sunscreen, snacks and beach essentials.", "tip": "Bring a reusable bottle: public drinking fountains on the promenade are scarce." },
-      { "icon": "⛽", "title": "Fuel & EV charging", "desc": "Petrol and diesel stations are located on the main avenues leading into the city. EV charging points are limited and are mostly found at hotels and central car parks.", "tip": "If you drive an EV, plan your charging before reaching the coastal area." },
-      { "icon": "♿", "title": "Accessibility", "desc": "The promenade and coastal walk are wide and mostly flat, suitable for wheelchairs and strollers. Access onto the sand can be uneven depending on the ground.", "tip": "To approach the sculpture, use the paved walkway rather than the soft sand." },
-      { "icon": "🏥", "title": "Health, pharmacies & ATMs", "desc": "The city centre has pharmacies, medical centres and ATMs. In an emergency, the single emergency number in Uruguay is 911.", "tip": "Carry some cash: not every small business accepts cards." },
-      { "icon": "🛟", "title": "Beach & area safety", "desc": "Brava Beach has surf and currents that can be strong. Follow the flags and lifeguards' advice, and stay out of the water in strong winds.", "tip": "Watch your belongings and leave no litter: this is a protected public space." }
+      {
+        "icon": "🚻",
+        "title": "Restrooms & showers",
+        "desc": "There are no permanent public restrooms next to the sculpture. In high season, the beach clubs and paradores along Brava Beach provide toilets and showers; outside summer, plan to use facilities in the city centre.",
+        "tip": "Outside summer, beach services are usually closed."
+      },
+      {
+        "icon": "🅿️",
+        "title": "Parking",
+        "desc": "The sculpture sits on Rambla de Circunvalación Gral. Artigas. There is metered on-street parking and private car parks nearby; in summer they are paid and fill up quickly.",
+        "tip": "In January and February, arrive early or use the bus, a taxi or a bicycle."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Where to eat",
+        "desc": "Along the avenue and on the peninsula you will find restaurants, steakhouses, cafés, pizzerias and ice-cream shops for every budget. On the beach, paradores serve informal menus.",
+        "tip": "Book ahead in high season; outside season, several places close."
+      },
+      {
+        "icon": "🏨",
+        "title": "Where to stay",
+        "desc": "The area offers hotels, hostels, apart-hotels, tourist apartments and short-term rentals. The largest choice is in the centre and on the peninsula, minutes from the sculpture.",
+        "tip": "Book early for December–February and long weekends."
+      },
+      {
+        "icon": "🛒",
+        "title": "Supermarkets & supplies",
+        "desc": "The centre and peninsula have supermarkets, mini-markets and pharmacies where you can buy water, sunscreen, snacks and beach essentials.",
+        "tip": "Bring a reusable bottle: public drinking fountains on the promenade are scarce."
+      },
+      {
+        "icon": "⛽",
+        "title": "Fuel & EV charging",
+        "desc": "Petrol and diesel stations are located on the main avenues leading into the city. EV charging points are limited and are mostly found at hotels and central car parks.",
+        "tip": "If you drive an EV, plan your charging before reaching the coastal area."
+      },
+      {
+        "icon": "♿",
+        "title": "Accessibility",
+        "desc": "The promenade and coastal walk are wide and mostly flat, suitable for wheelchairs and strollers. Access onto the sand can be uneven depending on the ground.",
+        "tip": "To approach the sculpture, use the paved walkway rather than the soft sand."
+      },
+      {
+        "icon": "🏥",
+        "title": "Health, pharmacies & ATMs",
+        "desc": "The city centre has pharmacies, medical centres and ATMs. In an emergency, the single emergency number in Uruguay is 911.",
+        "tip": "Carry some cash: not every small business accepts cards."
+      },
+      {
+        "icon": "🛟",
+        "title": "Beach & area safety",
+        "desc": "Brava Beach has surf and currents that can be strong. Follow the flags and lifeguards' advice, and stay out of the water in strong winds.",
+        "tip": "Watch your belongings and leave no litter: this is a protected public space."
+      }
     ]
   },
   "recommendations": {
@@ -650,14 +805,32 @@
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "attractions": [
-      { "name": "Casapueblo — Museo Taller", "url": "https://casapueblo.com.uy/" },
-      { "name": "Faro de Punta del Este (Lighthouse)", "url": "https://www.gub.uy/ministerio-turismo/" },
-      { "name": "Puerto de Punta del Este (Port)", "url": "https://www.maldonado.gub.uy/" }
+      {
+        "name": "Casapueblo — Museo Taller",
+        "url": "https://casapueblo.com.uy/"
+      },
+      {
+        "name": "Faro de Punta del Este (Lighthouse)",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      },
+      {
+        "name": "Puerto de Punta del Este (Port)",
+        "url": "https://www.maldonado.gub.uy/"
+      }
     ],
     "tours": [
-      { "name": "Guided City & Beaches Tour", "url": "https://uruguaynatural.com/" },
-      { "name": "Sunset Catamaran Cruise", "url": "https://uruguaynatural.com/" },
-      { "name": "Boat Trip to Isla de Lobos", "url": "https://www.gub.uy/ministerio-turismo/" }
+      {
+        "name": "Guided City & Beaches Tour",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Sunset Catamaran Cruise",
+        "url": "https://uruguaynatural.com/"
+      },
+      {
+        "name": "Boat Trip to Isla de Lobos",
+        "url": "https://www.gub.uy/ministerio-turismo/"
+      }
     ]
   }
 }
